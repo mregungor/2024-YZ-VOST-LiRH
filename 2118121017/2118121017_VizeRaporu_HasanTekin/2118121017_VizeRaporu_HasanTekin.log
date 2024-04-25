@@ -1,0 +1,428 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.6)  25 APR 2024 18:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./2118121017_VizeRaporu_HasanTekin.tex
+(2118121017_VizeRaporu_HasanTekin.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen143
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-defaul
+ts.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip50
+\thanksmargin=\skip51
+\droptitle=\skip52
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box51
+) (2118121017_VizeRaporu_HasanTekin.aux)
+\openout1 = `2118121017_VizeRaporu_HasanTekin.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen145
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.def
+File: fc-english.def 2016/01/12
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 26.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 26.
+[1
+
+{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+<./images/Vuforia2.PNG, id=7, 838.93425pt x 346.896pt>
+File: ./images/Vuforia2.PNG Graphic file (type png)
+<use ./images/Vuforia2.PNG>
+Package pdftex.def Info: ./images/Vuforia2.PNG  used on input line 47.
+(pdftex.def)             Requested size: 838.9322pt x 346.89514pt.
+<./images/Vuforia3.PNG, id=9, 891.93225pt x 250.536pt>
+File: ./images/Vuforia3.PNG Graphic file (type png)
+<use ./images/Vuforia3.PNG>
+Package pdftex.def Info: ./images/Vuforia3.PNG  used on input line 58.
+(pdftex.def)             Requested size: 891.93007pt x 250.53537pt.
+ [2 <./images/Vuforia2.PNG> <./images/Vuforia3.PNG>]
+<./images/Vuforia4.PNG, id=15, 637.78275pt x 309.5565pt>
+File: ./images/Vuforia4.PNG Graphic file (type png)
+<use ./images/Vuforia4.PNG>
+Package pdftex.def Info: ./images/Vuforia4.PNG  used on input line 69.
+(pdftex.def)             Requested size: 637.78119pt x 309.55574pt.
+<./images/Vuforia5.PNG, id=16, 870.25125pt x 404.712pt>
+File: ./images/Vuforia5.PNG Graphic file (type png)
+<use ./images/Vuforia5.PNG>
+Package pdftex.def Info: ./images/Vuforia5.PNG  used on input line 78.
+(pdftex.def)             Requested size: 870.24913pt x 404.71101pt.
+ [3 <./images/Vuforia4.PNG> <./images/Vuforia5.PNG>]
+<./images/Vuforia6.PNG, id=22, 841.34325pt x 390.258pt>
+File: ./images/Vuforia6.PNG Graphic file (type png)
+<use ./images/Vuforia6.PNG>
+Package pdftex.def Info: ./images/Vuforia6.PNG  used on input line 87.
+(pdftex.def)             Requested size: 841.34119pt x 390.25703pt.
+<./images/Vuforia7.PNG, id=23, 422.7795pt x 288.47775pt>
+File: ./images/Vuforia7.PNG Graphic file (type png)
+<use ./images/Vuforia7.PNG>
+Package pdftex.def Info: ./images/Vuforia7.PNG  used on input line 95.
+(pdftex.def)             Requested size: 422.77846pt x 288.47704pt.
+<./images/Vuforia8.PNG, id=24, 421.575pt x 286.06876pt>
+File: ./images/Vuforia8.PNG Graphic file (type png)
+<use ./images/Vuforia8.PNG>
+Package pdftex.def Info: ./images/Vuforia8.PNG  used on input line 103.
+(pdftex.def)             Requested size: 421.57396pt x 286.06805pt.
+ [4 <./images/Vuforia6.PNG> <./images/Vuforia7.PNG>]
+<./images/Vuforia9.PNG, id=30, 838.93425pt x 370.986pt>
+File: ./images/Vuforia9.PNG Graphic file (type png)
+<use ./images/Vuforia9.PNG>
+Package pdftex.def Info: ./images/Vuforia9.PNG  used on input line 112.
+(pdftex.def)             Requested size: 838.9322pt x 370.98508pt.
+ [5 <./images/Vuforia8.PNG> <./images/Vuforia9.PNG>]
+<./images/Vuforia10.PNG, id=36, 835.923pt x 269.20575pt>
+File: ./images/Vuforia10.PNG Graphic file (type png)
+<use ./images/Vuforia10.PNG>
+Package pdftex.def Info: ./images/Vuforia10.PNG  used on input line 121.
+(pdftex.def)             Requested size: 835.92096pt x 269.20508pt.
+ [6 <./images/Vuforia10.PNG>]
+<./images/Vuforia12.PNG, id=41, 293.898pt x 403.5075pt>
+File: ./images/Vuforia12.PNG Graphic file (type png)
+<use ./images/Vuforia12.PNG>
+Package pdftex.def Info: ./images/Vuforia12.PNG  used on input line 130.
+(pdftex.def)             Requested size: 293.89726pt x 403.50652pt.
+<./images/Vuforia13.PNG, id=42, 300.52275pt x 403.5075pt>
+File: ./images/Vuforia13.PNG Graphic file (type png)
+<use ./images/Vuforia13.PNG>
+Package pdftex.def Info: ./images/Vuforia13.PNG  used on input line 138.
+(pdftex.def)             Requested size: 300.522pt x 403.50652pt.
+<./images/Vuforia14.PNG, id=43, 835.32076pt x 375.804pt>
+File: ./images/Vuforia14.PNG Graphic file (type png)
+<use ./images/Vuforia14.PNG>
+Package pdftex.def Info: ./images/Vuforia14.PNG  used on input line 146.
+(pdftex.def)             Requested size: 835.31871pt x 375.80309pt.
+ [7 <./images/Vuforia12.PNG>]
+
+LaTeX Warning: Text page 8 contains only floats.
+
+[8 <./images/Vuforia13.PNG>]
+<./images/Vuforia15.PNG, id=53, 398.6895pt x 288.47775pt>
+File: ./images/Vuforia15.PNG Graphic file (type png)
+<use ./images/Vuforia15.PNG>
+Package pdftex.def Info: ./images/Vuforia15.PNG  used on input line 155.
+(pdftex.def)             Requested size: 398.68852pt x 288.47704pt.
+ [9 <./images/Vuforia14.PNG> <./images/Vuforia15.PNG>] [10]
+<./images/dinoAR.PNG, id=62, 407.72325pt x 451.6875pt>
+File: ./images/dinoAR.PNG Graphic file (type png)
+<use ./images/dinoAR.PNG>
+Package pdftex.def Info: ./images/dinoAR.PNG  used on input line 193.
+(pdftex.def)             Requested size: 312.00119pt x 345.64319pt.
+
+Overfull \hbox (7.27226pt too wide) in paragraph at lines 197--198
+[][]\OT1/cmr/m/n/12 ekil 14[] de g^^?osterildi^^Ugi gibi bu kod Unity uygu-la-m
+alar^^Pnda kul-lan^^Pc^^P aray^^?uz^^?u
+ []
+
+[11 <./images/dinoAR.PNG>]
+<./images/dinoAR2.PNG, id=67, 436.029pt x 501.67426pt>
+File: ./images/dinoAR2.PNG Graphic file (type png)
+<use ./images/dinoAR2.PNG>
+Package pdftex.def Info: ./images/dinoAR2.PNG  used on input line 202.
+(pdftex.def)             Requested size: 312.00119pt x 358.9929pt.
+ [12 <./images/dinoAR2.PNG>]
+Overfull \hbox (8.807pt too wide) in paragraph at lines 230--231
+[]\OT1/cmr/m/n/12 ARCore En-te-grasy-onu: Uygu-lama, Google'^^Pn AR-Core art^^P
+r^^Plm^^P^^Xs ger^^Xceklik
+ []
+
+[13]
+<./images/Ekran.PNG, id=76, 551.05875pt x 457.10776pt>
+File: ./images/Ekran.PNG Graphic file (type png)
+<use ./images/Ekran.PNG>
+Package pdftex.def Info: ./images/Ekran.PNG  used on input line 237.
+(pdftex.def)             Requested size: 312.00119pt x 258.81737pt.
+<./images/Ekran2.PNG, id=77, 1047.915pt x 458.31226pt>
+File: ./images/Ekran2.PNG Graphic file (type png)
+<use ./images/Ekran2.PNG>
+Package pdftex.def Info: ./images/Ekran2.PNG  used on input line 245.
+(pdftex.def)             Requested size: 312.00119pt x 136.45273pt.
+ [14 <./images/Ekran.PNG> <./images/Ekran2.PNG>]
+Overfull \hbox (3.03342pt too wide) in paragraph at lines 250--251
+\OT1/cmr/m/n/12 bas^^Plmam^^P^^Xssa, mo-bilyan^^Pn yerle^^Xstirilmesi i^^Xcin g
+erekli i^^Xslemler ger^^Xcekle^^Xstirilir.[[]] 
+ []
+
+<./images/Ekran4.PNG, id=83, 787.14075pt x 196.93575pt>
+File: ./images/Ekran4.PNG Graphic file (type png)
+<use ./images/Ekran4.PNG>
+Package pdftex.def Info: ./images/Ekran4.PNG  used on input line 255.
+(pdftex.def)             Requested size: 312.00119pt x 78.0607pt.
+<./images/Ekran5.PNG, id=84, 587.796pt x 71.0655pt>
+File: ./images/Ekran5.PNG Graphic file (type png)
+<use ./images/Ekran5.PNG>
+Package pdftex.def Info: ./images/Ekran5.PNG  used on input line 264.
+(pdftex.def)             Requested size: 312.00119pt x 37.72198pt.
+[15 <./images/Ekran4.PNG> <./images/Ekran5.PNG>]
+<./images/koltuk.jpeg, id=90, 1027.84pt x 2055.68pt>
+File: ./images/koltuk.jpeg Graphic file (type jpg)
+<use ./images/koltuk.jpeg>
+Package pdftex.def Info: ./images/koltuk.jpeg  used on input line 274.
+(pdftex.def)             Requested size: 131.03825pt x 262.0722pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 276.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 276.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 276.
+<./images/koltuk2.jpeg, id=91, 1027.84pt x 2055.68pt>
+File: ./images/koltuk2.jpeg Graphic file (type jpg)
+<use ./images/koltuk2.jpeg>
+Package pdftex.def Info: ./images/koltuk2.jpeg  used on input line 279.
+(pdftex.def)             Requested size: 131.03825pt x 262.0722pt.
+ [16 <./images/koltuk.jpeg> <./images/koltuk2.jpeg>] [17]
+Overfull \hbox (3.82056pt too wide) in paragraph at lines 297--298
+[]\OT1/cmr/m/n/12 Nuitrack, 3DiVi Inc. taraf^^Pndan geli^^Xstirilen bir 3D izle
+me ara yaz^^Pl^^Pm^^Pd^^Pr.
+ []
+
+
+Overfull \hbox (6.36255pt too wide) in paragraph at lines 297--298
+\OT1/cmr/m/n/12 yetenek-lerini sa^^Uglayan iskelet izleme ve hareket tan^^Pma i
+^^Xcin bir ^^Xc^^?oz^^?umd^^?ur. 
+ []
+
+[18]
+<./images/Nuitrack.PNG, id=101, 433.62pt x 375.20175pt>
+File: ./images/Nuitrack.PNG Graphic file (type png)
+<use ./images/Nuitrack.PNG>
+Package pdftex.def Info: ./images/Nuitrack.PNG  used on input line 315.
+(pdftex.def)             Requested size: 312.00119pt x 269.97902pt.
+ [19 <./images/Nuitrack.PNG>]
+<./images/Nuitrack1.jpg, id=107, 796.47563pt x 542.025pt>
+File: ./images/Nuitrack1.jpg Graphic file (type jpg)
+<use ./images/Nuitrack1.jpg>
+Package pdftex.def Info: ./images/Nuitrack1.jpg  used on input line 325.
+(pdftex.def)             Requested size: 312.00119pt x 212.32347pt.
+ [20 <./images/Nuitrack1.jpg>]
+<./images/unityHataPNG.PNG, id=111, 956.97525pt x 157.7895pt>
+File: ./images/unityHataPNG.PNG Graphic file (type png)
+<use ./images/unityHataPNG.PNG>
+Package pdftex.def Info: ./images/unityHataPNG.PNG  used on input line 359.
+(pdftex.def)             Requested size: 312.00119pt x 51.44229pt.
+ [21 <./images/unityHataPNG.PNG>]
+Overfull \hbox (10.16956pt too wide) in paragraph at lines 376--377
+[]\OT1/cmr/m/n/12 Art^^Pr^^Plm^^P^^Xs ger^^Xceklik (AR) g^^?un^^?um^^?uz yaz^^P
+l^^Pm end^^?ustrisinde en h^^Pzl^^P b^^?uy^^?uyen
+ []
+
+
+Overfull \hbox (8.51357pt too wide) in paragraph at lines 378--379
+[]\OT1/cmr/m/n/12 S^^Pf^^Prdan bir AR uygu-la-mas^^P geli^^Xstirmek ko-lay bir 
+i^^Xs de^^Ugildir. G^^?or^^?unt^^?uleme
+ []
+
+[22]
+<./images/ARFoundation.PNG, id=119, 175.25475pt x 369.17924pt>
+File: ./images/ARFoundation.PNG Graphic file (type png)
+<use ./images/ARFoundation.PNG>
+Package pdftex.def Info: ./images/ARFoundation.PNG  used on input line 387.
+(pdftex.def)             Requested size: 224.83873pt x 473.6018pt.
+ [23 <./images/ARFoundation.PNG>]
+Overfull \hbox (21.15686pt too wide) in paragraph at lines 409--410
+[]\OT1/cmr/m/n/12 MediaPipe, Google taraf^^Pndan geli^^Xstirilen bir a^^Xc^^Pk 
+kay-nakl^^P bir k^^?ut^^?uphanedir
+ []
+
+<./images/mediaPipe.PNG, id=124, 578.16pt x 328.8285pt>
+File: ./images/mediaPipe.PNG Graphic file (type png)
+<use ./images/mediaPipe.PNG>
+Package pdftex.def Info: ./images/mediaPipe.PNG  used on input line 414.
+(pdftex.def)             Requested size: 312.00119pt x 177.44934pt.
+
+Overfull \hbox (30.74147pt too wide) in paragraph at lines 418--419
+[]\OT1/cmr/m/n/12 ekil 26[] de g^^?osterilen bu g^^?orsel me-di-aPipe'^^Pn kul-
+lan^^Pm alan-lar^^Pn^^P g^^?ostermektedir.[[]] 
+ []
+
+[24 <./images/mediaPipe.PNG>]
+<./images/Ben2.png, id=129, 216.81pt x 338.4645pt>
+File: ./images/Ben2.png Graphic file (type png)
+<use ./images/Ben2.png>
+Package pdftex.def Info: ./images/Ben2.png  used on input line 429.
+(pdftex.def)             Requested size: 303.39629pt x 473.6018pt.
+ [25]
+<./images/Klon.PNG, id=134, 643.203pt x 316.18124pt>
+File: ./images/Klon.PNG Graphic file (type png)
+<use ./images/Klon.PNG>
+Package pdftex.def Info: ./images/Klon.PNG  used on input line 438.
+(pdftex.def)             Requested size: 312.00119pt x 153.37184pt.
+ [26 <./images/Ben2.png>] [27 <./images/Klon.PNG>] (2118121017_VizeRaporu_Hasan
+Tekin.bbl) [28]
+(2118121017_VizeRaporu_HasanTekin.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3038 strings out of 474485
+ 51699 string characters out of 5744207
+ 1930542 words of memory out of 5000000
+ 25314 multiletter control sequences out of 15000+600000
+ 563267 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,9n,79p,1048b,372s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr12.pfb>
+Output written on 2118121017_VizeRaporu_HasanTekin.pdf (28 pages, 2908628 bytes
+).
+PDF statistics:
+ 161 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+

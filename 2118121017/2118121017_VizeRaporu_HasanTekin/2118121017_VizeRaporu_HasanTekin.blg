@@ -1,0 +1,71 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: 2118121017_VizeRaporu_HasanTekin.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Database file #1: references.bib
+Warning--entry type for "GitHub" isn't style-file defined
+--line 101 of file references.bib
+Warning--entry type for "Encyclopedia" isn't style-file defined
+--line 115 of file references.bib
+Warning--entry type for "drive" isn't style-file defined
+--line 129 of file references.bib
+Warning--entry type for "FurnishAR" isn't style-file defined
+--line 143 of file references.bib
+Warning--entry type for "MediaPipe" isn't style-file defined
+--line 157 of file references.bib
+Warning--entry type for "ARFoundation" isn't style-file defined
+--line 171 of file references.bib
+Warning--entry type for "Youtube" isn't style-file defined
+--line 185 of file references.bib
+Warning--entry type for "3dPointCloud" isn't style-file defined
+--line 201 of file references.bib
+Warning--entry type for "3DiVi" isn't style-file defined
+--line 215 of file references.bib
+Warning--entry type for "3DiViBasic" isn't style-file defined
+--line 229 of file references.bib
+Warning--entry type for "Vuforia" isn't style-file defined
+--line 243 of file references.bib
+You've used 11 entries,
+            1876 wiz_defined-function locations,
+            521 strings with 4356 characters,
+and the built_in function-call counts, 1355 in all, are:
+= -- 110
+> -- 44
+< -- 0
++ -- 22
+- -- 11
+* -- 46
+:= -- 200
+add.period$ -- 11
+call.type$ -- 11
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 44
+empty$ -- 199
+format.name$ -- 11
+if$ -- 342
+int.to.chr$ -- 0
+int.to.str$ -- 11
+missing$ -- 0
+newline$ -- 36
+num.names$ -- 11
+pop$ -- 77
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 43
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 11
+width$ -- 13
+write$ -- 79
+(There were 11 warnings)
