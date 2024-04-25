@@ -1,0 +1,382 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.22)  25 APR 2024 21:39
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./vizeRaporu.tex
+(vizeRaporu.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\caption@tempdima=\dimen141
+\captionmargin=\dimen142
+\caption@leftmargin=\dimen143
+\caption@rightmargin=\dimen144
+\caption@width=\dimen145
+\caption@indent=\dimen146
+\caption@parindent=\dimen147
+\caption@hangindent=\dimen148
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count195
+\c@continuedfloat=\count196
+)
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
+\l__pdf_internal_box=\box51
+) (vizeRaporu.aux
+
+LaTeX Warning: Label `dogruluk' multiply defined.
+
+)
+\openout1 = `vizeRaporu.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen151
+\scratchbox=\box52
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen152
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Celal\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<./images/ksbu.png, id=1, 170.6375pt x 171.64125pt>
+File: ./images/ksbu.png Graphic file (type png)
+<use ./images/ksbu.png>
+Package pdftex.def Info: ./images/ksbu.png  used on input line 18.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+ [1
+
+{C:/Users/Celal/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/ksb
+u.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 22.
+ [2]
+<./images/hastalikdunya.png, id=12, 943.72575pt x 443.85825pt>
+File: ./images/hastalikdunya.png Graphic file (type png)
+<use ./images/hastalikdunya.png>
+Package pdftex.def Info: ./images/hastalikdunya.png  used on input line 42.
+(pdftex.def)             Requested size: 943.72345pt x 443.85715pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+[][]
+ []
+
+[3 <./images/hastalikdunya.png>]
+<./images/dogruluk.png, id=18, 516.12825pt x 233.07076pt>
+File: ./images/dogruluk.png Graphic file (type png)
+<use ./images/dogruluk.png>
+Package pdftex.def Info: ./images/dogruluk.png  used on input line 66.
+(pdftex.def)             Requested size: 516.12698pt x 233.07018pt.
+ [4]
+<./images/gantt.png, id=22, 1139.457pt x 458.9145pt>
+File: ./images/gantt.png Graphic file (type png)
+<use ./images/gantt.png>
+Package pdftex.def Info: ./images/gantt.png  used on input line 75.
+(pdftex.def)             Requested size: 390.0pt x 157.07222pt.
+ [5 <./images/dogruluk.png> <./images/gantt.png>] [6]
+<./images/resim3.png, id=31, 543.2295pt x 195.73125pt>
+File: ./images/resim3.png Graphic file (type png)
+<use ./images/resim3.png>
+Package pdftex.def Info: ./images/resim3.png  used on input line 102.
+(pdftex.def)             Requested size: 543.22816pt x 195.73076pt.
+ [7 <./images/resim3.png>]
+<./images/resim1.png, id=37, 627.5445pt x 286.06876pt>
+File: ./images/resim1.png Graphic file (type png)
+<use ./images/resim1.png>
+Package pdftex.def Info: ./images/resim1.png  used on input line 111.
+(pdftex.def)             Requested size: 627.54295pt x 286.06805pt.
+<./images/resim2.png, id=38, 602.25pt x 199.34476pt>
+File: ./images/resim2.png Graphic file (type png)
+<use ./images/resim2.png>
+Package pdftex.def Info: ./images/resim2.png  used on input line 121.
+(pdftex.def)             Requested size: 602.24852pt x 199.34425pt.
+ [8 <./images/resim1.png> <./images/resim2.png>]
+<./images/resim4.png, id=44, 603.4545pt x 421.575pt>
+File: ./images/resim4.png Graphic file (type png)
+<use ./images/resim4.png>
+Package pdftex.def Info: ./images/resim4.png  used on input line 145.
+(pdftex.def)             Requested size: 603.45302pt x 421.57396pt.
+ [9 <./images/resim4.png>]
+<./images/resim5.png, id=50, 618.51076pt x 313.17pt>
+File: ./images/resim5.png Graphic file (type png)
+<use ./images/resim5.png>
+Package pdftex.def Info: ./images/resim5.png  used on input line 155.
+(pdftex.def)             Requested size: 618.50923pt x 313.16922pt.
+ [10 <./images/resim5.png>]
+<./images/resim6.png, id=55, 400.49625pt x 268.6035pt>
+File: ./images/resim6.png Graphic file (type png)
+<use ./images/resim6.png>
+Package pdftex.def Info: ./images/resim6.png  used on input line 165.
+(pdftex.def)             Requested size: 400.49527pt x 268.60284pt.
+<./images/4.0.png, id=56, 811.23074pt x 257.16075pt>
+File: ./images/4.0.png Graphic file (type png)
+<use ./images/4.0.png>
+Package pdftex.def Info: ./images/4.0.png  used on input line 178.
+(pdftex.def)             Requested size: 811.22876pt x 257.16011pt.
+<./images/5.0.png, id=57, 869.04675pt x 404.712pt>
+File: ./images/5.0.png Graphic file (type png)
+<use ./images/5.0.png>
+Package pdftex.def Info: ./images/5.0.png  used on input line 187.
+(pdftex.def)             Requested size: 869.04463pt x 404.71101pt.
+<./images/6.0.png, id=58, 856.3995pt x 353.52075pt>
+File: ./images/6.0.png Graphic file (type png)
+<use ./images/6.0.png>
+Package pdftex.def Info: ./images/6.0.png  used on input line 197.
+(pdftex.def)             Requested size: 856.39742pt x 353.51988pt.
+ [11 <./images/resim6.png> <./images/4.0.png>] [12 <./images/5.0.png> <./images
+/6.0.png>]
+<./images/7.0.png, id=69, 849.77475pt x 375.20175pt>
+File: ./images/7.0.png Graphic file (type png)
+<use ./images/7.0.png>
+Package pdftex.def Info: ./images/7.0.png  used on input line 206.
+(pdftex.def)             Requested size: 849.77267pt x 375.20082pt.
+<./images/8.0.png, id=70, 861.81975pt x 342.078pt>
+File: ./images/8.0.png Graphic file (type png)
+<use ./images/8.0.png>
+Package pdftex.def Info: ./images/8.0.png  used on input line 214.
+(pdftex.def)             Requested size: 861.81766pt x 342.07715pt.
+ [13 <./images/7.0.png> <./images/8.0.png>]
+<./images/9.0.png, id=77, 864.831pt x 379.4175pt>
+File: ./images/9.0.png Graphic file (type png)
+<use ./images/9.0.png>
+Package pdftex.def Info: ./images/9.0.png  used on input line 223.
+(pdftex.def)             Requested size: 864.82889pt x 379.41656pt.
+<./images/10.0.png, id=78, 864.22874pt x 320.397pt>
+File: ./images/10.0.png Graphic file (type png)
+<use ./images/10.0.png>
+Package pdftex.def Info: ./images/10.0.png  used on input line 231.
+(pdftex.def)             Requested size: 864.22662pt x 320.39621pt.
+ [14 <./images/9.0.png> <./images/10.0.png>]
+<./images/11.0.png, id=84, 376.40625pt x 172.84575pt>
+File: ./images/11.0.png Graphic file (type png)
+<use ./images/11.0.png>
+Package pdftex.def Info: ./images/11.0.png  used on input line 240.
+(pdftex.def)             Requested size: 376.40532pt x 172.8453pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 244.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 244.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 244.
+<./images/1.png, id=85, 882.8985pt x 425.79076pt>
+File: ./images/1.png Graphic file (type png)
+<use ./images/1.png>
+Package pdftex.def Info: ./images/1.png  used on input line 260.
+(pdftex.def)             Requested size: 882.89633pt x 425.78972pt.
+<./images/2.png, id=86, 284.86424pt x 492.03825pt>
+File: ./images/2.png Graphic file (type png)
+<use ./images/2.png>
+Package pdftex.def Info: ./images/2.png  used on input line 269.
+(pdftex.def)             Requested size: 284.86354pt x 492.03705pt.
+
+
+LaTeX Warning: Float too large for page by 107.0306pt on input line 271.
+
+[15 <./images/11.0.png>] [16 <./images/1.png>] [17 <./images/2.png>]
+<./images/3.png, id=104, 566.115pt x 121.6545pt>
+File: ./images/3.png Graphic file (type png)
+<use ./images/3.png>
+Package pdftex.def Info: ./images/3.png  used on input line 276.
+(pdftex.def)             Requested size: 566.11362pt x 121.65419pt.
+<./images/4.png, id=105, 549.252pt x 94.55325pt>
+File: ./images/4.png Graphic file (type png)
+<use ./images/4.png>
+Package pdftex.def Info: ./images/4.png  used on input line 283.
+(pdftex.def)             Requested size: 549.25066pt x 94.55301pt.
+<./images/5.png, id=106, 684.156pt x 107.2005pt>
+File: ./images/5.png Graphic file (type png)
+<use ./images/5.png>
+Package pdftex.def Info: ./images/5.png  used on input line 290.
+(pdftex.def)             Requested size: 684.15433pt x 107.20023pt.
+<./images/6.png, id=107, 644.4075pt x 97.5645pt>
+File: ./images/6.png Graphic file (type png)
+<use ./images/6.png>
+Package pdftex.def Info: ./images/6.png  used on input line 296.
+(pdftex.def)             Requested size: 644.40593pt x 97.56424pt.
+<./images/7.png, id=108, 672.111pt x 93.951pt>
+File: ./images/7.png Graphic file (type png)
+<use ./images/7.png>
+Package pdftex.def Info: ./images/7.png  used on input line 302.
+(pdftex.def)             Requested size: 672.10934pt x 93.95078pt.
+<./images/8.png, id=109, 581.7735pt x 100.57574pt>
+File: ./images/8.png Graphic file (type png)
+<use ./images/8.png>
+Package pdftex.def Info: ./images/8.png  used on input line 308.
+(pdftex.def)             Requested size: 581.77208pt x 100.57549pt.
+<./images/9.png, id=110, 626.94225pt x 166.82326pt>
+File: ./images/9.png Graphic file (type png)
+<use ./images/9.png>
+Package pdftex.def Info: ./images/9.png  used on input line 314.
+(pdftex.def)             Requested size: 626.94072pt x 166.82285pt.
+ [18 <./images/3.png> <./images/4.png> <./images/5.png>] [19 <./images/6.png> <
+./images/7.png> <./images/8.png> <./images/9.png>]
+<./images/10.png, id=125, 678.73575pt x 130.68825pt>
+File: ./images/10.png Graphic file (type png)
+<use ./images/10.png>
+Package pdftex.def Info: ./images/10.png  used on input line 324.
+(pdftex.def)             Requested size: 678.73409pt x 130.68791pt.
+<./images/11.png, id=126, 819.06pt x 345.08925pt>
+File: ./images/11.png Graphic file (type png)
+<use ./images/11.png>
+Package pdftex.def Info: ./images/11.png  used on input line 333.
+(pdftex.def)             Requested size: 819.058pt x 345.08841pt.
+
+
+Package caption Warning: \label without proper reference on input line 325.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:yenietiket' on page 20 undefined on input line 33
+7.
+
+<./images/13.png, id=127, 823.878pt x 224.037pt>
+File: ./images/13.png Graphic file (type png)
+<use ./images/13.png>
+Package pdftex.def Info: ./images/13.png  used on input line 343.
+(pdftex.def)             Requested size: 823.87599pt x 224.03644pt.
+[20 <./images/10.png> <./images/11.png>]
+
+Package caption Warning: \label without proper reference on input line 334.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:yenietiket2' on page 21 undefined on input line 3
+47.
+
+<./images/14.png, id=133, 578.16pt x 420.3705pt>
+File: ./images/14.png Graphic file (type png)
+<use ./images/14.png>
+Package pdftex.def Info: ./images/14.png  used on input line 355.
+(pdftex.def)             Requested size: 578.15858pt x 420.36948pt.
+[21 <./images/13.png> <./images/14.png>] (vizeRaporu.bbl
+Overfull \hbox (56.16898pt too wide) in paragraph at lines 7--10
+\OT1/cmr/m/n/12 ``https://www.arcgis.com/apps/dashboards/bda7594740fd4029942346
+7b48e9ecf6,'' 
+ []
+
+[22]) [23] (vizeRaporu.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3065 strings out of 474485
+ 55697 string characters out of 5743734
+ 1932542 words of memory out of 5000000
+ 25375 multiletter control sequences out of 15000+600000
+ 563614 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,9n,65p,1543b,332s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Celal\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/Celal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/Celal/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb><C:/Users/Celal/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Celal/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Celal/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Celal/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Celal/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Cel
+al/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
+Users/Celal/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on vizeRaporu.pdf (23 pages, 1812514 bytes).
+PDF statistics:
+ 188 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+

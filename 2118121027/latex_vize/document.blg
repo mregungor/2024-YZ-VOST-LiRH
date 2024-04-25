@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+Database file #1: document_vize.bib
+Warning--entry type for "haber1" isn't style-file defined
+--line 33 of file document_vize.bib
+Warning--entry type for "site1" isn't style-file defined
+--line 49 of file document_vize.bib
+Repeated entry---line 63 of file document_vize.bib
+ :   @online{site1
+ :                ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "site2" isn't style-file defined
+--line 77 of file document_vize.bib
+Warning--entry type for "site3" isn't style-file defined
+--line 93 of file document_vize.bib
+Warning--entry type for "site4" isn't style-file defined
+--line 109 of file document_vize.bib
+Warning--entry type for "site11" isn't style-file defined
+--line 125 of file document_vize.bib
+Warning--entry type for "siteSaglik" isn't style-file defined
+--line 139 of file document_vize.bib
+Warning--all relevant fields are empty in siteSaglik
+You've used 12 entries,
+            1876 wiz_defined-function locations,
+            533 strings with 5369 characters,
+and the built_in function-call counts, 2410 in all, are:
+= -- 218
+> -- 94
+< -- 0
++ -- 38
+- -- 26
+* -- 121
+:= -- 325
+add.period$ -- 10
+call.type$ -- 12
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 127
+empty$ -- 259
+format.name$ -- 26
+if$ -- 606
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 5
+newline$ -- 40
+num.names$ -- 11
+pop$ -- 57
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 127
+stack$ -- 0
+substring$ -- 88
+swap$ -- 55
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 18
+width$ -- 14
+write$ -- 95
+(There was 1 error message)
