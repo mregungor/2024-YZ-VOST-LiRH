@@ -1,0 +1,92 @@
+\begin{thebibliography}{10}
+
+\bibitem{stokfoto}
+Stok fotoğraf, 2013.
+\newblock Stok Fotoğraf ID: 175949673, Yükleme Tarihi: 7 Ağustos 2013,
+  Kategoriler: Stok Fotoğraflar|Gavyal.
+
+\bibitem{allibhai}
+Jaz Allibhai.
+\newblock Building a deep learning model using keras.
+\newblock {\em Towards Data Science}, 2022.
+\newblock
+  https://towardsdatascience.com/building-a-deep-learning-model-using-keras-1548ca149d37.
+
+\bibitem{bergmann2024zero}
+Dave Bergmann.
+\newblock Zero-shot learning.
+\newblock {\em IBM Topics}, 2024.
+\newblock
+  \url{https://stackoverflow.com/questions/75503261/an-exception-has-occurred-use-tb-to-see-the-full-traceback-systemexit-2}.
+
+\bibitem{CB_Acnt}
+CBAcnt.
+\newblock An exception has occurred, use %tb to see the full traceback.
+  systemexit: 2.
+\newblock Sistem Çıkışı: 2.
+\newblock
+  \url{https://stackoverflow.com/questions/75503261/an-exception-has-occurred-use-tb-to-see-the-full-traceback-systemexit-2}.
+
+\bibitem{ceylan2014hayvanlar}
+Erdal Ceylan.
+\newblock Dünyanın en İlginç ve en bilinmeyen hayvanları, 2014.
+\newblock Son Güncelleme: 6 Temmuz 2022.
+
+\bibitem{devhunter2018}
+DevHunter.
+\newblock Tensorflow'un temeli ve mantığı.
+\newblock {\em DevHunter}, June 2018.
+
+\bibitem{2018composition2}
+Haroon Idrees, Muhammad Tayyab, Karthik Athrey, Dong Zhang, Saad Al-Maddeed,
+  Nasir Rajpoot, and Mubarak Shah.
+\newblock Composition loss for counting, density map estimation and
+  localization in dense crowds.
+\newblock In {\em Proceedings of IEEE European Conference on Computer Vision
+  (ECCV 2018)}, Munich, Germany, September 8-14 2018. IEEE.
+
+\bibitem{idrees2018composition}
+Haroon Idrees, Muhmmad Tayyab, Kishan Athrey, Dong Zhang, Somaya Al-Maadeed,
+  Nasir Rajpoot, and Mubarak Shah.
+\newblock Composition loss for counting, density map estimation and
+  localization in dense crowds.
+\newblock In {\em Proceedings of the European conference on computer vision
+  (ECCV)}, pages 532--546, 2018.
+
+\bibitem{johnson2023}
+Daniel Johnson.
+\newblock Tensorflow temelleri: Tensör, Şekil, tür, oturumlar ve operaları.
+\newblock {\em Guru99}, December 2023.
+\newblock \url{https://www.guru99.com/tr/tensor-tensorflow.html}.
+
+\bibitem{ma2024clip}
+Yiming Ma, Victor Sanchez, and Tanaya Guha.
+\newblock Clip-ebc: Clip can count accurately through enhanced blockwise
+  classification.
+\newblock {\em arXiv preprint arXiv:2403.09281}, 2024.
+
+\bibitem{wang2020nwpu}
+Jianfeng Wang, Xinggang Wang, Wenguan Gao, Shiming Zhang, Jianbing Shen, and
+  Ling Shao.
+\newblock The nwpu-crowd dataset.
+\newblock \url{https://www.crowdbenchmark.com/nwpucrowd.html}.
+\newblock The NWPU-Crowd Dataset is constructed by Wang et al. from NWPU. It is
+  a large-scale congested crowd counting dataset that consists of 5,109 images
+  crawled from the Internet, elaborately annotating 2,133,375 instances. If you
+  would like to submit your results, please register, login, and read the
+  guideline.
+
+\bibitem{yegulalp2024}
+Serdar Yegulalp.
+\newblock What is tensorflow? the machine learning library explained.
+\newblock {\em InfoWorld}, January 2024.
+\newblock
+  \url{https://www.infoworld.com/article/3278008/what-is-tensorflow-the-machine-learning-library-explained.html}.
+
+\bibitem{shanghaitechdataset}
+Desen Zhou.
+\newblock Shanghaitechdataset.
+\newblock \url{https://github.com/desenzhou/ShanghaiTechDataset}, 2017.
+\newblock GitHub reposuna , erişim tarihi 23 nisan 2024.
+
+\end{thebibliography}
