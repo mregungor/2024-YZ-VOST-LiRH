@@ -1,0 +1,435 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.1)  14 MAR 2024 21:38
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./ornek1.tex
+(ornek1.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\hande_OZ\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\hande_OZ\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\hande_OZ\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\hande_OZ\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(C:\hande_OZ\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\hande_OZ\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\hande_OZ\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\hande_OZ\tex/generic/xkeyval\xkeyval.tex
+(C:\hande_OZ\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(C:\hande_OZ\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\hande_OZ\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\hande_OZ\tex/latex/fmtcount\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\hande_OZ\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\hande_OZ\tex/latex/datetime\datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks20
+\dt@b=\toks21
+)
+(C:\hande_OZ\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\hande_OZ\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+(C:\hande_OZ\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\hande_OZ\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\hande_OZ\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\hande_OZ\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\hande_OZ\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\hande_OZ\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\hande_OZ\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\hande_OZ\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count288
+\Gm@cntv=\count289
+\c@Gm@tempcnt=\count290
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks24
+
+(C:\hande_OZ\tex/latex/geometry\geometry.cfg))
+(C:\hande_OZ\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\hande_OZ\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\hande_OZ\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\hande_OZ\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+
+(C:\hande_OZ\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\hande_OZ\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\hande_OZ\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box51
+)
+\tc@llx=\dimen152
+\tc@lly=\dimen153
+\tc@urx=\dimen154
+\tc@ury=\dimen155
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\hande_OZ\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen156
+\adjbox@Height=\dimen157
+\adjbox@Depth=\dimen158
+\adjbox@Totalheight=\dimen159
+\adjbox@pwidth=\dimen160
+\adjbox@pheight=\dimen161
+\adjbox@pdepth=\dimen162
+\adjbox@ptotalheight=\dimen163
+
+(C:\hande_OZ\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count291
+)
+(C:\hande_OZ\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count292
+\@vwid@loff=\dimen164
+\@vwid@roff=\dimen165
+))
+(C:\hande_OZ\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count293
+\l__pdf_internal_box=\box53
+) (ornek1.aux)
+\openout1 = `ornek1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+(C:\hande_OZ\tex/latex/fmtcount\fc-english.def
+File: fc-english.def 2016/01/12
+)
+(C:\hande_OZ\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count294
+\scratchdimen=\dimen166
+\scratchbox=\box54
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen167
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks26
+) (C:\hande_OZ\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\hande_OZ\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+
+LaTeX Warning: No \author given.
+
+<images/ksbu.png, id=1, 127.97812pt x 128.73094pt>
+File: images/ksbu.png Graphic file (type png)
+<use images/ksbu.png>
+Package pdftex.def Info: images/ksbu.png  used on input line 20.
+(pdftex.def)             Requested size: 127.9778pt x 128.7306pt.
+[1
+
+{C:/Users/HandeOZ.LAPTOP-UCJ03Q0U/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.
+map} <./images/ksbu.png>]
+Overfull \hbox (8.3002pt too wide) in paragraph at lines 53--56
+[]\T1/cmr/m/n/12 Projemize yak^^Yn olarak yap^^Ylan çal^^Y³-malar vard^^Yr Bu m
+akalede, sino-fobi (köpek-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+
+Overfull \hbox (10.61913pt too wide) in paragraph at lines 68--70
+\T1/cmr/m/n/12 Bu çal^^Y³-mada gerekli ko³ullar sa§-land^^Y§^^Ynda köpek ko-rku
+su-nun önüne geçilebile-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+
+Overfull \hbox (7.9435pt too wide) in paragraph at lines 72--74
+\T1/cmr/m/n/12 Bu çal^^Y³ma hay-vanat bahçesinde geçiyor orada so-rumlu olan ad
+am bu makalede
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Overfull \hbox (13.84319pt too wide) in paragraph at lines 85--86
+[]\T1/cmr/m/n/12 Python:Python, kul-lan^^Ym^^Y ko-lay,yüksek se-viyeli bir bir 
+pro-gram-lama di-lidir.Web
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+[2]
+<images/images.jpeg, id=17, 302.12875pt x 167.62625pt>
+File: images/images.jpeg Graphic file (type jpg)
+<use images/images.jpeg>
+Package pdftex.def Info: images/images.jpeg  used on input line 91.
+(pdftex.def)             Requested size: 292.77629pt x 162.43866pt.
+<images/menubackground.png, id=18, 1606.0pt x 1204.5pt>
+File: images/menubackground.png Graphic file (type png)
+<use images/menubackground.png>
+Package pdftex.def Info: images/menubackground.png  used on input line 98.
+(pdftex.def)             Requested size: 292.77629pt x 219.5759pt.
+
+Overfull \hbox (24.79944pt too wide) in paragraph at lines 98--99
+ []\T1/cmr/m/n/12 [[]][[]]  
+ []
+
+[3 <./images/images.jpeg> <./images/menubackground.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+
+ []
+
+<images/isakisi.png, id=22, 1445.4pt x 813.0375pt>
+File: images/isakisi.png Graphic file (type png)
+<use images/isakisi.png>
+Package pdftex.def Info: images/isakisi.png  used on input line 107.
+(pdftex.def)             Requested size: 376.41267pt x 256.07095pt.
+<ganttchart2.png, id=24, 610.07925pt x 273.4215pt>
+File: ganttchart2.png Graphic file (type png)
+<use ganttchart2.png>
+Package pdftex.def Info: ganttchart2.png  used on input line 117.
+(pdftex.def)             Requested size: 317.43852pt x 142.26378pt.
+[4 <./images/isakisi.png> <./ganttchart2.png>] (ornek1.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 123--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--1
+
+ []
+
+) [5] (ornek1.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 4461 strings out of 474486
+ 70325 string characters out of 5759179
+ 1931542 words of memory out of 5000000
+ 26687 multiletter control sequences out of 15000+600000
+ 565704 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,79p,1022b,338s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\HandeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecti1200.pk> <C:\Users\HandeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\HandeOZ.LAPTOP-UCJ
+03Q0U\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\
+Users\HandeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecbx1728.pk> <C:\Users\HandeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\HandeOZ.LAPTOP-UCJ03Q0U\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk>
+Output written on ornek1.pdf (6 pages, 4500520 bytes).
+PDF statistics:
+ 238 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

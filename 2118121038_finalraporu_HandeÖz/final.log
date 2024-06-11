@@ -1,0 +1,1006 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.1)  12 JUN 2024 01:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./final.tex
+(final.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\hande_OZ\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\hande_OZ\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\hande_OZ\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\hande_OZ\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(C:\hande_OZ\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\hande_OZ\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\hande_OZ\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\hande_OZ\tex/generic/xkeyval\xkeyval.tex
+(C:\hande_OZ\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(C:\hande_OZ\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\hande_OZ\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\hande_OZ\tex/latex/fmtcount\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\hande_OZ\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\hande_OZ\tex/latex/datetime\datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks20
+\dt@b=\toks21
+)
+(C:\hande_OZ\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\hande_OZ\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+)
+(C:\hande_OZ\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\hande_OZ\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\hande_OZ\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\hande_OZ\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\hande_OZ\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\hande_OZ\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\hande_OZ\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\hande_OZ\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count288
+\Gm@cntv=\count289
+\c@Gm@tempcnt=\count290
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks24
+
+(C:\hande_OZ\tex/latex/geometry\geometry.cfg))
+(C:\hande_OZ\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\hande_OZ\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\hande_OZ\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\hande_OZ\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+
+(C:\hande_OZ\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\hande_OZ\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\hande_OZ\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box51
+)
+\tc@llx=\dimen152
+\tc@lly=\dimen153
+\tc@urx=\dimen154
+\tc@ury=\dimen155
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\hande_OZ\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen156
+\adjbox@Height=\dimen157
+\adjbox@Depth=\dimen158
+\adjbox@Totalheight=\dimen159
+\adjbox@pwidth=\dimen160
+\adjbox@pheight=\dimen161
+\adjbox@pdepth=\dimen162
+\adjbox@ptotalheight=\dimen163
+
+(C:\hande_OZ\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count291
+)
+(C:\hande_OZ\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count292
+\@vwid@loff=\dimen164
+\@vwid@roff=\dimen165
+))
+(C:\hande_OZ\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\hande_OZ\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\hande_OZ\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen166
+\captionmargin=\dimen167
+\caption@leftmargin=\dimen168
+\caption@rightmargin=\dimen169
+\caption@width=\dimen170
+\caption@indent=\dimen171
+\caption@parindent=\dimen172
+\caption@hangindent=\dimen173
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count293
+\c@continuedfloat=\count294
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count295
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count296
+)
+(C:\hande_OZ\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count297
+\l__pdf_internal_box=\box53
+) (final.aux
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ornek1' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ornek2' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ornek2' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornekler' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ornek1' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ornek2' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornekler' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ornek1' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek2' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:ornek2' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornekler' multiply defined.
+
+
+LaTeX Warning: Label `fig:ornek' multiply defined.
+
+)
+\openout1 = `final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ (C:\hande_OZ\tex/latex/fmtcount\fc-english.def
+File: fc-english.def 2016/01/12
+)
+(C:\hande_OZ\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count298
+\scratchdimen=\dimen174
+\scratchbox=\box54
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen175
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks26
+) (C:\hande_OZ\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\hande_OZ\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+
+LaTeX Warning: No \author given.
+
+<images/ksbu.png, id=1, 127.97812pt x 128.73094pt>
+File: images/ksbu.png Graphic file (type png)
+<use images/ksbu.png>
+Package pdftex.def Info: images/ksbu.png  used on input line 24.
+(pdftex.def)             Requested size: 127.9778pt x 128.7306pt.
+[1
+
+{C:/Users/HandeOZ.LAPTOP-UCJ03Q0U/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.
+map} <./images/ksbu.png>]
+Overfull \hbox (8.3002pt too wide) in paragraph at lines 57--60
+[]\T1/cmr/m/n/12 Projemize yak^^Yn olarak yap^^Ylan çal^^Y³-malar vard^^Yr Bu m
+akalede, sino-fobi (köpek-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Overfull \hbox (10.61913pt too wide) in paragraph at lines 72--74
+\T1/cmr/m/n/12 Bu çal^^Y³-mada gerekli ko³ullar sa§-land^^Y§^^Ynda köpek ko-rku
+su-nun önüne geçilebile-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+
+ []
+
+
+Overfull \hbox (7.9435pt too wide) in paragraph at lines 76--78
+\T1/cmr/m/n/12 Bu çal^^Y³ma hay-vanat bahçesinde geçiyor orada so-rumlu olan ad
+am bu makalede
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+
+Overfull \hbox (13.84319pt too wide) in paragraph at lines 90--91
+[]\T1/cmr/m/n/12 Python:Python, kul-lan^^Ym^^Y ko-lay,yüksek se-viyeli bir bir 
+pro-gram-lama di-lidir.Web
+ []
+
+[2]
+<images/agac.png, id=17, 908.64468pt x 460.72125pt>
+File: images/agac.png Graphic file (type png)
+<use images/agac.png>
+Package pdftex.def Info: images/agac.png  used on input line 96.
+(pdftex.def)             Requested size: 292.77629pt x 148.44614pt.
+File: images/agac.png Graphic file (type png)
+<use images/agac.png>
+Package pdftex.def Info: images/agac.png  used on input line 113.
+(pdftex.def)             Requested size: 199.16762pt x 100.98639pt.
+
+Overfull \hbox (10.95474pt too wide) in paragraph at lines 110--114
+ [][] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 115.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 115.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 115.
+<images/sÄ±kagac.png, id=19, 983.17313pt x 573.64313pt>
+File: images/sÄ±kagac.png Graphic file (type png)
+<use images/sÄ±kagac.png>
+Package pdftex.def Info: images/sÄ±kagac.png  used on input line 122.
+(pdftex.def)             Requested size: 199.16647pt x 116.20586pt.
+
+Overfull \hbox (10.9536pt too wide) in paragraph at lines 119--123
+ [][] 
+ []
+
+[3 <./images/agac.png> <./images/sÄ±kagac.png>]
+Overfull \hbox (3.14865pt too wide) in paragraph at lines 129--130
+\T1/cmr/m/n/12 kopy-ala-yarak ayn^^Y an-i-masy-onu farkl^^Y du-rum-larda yenide
+n kul-lan-man^^Yz^^Y sa§lar.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+<images/inputmapping.png, id=25, 655.69969pt x 303.38344pt>
+File: images/inputmapping.png Graphic file (type png)
+<use images/inputmapping.png>
+Package pdftex.def Info: images/inputmapping.png  used on input line 139.
+(pdftex.def)             Requested size: 292.77629pt x 135.4658pt.
+<images/inputac.png, id=26, 499.8675pt x 194.22563pt>
+File: images/inputac.png Graphic file (type png)
+<use images/inputac.png>
+Package pdftex.def Info: images/inputac.png  used on input line 147.
+(pdftex.def)             Requested size: 292.77629pt x 113.7623pt.
+[4 <./images/inputmapping.png> <./images/inputac.png>]
+<images/anblue.png, id=33, 1439.3775pt x 740.0147pt>
+File: images/anblue.png Graphic file (type png)
+<use images/anblue.png>
+Package pdftex.def Info: images/anblue.png  used on input line 160.
+(pdftex.def)             Requested size: 292.77629pt x 150.51836pt.
+
+Overfull \hbox (5.20238pt too wide) in paragraph at lines 166--167
+[]\T1/cmr/m/n/12 Blend space:birden fa-zla an-i-masyon veya ³ekil aras^^Ynda ge
+çi³ yap-may^^Y sa§layan
+ []
+
+<images/blend.png, id=34, 1151.05031pt x 651.18282pt>
+File: images/blend.png Graphic file (type png)
+<use images/blend.png>
+Package pdftex.def Info: images/blend.png  used on input line 169.
+(pdftex.def)             Requested size: 292.77629pt x 165.62712pt.
+[5 <./images/anblue.png> <./images/blend.png>]
+<images/machine.png, id=40, 740.7675pt x 417.05812pt>
+File: images/machine.png Graphic file (type png)
+<use images/machine.png>
+Package pdftex.def Info: images/machine.png  used on input line 184.
+(pdftex.def)             Requested size: 292.77629pt x 164.83478pt.
+<images/Ä±dle.png, id=41, 578.16pt x 331.99031pt>
+File: images/Ä±dle.png Graphic file (type png)
+<use images/Ä±dle.png>
+Package pdftex.def Info: images/Ä±dle.png  used on input line 191.
+(pdftex.def)             Requested size: 292.77629pt x 168.1173pt.
+<images/walk.png, id=42, 556.32843pt x 444.15938pt>
+File: images/walk.png Graphic file (type png)
+<use images/walk.png>
+Package pdftex.def Info: images/walk.png  used on input line 198.
+(pdftex.def)             Requested size: 292.77629pt x 233.74968pt.
+
+
+LaTeX Warning: Float too large for page by 60.47151pt on input line 203.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--207
+
+ []
+
+<images/kar.png, id=43, 520.19344pt x 317.68687pt>
+File: images/kar.png Graphic file (type png)
+<use images/kar.png>
+Package pdftex.def Info: images/kar.png  used on input line 209.
+(pdftex.def)             Requested size: 292.77629pt x 178.80022pt.
+<images/Ä±k.png, id=44, 306.39468pt x 343.2825pt>
+File: images/Ä±k.png Graphic file (type png)
+<use images/Ä±k.png>
+Package pdftex.def Info: images/Ä±k.png  used on input line 218.
+(pdftex.def)             Requested size: 292.77629pt x 328.04411pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+
+ []
+
+<images/esle.png, id=45, 1343.77031pt x 441.14813pt>
+File: images/esle.png Graphic file (type png)
+<use images/esle.png>
+Package pdftex.def Info: images/esle.png  used on input line 225.
+(pdftex.def)             Requested size: 292.77629pt x 96.11049pt.
+
+Overfull \hbox (12.39972pt too wide) in paragraph at lines 225--226
+[][]\T1/cmr/m/n/12 [[]] 
+ []
+
+
+Overfull \hbox (4.84546pt too wide) in paragraph at lines 234--238
+\T1/cmr/m/n/12 lar^^Yn dü³-man-larla etk-ile³imde bu-lunurken kul-lan-abile-cek
+-leri çe³itli mekanikleri
+ []
+
+[6] [7 <./images/machine.png> <./images/Ä±dle.png> <./images/walk.png>]
+[8 <./images/kar.png> <./images/Ä±k.png>]
+Overfull \hbox (8.98761pt too wide) in paragraph at lines 241--242
+[]\T1/cmr/m/n/12 Tetik ku-tusu (trig-ger box):Belirli bir alanda bir ³eyin gerç
+ek-le³mesini tetikleyen
+ []
+
+
+Overfull \hbox (6.92973pt too wide) in paragraph at lines 244--245
+[]\T1/cmr/m/n/12 Statik a§ üz-erinde çarp^^Y³ma (Col-li-sions on Static Meshes)
+:Çarp^^Y³ma, dünyan^^Yz-
+ []
+
+<images/collision.png, id=61, 961.34157pt x 601.4972pt>
+File: images/collision.png Graphic file (type png)
+<use images/collision.png>
+Package pdftex.def Info: images/collision.png  used on input line 254.
+(pdftex.def)             Requested size: 292.77629pt x 183.18562pt.
+<images/collision2.png, id=62, 394.47375pt x 419.31656pt>
+File: images/collision2.png Graphic file (type png)
+<use images/collision2.png>
+Package pdftex.def Info: images/collision2.png  used on input line 262.
+(pdftex.def)             Requested size: 292.77629pt x 311.21713pt.
+
+Overfull \hbox (5.5579pt too wide) in paragraph at lines 270--271
+\T1/cmr/m/n/12 Göster-gesi (HUD(Heads-Up Dis-play)) el-e-ment-leri, diya-log ku
+-tu-lar^^Y gibi arayüz
+ []
+
+[9 <./images/esle.png>] [10 <./images/collision.png> <./images/collision2.png>]
+<images/landmass.png, id=72, 782.17218pt x 454.69875pt>
+File: images/landmass.png Graphic file (type png)
+<use images/landmass.png>
+Package pdftex.def Info: images/landmass.png  used on input line 277.
+(pdftex.def)             Requested size: 292.77629pt x 170.19939pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
+
+ []
+
+[11 <./images/landmass.png>]
+Overfull \hbox (3.17496pt too wide) in paragraph at lines 284--285
+[]\T1/cmr/m/n/12 I³^^Yn izleme(Ray trac-ing):kameran^^Yn bak^^Y³ nok-tas^^Yn-da
+n bir ^^Y³^^Yn f^^Yr-latarak çal^^Y³^^Yr
+ []
+
+
+Overfull \hbox (12.63805pt too wide) in paragraph at lines 286--287
+[]\T1/cmr/m/n/12 Unreal En-gine 5'in geli³mi³ ^^Y³^^Yn izleme teknolo-jisini ku
+l-la-narak gerçekçi görseller
+ []
+
+
+Overfull \hbox (18.05467pt too wide) in paragraph at lines 294--295
+[]\T1/cmr/m/n/12 Olay da§^^Yt^^Yc^^Ys^^Y(Event dis-pactcher ):Bir veya daha fa-
+zla olay^^Y bir Olay Da§^^Yt^^Yc^^Ys^^Yna
+ []
+
+
+Overfull \hbox (58.19473pt too wide) in paragraph at lines 294--295
+\T1/cmr/m/n/12 ba§la-yarak,Olay Da§^^Yt^^Yc^^Ys^^Y ça§r^^Yld^^Y§^^Ynda tüm bu o
+lay-lar^^Yn tetik-len-mesini sa§layabiliriz[[]]. 
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 300--300
+
+ []
+
+<images/isakisi.png, id=81, 1445.4pt x 813.0375pt>
+File: images/isakisi.png Graphic file (type png)
+<use images/isakisi.png>
+Package pdftex.def Info: images/isakisi.png  used on input line 303.
+(pdftex.def)             Requested size: 376.41267pt x 256.07095pt.
+<gantt.png, id=82, 1062.21844pt x 307.1475pt>
+File: gantt.png Graphic file (type png)
+<use gantt.png>
+Package pdftex.def Info: gantt.png  used on input line 311.
+(pdftex.def)             Requested size: 491.99771pt x 142.26378pt.
+
+Overfull \hbox (73.74403pt too wide) in paragraph at lines 311--313
+ [][]  
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 317--324
+
+ []
+
+[13 <./images/isakisi.png> <./gantt.png>]
+Overfull \hbox (5.88974pt too wide) in paragraph at lines 325--327
+\T1/cmr/m/n/12 lerinde nas^^Yl yan-s^^Yd^^Y§^^Yn^^Y simüle ed-erek gerçekçi bir
+ or-tam olu³-tur-maya yard^^Ymc^^Y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
+
+ []
+
+<images/blankmod.png, id=88, 999.735pt x 445.665pt>
+File: images/blankmod.png Graphic file (type png)
+<use images/blankmod.png>
+Package pdftex.def Info: images/blankmod.png  used on input line 336.
+(pdftex.def)             Requested size: 292.77629pt x 130.51118pt.
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+
+ []
+
+<images/Ä±sÄ±khatasi.png, id=92, 508.90125pt x 116.68594pt>
+File: images/Ä±sÄ±khatasi.png Graphic file (type png)
+<use images/Ä±sÄ±khatasi.png>
+Package pdftex.def Info: images/Ä±sÄ±khatasi.png  used on input line 349.
+(pdftex.def)             Requested size: 292.77629pt x 67.13304pt.
+
+Overfull \hbox (2.35268pt too wide) in paragraph at lines 355--360
+\T1/cmr/m/n/12 verir. Bu, oyu-nunuzun genel görünümünü h^^Y-zl^^Yca de§er-lendi
+rmek için idealdir,
+ []
+
+
+Overfull \hbox (6.13771pt too wide) in paragraph at lines 355--360
+\T1/cmr/m/n/12 oyun var-l^^Yk-lar^^Yn^^Y (örne§in doku-lar, sesler) olu³-tur-ma
+z. Bu, ay-d^^Yn-latma de§i³ik-
+ []
+
+[15 <./images/blankmod.png> <./images/Ä±sÄ±khatasi.png>]
+<images/aiyol.png, id=98, 755.82375pt x 219.82124pt>
+File: images/aiyol.png Graphic file (type png)
+<use images/aiyol.png>
+Package pdftex.def Info: images/aiyol.png  used on input line 363.
+(pdftex.def)             Requested size: 292.77629pt x 85.14966pt.
+<images/refbos.png, id=99, 830.35219pt x 286.06876pt>
+File: images/refbos.png Graphic file (type png)
+<use images/refbos.png>
+Package pdftex.def Info: images/refbos.png  used on input line 372.
+(pdftex.def)             Requested size: 292.77629pt x 100.86325pt.
+<images/ref.png, id=100, 813.79031pt x 597.73312pt>
+File: images/ref.png Graphic file (type png)
+<use images/ref.png>
+Package pdftex.def Info: images/ref.png  used on input line 382.
+(pdftex.def)             Requested size: 199.16307pt x 146.28629pt.
+
+Overfull \hbox (10.9502pt too wide) in paragraph at lines 382--383
+ [][] 
+ []
+
+<images/iÃ§idoldur.png, id=101, 353.06906pt x 273.27094pt>
+File: images/iÃ§idoldur.png Graphic file (type png)
+<use images/iÃ§idoldur.png>
+Package pdftex.def Info: images/iÃ§idoldur.png  used on input line 388.
+(pdftex.def)             Requested size: 199.17192pt x 154.15651pt.
+
+Overfull \hbox (10.95905pt too wide) in paragraph at lines 388--389
+ [][]  
+ []
+
+<images/sonsahne.png, id=102, 888.31876pt x 380.92313pt>
+File: images/sonsahne.png Graphic file (type png)
+<use images/sonsahne.png>
+Package pdftex.def Info: images/sonsahne.png  used on input line 399.
+(pdftex.def)             Requested size: 292.77629pt x 125.54227pt.
+(final.bbl [16 <./images/aiyol.png> <./images/refbos.png>] [17 <./images/ref.pn
+g> <./images/iÃ§idoldur.png> <./images/sonsahne.png>]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.14 ``https://youtu.be/x1j4v_
+                              yj0ps?si=uwgcyxnyngr9-exl.''
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.15 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.15 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.15 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.17 \url
+         {https://tr.wikipedia.org/wiki/A*_arama_algoritmas%C4%B1}, 2008.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 \url{https://tr.wikipedia.org/wiki/A*_
+                                           arama_algoritmas%C4%B1}, 2008.
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.19 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+l.21 \url
+         {https://docs.unrealengine.com/4.27/en-US/API/Runtime/Engine/GameFr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.21 ...GameFramework/AActor/OnActorBeginOverlap/#
+                                                  :~:text=FActorBeginOverlap...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (374.35524pt too wide) in paragraph at lines 21--22
+[]\T1/cmr/m/n/12 https://docs.unrealengine.com/4.27/en-US/API/Runtime/Engine/Ga
+meFramework/AActor/OnActorBeginOverlap/: :text=FActorBeginOverlapSignature 
+ []
+
+! Undefined control sequence.
+l.24 \url
+         {https://dev.epicgames.com/documentation/en-us/uefn/configuring-col...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+[]\T1/cmr/m/n/12 https://dev.epicgames.com/documentation/en-us/uefn/configuring
+-collision-for-
+ []
+
+! Undefined control sequence.
+l.27 \url
+         {https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/P...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (276.6208pt too wide) in paragraph at lines 27--29
+[]\T1/cmr/m/n/12 https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripti
+ng/ProgrammingWithCPP/UnrealArchitecture/Actors/Spawning/
+ []
+
+! Undefined control sequence.
+l.31 \url
+         {https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/B...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (161.00464pt too wide) in paragraph at lines 31--33
+[]\T1/cmr/m/n/12 https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripti
+ng/Blueprints/UserGuide/EventDispatcher/
+ []
+
+! Undefined control sequence.
+l.35 \url
+         {https://www.youtube.com/watch?v=spSfEKOUBr8&t=4883s }.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.35 ...tps://www.youtube.com/watch?v=spSfEKOUBr8&
+                                                  t=4883s }.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.38 \url
+         {https://www.youtube.com/watch?v=KrJaFojNIzs }.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.40 \end{thebibliography}
+                          
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) [18] (final.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6118 strings out of 474486
+ 102365 string characters out of 5759179
+ 1934542 words of memory out of 5000000
+ 28328 multiletter control sequences out of 15000+600000
+ 568911 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 83i,9n,131p,1021b,684s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\HandeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecti1200.pk> <C:\Users\HandeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\HandeOZ.LAPTOP-UCJ
+03Q0U\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\
+Users\HandeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecrm1200.pk> <C:\Users\HandeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\HandeOZ.LAPTOP-UCJ03Q0U\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\H
+andeOZ.LAPTOP-UCJ03Q0U\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecbx1200.pk><C:/hande_OZ/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/hande_OZ
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/hande_OZ/fonts/type1/public/amsfo
+nts/cm/cmr12.pfb><C:/hande_OZ/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/han
+de_OZ/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on final.pdf (19 pages, 8968058 bytes).
+PDF statistics:
+ 372 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+

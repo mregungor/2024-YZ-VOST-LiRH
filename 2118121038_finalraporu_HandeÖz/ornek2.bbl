@@ -1,0 +1,40 @@
+\begin{thebibliography}{10}
+
+\bibitem{MarinaTaffou}
+U.~M. T. E. C. A. D. R. G. G. D.~I. Viaud-Delmon, ``A study to overcome
+  people's fear of animals,'' {\em Paris, Fransa'daki UMR 9912 CNRS IRCAM UPMC
+  ve Sophia Antipolis}.
+
+\bibitem{ahsan2023deep}
+M.~M. Ahsan, M.~R. Uddin, M.~S. Ali, M.~K. Islam, M.~Farjana, A.~N. Sakib,
+  K.~Al~Momin, and S.~A. Luna, ``Deep transfer learning approaches for
+  monkeypox disease diagnosis,''
+
+\bibitem{youtube}
+``https://youtu.be/x1j4v_yj0ps?si=uwgcyxnyngr9-exl.''
+
+\bibitem{astar}
+\url{https://tr.wikipedia.org/wiki/A*_arama_algoritmas%C4%B1}, 2008.
+\newblock [Online; accessed 19-July-2008].
+
+\bibitem{overlap}
+\url{https://docs.unrealengine.com/4.27/en-US/API/Runtime/Engine/GameFramework/AActor/OnActorBeginOverlap/#:~:text=FActorBeginOverlapSignature%20OnActorBeginOverlap,%2C%20see%20'Hit'%20events}.
+
+\bibitem{collision}
+\url{https://dev.epicgames.com/documentation/en-us/uefn/configuring-collision-for-a-static-mesh-in-unreal-editor-for-fortnite}.
+
+\bibitem{spawn}
+\url{https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/ProgrammingWithCPP/UnrealArchitecture/Actors/Spawning/
+  }.
+
+\bibitem{eventdis}
+\url{https://docs.unrealengine.com/4.26/en-US/ProgrammingAndScripting/Blueprints/UserGuide/EventDispatcher/
+  }.
+
+\bibitem{aıalan}
+\url{https://www.youtube.com/watch?v=spSfEKOUBr8&t=4883s }.
+
+\bibitem{ref}
+\url{https://www.youtube.com/watch?v=KrJaFojNIzs }.
+
+\end{thebibliography}

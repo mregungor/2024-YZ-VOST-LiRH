@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ornek1.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+Database file #1: kaynakca.bib
+Warning--entry type for "bahce" isn't style-file defined
+--line 37 of file kaynakca.bib
+Warning--entry type for "kopek" isn't style-file defined
+--line 47 of file kaynakca.bib
+Warning--empty year in MarinaTaffou
+Warning--empty journal in ahsan2023deep
+Warning--empty year in ahsan2023deep
+You've used 4 entries,
+            1876 wiz_defined-function locations,
+            489 strings with 4097 characters,
+and the built_in function-call counts, 566 in all, are:
+= -- 33
+> -- 32
+< -- 0
++ -- 13
+- -- 9
+* -- 39
+:= -- 86
+add.period$ -- 1
+call.type$ -- 4
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 26
+empty$ -- 71
+format.name$ -- 9
+if$ -- 129
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 2
+newline$ -- 15
+num.names$ -- 2
+pop$ -- 24
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 19
+stack$ -- 0
+substring$ -- 0
+swap$ -- 1
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 2
+width$ -- 5
+write$ -- 25
+(There were 5 warnings)
