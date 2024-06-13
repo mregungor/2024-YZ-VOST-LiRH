@@ -1,0 +1,848 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.6)  14 JUN 2024 00:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./2118121017_FinalRaporu_HasanTekin.tex
+(2118121017_FinalRaporu_HasanTekin.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+)) (C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen143
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-defaul
+ts.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count288
+\c@Blindtext=\count289
+\c@blind@countparstart=\count290
+\blind@countxx=\count291
+\blindtext@numBlindtext=\count292
+\blind@countyy=\count293
+\c@blindlist=\count294
+\c@blindlistlevel=\count295
+\c@blindlist@level=\count296
+\blind@listitem=\count297
+\c@blind@listcount=\count298
+\c@blind@levelcount=\count299
+\blind@mathformula=\count300
+\blind@Mathformula=\count301
+\c@blind@randomcount=\count302
+\c@blind@randommax=\count303
+\c@blind@pangramcount=\count304
+\c@blind@pangrammax=\count305
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip64
+\thanksmargin=\skip65
+\droptitle=\skip66
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count306
+\l__pdf_internal_box=\box51
+) (2118121017_FinalRaporu_HasanTekin.aux)
+\openout1 = `2118121017_FinalRaporu_HasanTekin.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count307
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen145
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\user\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.def
+File: fc-english.def 2016/01/12
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+
+Overfull \hbox (9.56866pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10.95 art^^Pr^^Plm^^P^^Xs ger^^Xceklik arac^^Pl^^P^^Ug^^Pyla etk-i
+le^^Xsimli bil-giye ula^^Xsmas^^Pn^^P sa^^Uglamakt^^Pr.
+ []
+
+
+Overfull \hbox (1.61972pt too wide) in paragraph at lines 35--36
+\OT1/cmr/m/n/10.95 g^^?orseller i^^Xceren bir an-sik-lo-pedi olu^^Xsturulmu^^Xs
+tur. An-sik-lo-pe-dideki i^^Xcerik
+ []
+
+
+Overfull \hbox (23.81044pt too wide) in paragraph at lines 37--38
+[]\OT1/cmr/bx/n/10.95 Anahtar Ke-limeler: \OT1/cmr/m/n/10.95 Art^^Pr^^Plm^^P^^X
+s Ger^^Xceklik, Vu-fo-ria, Unity,Ansiklopedi,
+ []
+
+
+Overfull \hbox (8.7557pt too wide) in paragraph at lines 43--43
+[]\OT1/cmr/bx/n/17.28 VER[]I/DENEYSEL []ALI[]MA D[]UZENE[]G[]I
+ []
+
+
+Overfull \hbox (1.09604pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/12 pazesi sunar ve Unity ile en-te-gre ^^Xcal^^P^^Xsarak g^^?u^^Xc
+l^^?u AR uygu-la-malar^^P olu^^Xsturmay^^P
+ []
+
+[1
+
+{C:/Users/user/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (7.73337pt too wide) in paragraph at lines 55--56
+\OT1/cmr/m/n/12 nolo-gies taraf^^Pndan geli^^Xstirilen bu ara^^Xc, ^^?ozellikle
+ oyun geli^^Xstirme, sim^^?ulasyonlar,
+ []
+
+[2] [3]
+<./images/Vuforia2.PNG, id=15, 838.93425pt x 346.896pt>
+File: ./images/Vuforia2.PNG Graphic file (type png)
+<use ./images/Vuforia2.PNG>
+Package pdftex.def Info: ./images/Vuforia2.PNG  used on input line 64.
+(pdftex.def)             Requested size: 838.9322pt x 346.89514pt.
+<./images/Vuforia3.PNG, id=17, 891.93225pt x 250.536pt>
+File: ./images/Vuforia3.PNG Graphic file (type png)
+<use ./images/Vuforia3.PNG>
+Package pdftex.def Info: ./images/Vuforia3.PNG  used on input line 75.
+(pdftex.def)             Requested size: 891.93007pt x 250.53537pt.
+ [4 <./images/Vuforia2.PNG> <./images/Vuforia3.PNG>]
+<./images/Vuforia4.PNG, id=23, 637.78275pt x 309.5565pt>
+File: ./images/Vuforia4.PNG Graphic file (type png)
+<use ./images/Vuforia4.PNG>
+Package pdftex.def Info: ./images/Vuforia4.PNG  used on input line 86.
+(pdftex.def)             Requested size: 637.78119pt x 309.55574pt.
+<./images/Vuforia5.PNG, id=24, 870.25125pt x 404.712pt>
+File: ./images/Vuforia5.PNG Graphic file (type png)
+<use ./images/Vuforia5.PNG>
+Package pdftex.def Info: ./images/Vuforia5.PNG  used on input line 95.
+(pdftex.def)             Requested size: 870.24913pt x 404.71101pt.
+ [5 <./images/Vuforia4.PNG> <./images/Vuforia5.PNG>]
+<./images/Vuforia6.PNG, id=30, 841.34325pt x 390.258pt>
+File: ./images/Vuforia6.PNG Graphic file (type png)
+<use ./images/Vuforia6.PNG>
+Package pdftex.def Info: ./images/Vuforia6.PNG  used on input line 104.
+(pdftex.def)             Requested size: 841.34119pt x 390.25703pt.
+<./images/Vuforia7.PNG, id=31, 422.7795pt x 288.47775pt>
+File: ./images/Vuforia7.PNG Graphic file (type png)
+<use ./images/Vuforia7.PNG>
+Package pdftex.def Info: ./images/Vuforia7.PNG  used on input line 112.
+(pdftex.def)             Requested size: 422.77846pt x 288.47704pt.
+<./images/Vuforia8.PNG, id=32, 421.575pt x 286.06876pt>
+File: ./images/Vuforia8.PNG Graphic file (type png)
+<use ./images/Vuforia8.PNG>
+Package pdftex.def Info: ./images/Vuforia8.PNG  used on input line 120.
+(pdftex.def)             Requested size: 421.57396pt x 286.06805pt.
+ [6 <./images/Vuforia6.PNG> <./images/Vuforia7.PNG>]
+<./images/Vuforia9.PNG, id=38, 838.93425pt x 370.986pt>
+File: ./images/Vuforia9.PNG Graphic file (type png)
+<use ./images/Vuforia9.PNG>
+Package pdftex.def Info: ./images/Vuforia9.PNG  used on input line 129.
+(pdftex.def)             Requested size: 838.9322pt x 370.98508pt.
+ [7 <./images/Vuforia8.PNG> <./images/Vuforia9.PNG>]
+<./images/Vuforia10.PNG, id=45, 835.923pt x 269.20575pt>
+File: ./images/Vuforia10.PNG Graphic file (type png)
+<use ./images/Vuforia10.PNG>
+Package pdftex.def Info: ./images/Vuforia10.PNG  used on input line 138.
+(pdftex.def)             Requested size: 835.92096pt x 269.20508pt.
+ [8 <./images/Vuforia10.PNG>]
+<./images/Vuforia12.PNG, id=50, 293.898pt x 403.5075pt>
+File: ./images/Vuforia12.PNG Graphic file (type png)
+<use ./images/Vuforia12.PNG>
+Package pdftex.def Info: ./images/Vuforia12.PNG  used on input line 147.
+(pdftex.def)             Requested size: 293.89726pt x 403.50652pt.
+<./images/Vuforia13.PNG, id=51, 300.52275pt x 403.5075pt>
+File: ./images/Vuforia13.PNG Graphic file (type png)
+<use ./images/Vuforia13.PNG>
+Package pdftex.def Info: ./images/Vuforia13.PNG  used on input line 155.
+(pdftex.def)             Requested size: 300.522pt x 403.50652pt.
+<./images/Vuforia14.PNG, id=52, 835.32076pt x 375.804pt>
+File: ./images/Vuforia14.PNG Graphic file (type png)
+<use ./images/Vuforia14.PNG>
+Package pdftex.def Info: ./images/Vuforia14.PNG  used on input line 163.
+(pdftex.def)             Requested size: 835.31871pt x 375.80309pt.
+ [9 <./images/Vuforia12.PNG>]
+
+LaTeX Warning: Text page 10 contains only floats.
+
+[10 <./images/Vuforia13.PNG>]
+<./images/Vuforia15.PNG, id=61, 398.6895pt x 288.47775pt>
+File: ./images/Vuforia15.PNG Graphic file (type png)
+<use ./images/Vuforia15.PNG>
+Package pdftex.def Info: ./images/Vuforia15.PNG  used on input line 172.
+(pdftex.def)             Requested size: 398.68852pt x 288.47704pt.
+
+Overfull \hbox (3.88202pt too wide) in paragraph at lines 178--180
+[]\OT1/cmr/m/n/12 al^^P^^Xsman^^Pn sonu^^Xclar^^P, art^^Pr^^Plm^^P^^Xs ger^^Xce
+klik teknolo-jisinin e^^Ugitim ve bilgi sunumu
+ []
+
+
+Overfull \hbox (20.52768pt too wide) in paragraph at lines 178--180
+\OT1/cmr/m/n/12 alan-lar^^Pnda y^^?uksek etk-ile^^Xsim ve kul-lan^^Pc^^P mem-nu
+niyeti sa^^Uglad^^P^^Ug^^Pn^^P g^^?ostermektedir.
+ []
+
+[11 <./images/Vuforia14.PNG> <./images/Vuforia15.PNG>] [12]
+Overfull \hbox (22.83028pt too wide) in paragraph at lines 187--188
+\OT1/cmr/m/n/10.95 mo-bilya al^^P^^Xsveri^^Xsi yap-madan ^^?once kul-lan^^Pc^^P
+lar^^Pn ^^?ur^^?unlerin nas^^Pl g^^?or^^?unece^^Ugini
+ []
+
+
+Overfull \hbox (26.99615pt too wide) in paragraph at lines 187--188
+\OT1/cmr/m/n/10.95 zor-lar hakk^^Pnda 3D mod-eller ve metinlerle bilgi sun-may^
+^P ama^^Xclar.ARCore'un
+ []
+
+
+Overfull \hbox (2.5112pt too wide) in paragraph at lines 195--196
+\OT1/cmr/m/n/12 se^^Xcilen mo-bilyalar^^Pn ger^^Xcek za-manl^^P olarak be-lir-l
+enen mekan-lara yerle^^Xstirilmesi
+ []
+
+[13] [14]
+<./images/koltuk.jpeg, id=77, 1027.84pt x 2055.68pt>
+File: ./images/koltuk.jpeg Graphic file (type jpg)
+<use ./images/koltuk.jpeg>
+Package pdftex.def Info: ./images/koltuk.jpeg  used on input line 209.
+(pdftex.def)             Requested size: 131.03825pt x 262.0722pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 211.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 211.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 211.
+<./images/koltuk2.jpeg, id=78, 1027.84pt x 2055.68pt>
+File: ./images/koltuk2.jpeg Graphic file (type jpg)
+<use ./images/koltuk2.jpeg>
+Package pdftex.def Info: ./images/koltuk2.jpeg  used on input line 214.
+(pdftex.def)             Requested size: 131.03825pt x 262.0722pt.
+ [15 <./images/koltuk.jpeg> <./images/koltuk2.jpeg>] [16] [17]
+<./images/Nuitrack.PNG, id=88, 433.62pt x 375.20175pt>
+File: ./images/Nuitrack.PNG Graphic file (type png)
+<use ./images/Nuitrack.PNG>
+Package pdftex.def Info: ./images/Nuitrack.PNG  used on input line 253.
+(pdftex.def)             Requested size: 312.00119pt x 269.97902pt.
+
+[18 <./images/Nuitrack.PNG>]
+<./images/Nuitrack1.jpg, id=93, 796.47563pt x 542.025pt>
+File: ./images/Nuitrack1.jpg Graphic file (type jpg)
+<use ./images/Nuitrack1.jpg>
+Package pdftex.def Info: ./images/Nuitrack1.jpg  used on input line 263.
+(pdftex.def)             Requested size: 312.00119pt x 212.32347pt.
+ [19 <./images/Nuitrack1.jpg>]
+<./images/unityHataPNG.PNG, id=98, 956.97525pt x 157.7895pt>
+File: ./images/unityHataPNG.PNG Graphic file (type png)
+<use ./images/unityHataPNG.PNG>
+Package pdftex.def Info: ./images/unityHataPNG.PNG  used on input line 297.
+(pdftex.def)             Requested size: 312.00119pt x 51.44229pt.
+ [20 <./images/unityHataPNG.PNG>]
+Overfull \hbox (7.52956pt too wide) in paragraph at lines 312--313
+\OT1/cmr/m/n/10.95 b^^?uy^^?uyen bir alan olup, ^^Xce^^Xsitli uygu-la-malarda k
+ul-lan^^Plmaktad^^Pr.AR uygu-
+ []
+
+
+Overfull \hbox (43.93347pt too wide) in paragraph at lines 320--320
+[]\OT1/cmr/bx/n/17.28 AR FOUN-DA-TION'IN TEMEL []OZELL[]IKLER[]I 
+ []
+
+[21]
+Overfull \hbox (33.75404pt too wide) in paragraph at lines 323--327
+\OT1/cmr/m/n/12 Geli^^Xstiricilerin, AR uygu-la-malar^^P olu^^Xstururken karma^
+^Xs^^Pk al-go-rit-malarla u^^Ugra^^Xsmadan,
+ []
+
+[22]
+<./images/ARFoundation.PNG, id=109, 175.25475pt x 369.17924pt>
+File: ./images/ARFoundation.PNG Graphic file (type png)
+<use ./images/ARFoundation.PNG>
+Package pdftex.def Info: ./images/ARFoundation.PNG  used on input line 331.
+(pdftex.def)             Requested size: 224.83873pt x 473.6018pt.
+ [23 <./images/ARFoundation.PNG>]
+Overfull \hbox (4.73062pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/12 s^^?urecini nas^^Pl ba-sitle^^Xstirdi^^Ugini ve plat-form-lar a
+ras^^P uyum-lulu^^Ugu nas^^Pl sa^^Uglad^^P^^Ug^^Pn^^P
+ []
+
+
+Overfull \hbox (10.33484pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/12 Foun-da-tion'^^Pn, AR uygu-la-malar^^Pn^^Pn daha geni^^Xs bir k
+ul-lan^^Pc^^P kitle-sine ula^^Xsmas^^Pn^^P
+ []
+
+[24]
+Overfull \hbox (4.62589pt too wide) in paragraph at lines 364--365
+[]\OT1/cmr/m/n/10.95 MediaPipe, Google taraf^^Pndan geli^^Xstirilen ve g^^?or^^
+?unt^^?u ile video i^^Xsleme
+ []
+
+
+Overfull \hbox (14.43532pt too wide) in paragraph at lines 364--365
+\OT1/cmr/m/n/10.95 ba-sit bir hareket tak-ibi sis-temi geli^^Xstirmektir.Kamera
+dan ge-len g^^?or^^?unt^^?uler
+ []
+
+
+Overfull \hbox (7.92616pt too wide) in paragraph at lines 364--365
+\OT1/cmr/m/n/10.95 i^^Xslenmi^^Xs ve ki^^Xsinin v^^?ucudundaki ek-lem-ler tan^^
+Pmlanarak hareketler ger^^Xcek
+ []
+
+
+Overfull \hbox (1.78197pt too wide) in paragraph at lines 364--365
+\OT1/cmr/m/n/10.95 za-manl^^P olarak takip edilmi^^Xstir.[]Izlenen ki^^Xsinin h
+areket-lerinin do^^Ugrulu^^Ugu
+ []
+
+
+Overfull \hbox (27.60577pt too wide) in paragraph at lines 364--365
+\OT1/cmr/m/n/10.95 kar^^Xs^^Pla^^Xst^^Pr^^Pld^^P^^Ug^^Pnda, Me-di-aPipe'in es-n
+ekli^^Ugi ve do^^Ugrulu^^Ugu ^^?one ^^Xc^^Pkmaktad^^Pr.Bu
+ []
+
+<./images/mediaPipe.PNG, id=117, 578.16pt x 328.8285pt>
+File: ./images/mediaPipe.PNG Graphic file (type png)
+<use ./images/mediaPipe.PNG>
+Package pdftex.def Info: ./images/mediaPipe.PNG  used on input line 375.
+(pdftex.def)             Requested size: 312.00119pt x 177.44934pt.
+[25]
+Overfull \hbox (42.49135pt too wide) in paragraph at lines 379--380
+[][]\OT1/cmr/m/n/12 ekil 20[] de g^^?osterilen bu g^^?orsel me-di-aPipe'^^Pn ku
+l-lan^^Pm alan-lar^^Pn^^P g^^?ostermektedir[[]]. 
+ []
+
+[26 <./images/mediaPipe.PNG>]
+Overfull \hbox (22.12769pt too wide) in paragraph at lines 395--396
+[]\OT1/cmr/m/n/12 G^^?or^^?unt^^?u Al^^Pm^^P: Kam-er-adan ge-len g^^?or^^?unt^^
+?uler al^^Pn^^Pr ve Me-di-aPipe taraf^^Pndan
+ []
+
+
+Overfull \hbox (31.57758pt too wide) in paragraph at lines 396--397
+[]\OT1/cmr/m/n/12 V^^?ucut []Iskeletinin Tan^^Pmlanmas^^P: Me-di-aPipe, kam-er-
+adan ge-len g^^?or^^?unt^^?ulerdeki
+ []
+
+
+Overfull \hbox (9.23058pt too wide) in paragraph at lines 397--398
+[]\OT1/cmr/m/n/12 Hareket Tak-ibi: Tan^^Pmlanan ek-lem-ler ^^?uzerinden ki^^Xsi
+nin hareket-leri ger^^Xcek
+ []
+
+<./images/Ben2.png, id=126, 216.81pt x 338.4645pt>
+File: ./images/Ben2.png Graphic file (type png)
+<use ./images/Ben2.png>
+Package pdftex.def Info: ./images/Ben2.png  used on input line 402.
+(pdftex.def)             Requested size: 303.39629pt x 473.6018pt.
+[27]
+<./images/Klon.PNG, id=130, 643.203pt x 316.18124pt>
+File: ./images/Klon.PNG Graphic file (type png)
+<use ./images/Klon.PNG>
+Package pdftex.def Info: ./images/Klon.PNG  used on input line 412.
+(pdftex.def)             Requested size: 312.00119pt x 153.37184pt.
+ [28 <./images/Ben2.png>] [29 <./images/Klon.PNG>] [30]
+Overfull \hbox (2.78574pt too wide) in paragraph at lines 430--431
+[]\OT1/cmr/m/n/10.95 Ti^^Xs^^?ort Se^^Xcme Uygu-la-mas^^P, kul-lan^^Pc^^Plar^^P
+n farkl^^P ti^^Xs^^?ortleri sanal olarak
+ []
+
+
+Overfull \hbox (3.08986pt too wide) in paragraph at lines 430--431
+\OT1/cmr/m/n/10.95 sis-tem, kul-lan^^Pc^^Plar^^Pn fizik-sel olarak ti^^Xs^^?ort
+ den-eme-den nas^^Pl g^^?or^^?unece^^Ugini
+ []
+
+
+Overfull \hbox (15.71477pt too wide) in paragraph at lines 436--437
+\OT1/cmr/m/n/12 sanal olarak den-emelerini sa^^Uglar. V^^?ucut pozunu ve ek-lem
+ nok-ta-lar^^Pn^^P alg^^Playarak,
+ []
+
+
+Overfull \hbox (29.27481pt too wide) in paragraph at lines 436--437
+\OT1/cmr/m/n/12 ^^Xcal^^P^^Xsman^^Pn mo-ti-vasy-onu, kul-lan^^Pc^^P deney-i-min
+i iy-ile^^Xstirerek, sanal den-eme s^^?ure^^Xclerini
+ []
+
+<./images/OpenCv.jpg, id=142, 390.45876pt x 129.48375pt>
+File: ./images/OpenCv.jpg Graphic file (type jpg)
+<use ./images/OpenCv.jpg>
+Package pdftex.def Info: ./images/OpenCv.jpg  used on input line 443.
+(pdftex.def)             Requested size: 390.4578pt x 129.48341pt.
+[31] [32 <./images/OpenCv.jpg>]
+<./images/CVZone.png, id=150, 522.95375pt x 97.36375pt>
+File: ./images/CVZone.png Graphic file (type png)
+<use ./images/CVZone.png>
+Package pdftex.def Info: ./images/CVZone.png  used on input line 456.
+(pdftex.def)             Requested size: 522.95247pt x 97.3635pt.
+
+Overfull \hbox (11.56213pt too wide) in paragraph at lines 452--463
+\OT1/cmr/m/n/12 bir bil-gisa-yarla g^^?or^^?u pake-tidir. Temelde OpenCV ve Me-
+di-aPipe k^^?ut^^?uphanelerini
+ []
+
+
+Overfull \hbox (10.2903pt too wide) in paragraph at lines 466--467
+[]\OT1/cmr/m/n/12 OpenCV: Ger^^Xcek za-manl^^P g^^?or^^?unt^^?u i^^Xsleme i^^Xc
+in kul-lan^^Plan temel k^^?ut^^?uphane. 
+ []
+
+
+Overfull \hbox (4.9098pt too wide) in paragraph at lines 474--475
+[]\OT1/cmr/m/n/12 V^^?ucut Pozu-nun Alg^^Planmas^^P: Me-di-aPipe kul-lan^^Plara
+k, kul-lan^^Pc^^Pn^^Pn v^^?ucut
+ []
+
+
+Overfull \hbox (2.50287pt too wide) in paragraph at lines 476--477
+[]\OT1/cmr/m/n/12 Ti^^Xs^^?ort Yerle^^Xstirme: Alg^^Planan ek-lem nok-ta-lar^^P
+ kul-lan^^Plarak, se^^Xcilen ti^^Xs^^?ort
+ []
+
+
+Overfull \hbox (7.56395pt too wide) in paragraph at lines 477--478
+[]\OT1/cmr/m/n/12 Ger^^Xcek Za-manl^^P G^^?orselle^^Xstirme: Kul-lan^^Pc^^P, sa
+nal olarak denedi^^Ugi ti^^Xs^^?ortleri
+ []
+
+[33 <./images/CVZone.png>]
+Overfull \hbox (8.84308pt too wide) in paragraph at lines 482--483
+\OT1/cmr/m/n/12 ti^^Xs^^?ort den-eme-den farkl^^P ti^^Xs^^?ortlerin nas^^Pl g^^
+?or^^?unece^^Ugini g^^?orselle^^Xstirmelerine olanak
+ []
+
+
+Overfull \hbox (1.77057pt too wide) in paragraph at lines 482--483
+\OT1/cmr/m/n/12 tan^^Pr. OpenCV ve Me-di-aPipe'in en-te-grasy-onu, hareket tak-
+ibi ve v^^?ucut pozisy-
+ []
+
+[34]
+<./images/gomlek1.PNG, id=158, 464.33475pt x 227.6505pt>
+File: ./images/gomlek1.PNG Graphic file (type png)
+<use ./images/gomlek1.PNG>
+Package pdftex.def Info: ./images/gomlek1.PNG  used on input line 489.
+(pdftex.def)             Requested size: 464.3336pt x 227.64993pt.
+<./images/gomlek2.PNG, id=159, 467.94826pt x 234.8775pt>
+File: ./images/gomlek2.PNG Graphic file (type png)
+<use ./images/gomlek2.PNG>
+Package pdftex.def Info: ./images/gomlek2.PNG  used on input line 500.
+(pdftex.def)             Requested size: 467.94711pt x 234.87692pt.
+ [35 <./images/gomlek1.PNG> <./images/gomlek2.PNG>]
+<./images/gomlek3Sol.PNG, id=165, 467.94826pt x 228.25275pt>
+File: ./images/gomlek3Sol.PNG Graphic file (type png)
+<use ./images/gomlek3Sol.PNG>
+Package pdftex.def Info: ./images/gomlek3Sol.PNG  used on input line 511.
+(pdftex.def)             Requested size: 467.94711pt x 228.25218pt.
+<./images/gomlek4Sol.PNG, id=166, 466.74374pt x 229.45724pt>
+File: ./images/gomlek4Sol.PNG Graphic file (type png)
+<use ./images/gomlek4Sol.PNG>
+Package pdftex.def Info: ./images/gomlek4Sol.PNG  used on input line 520.
+(pdftex.def)             Requested size: 466.7426pt x 229.45667pt.
+ [36 <./images/gomlek3Sol.PNG> <./images/gomlek4Sol.PNG>]
+<./images/gomlek1Sag.PNG, id=172, 466.74374pt x 227.6505pt>
+File: ./images/gomlek1Sag.PNG Graphic file (type png)
+<use ./images/gomlek1Sag.PNG>
+Package pdftex.def Info: ./images/gomlek1Sag.PNG  used on input line 529.
+(pdftex.def)             Requested size: 466.7426pt x 227.64993pt.
+<./images/gomlek2Sag.PNG, id=173, 467.346pt x 236.082pt>
+File: ./images/gomlek2Sag.PNG Graphic file (type png)
+<use ./images/gomlek2Sag.PNG>
+Package pdftex.def Info: ./images/gomlek2Sag.PNG  used on input line 537.
+(pdftex.def)             Requested size: 467.34485pt x 236.0814pt.
+<./images/gomlekSagSol1.PNG, id=174, 467.346pt x 229.45724pt>
+File: ./images/gomlekSagSol1.PNG Graphic file (type png)
+<use ./images/gomlekSagSol1.PNG>
+Package pdftex.def Info: ./images/gomlekSagSol1.PNG  used on input line 545.
+(pdftex.def)             Requested size: 467.34485pt x 229.45667pt.
+ [37 <./images/gomlek1Sag.PNG> <./images/gomlek2Sag.PNG>]
+<./images/gomlekSagSol2.PNG, id=181, 466.74374pt x 230.66174pt>
+File: ./images/gomlekSagSol2.PNG Graphic file (type png)
+<use ./images/gomlekSagSol2.PNG>
+Package pdftex.def Info: ./images/gomlekSagSol2.PNG  used on input line 554.
+(pdftex.def)             Requested size: 466.7426pt x 230.66116pt.
+ [38 <./images/gomlekSagSol1.PNG> <./images/gomlekSagSol2.PNG>]
+Overfull \hbox (15.8041pt too wide) in paragraph at lines 571--572
+\OT1/cmr/m/n/10.95 Me-di-apipe iskelet mod-elinin antropometrik refer-ans nok-t
+a-lar^^P kul-lan^^Plarak
+ []
+
+
+Overfull \hbox (6.57935pt too wide) in paragraph at lines 573--574
+[]\OT1/cmr/bx/n/10.95 Anahtar Ke-limeler: \OT1/cmr/m/n/10.95 Antropometri, Me-d
+i-apipe, iskelet d^^?uzenleme,
+ []
+
+
+Overfull \hbox (43.72745pt too wide) in paragraph at lines 580--581
+[]\OT1/cmr/m/n/12 Bu ^^Xcal^^P^^Xsma, Me-di-apipe iskelet mod-elinin antropomet
+rik ^^?ol^^Xc^^?umlerle d^^?uzenlenmesine
+ []
+
+[39]
+Overfull \hbox (8.7557pt too wide) in paragraph at lines 581--581
+[]\OT1/cmr/bx/n/17.28 VER[]I/DENEYSEL []ALI[]MA D[]UZENE[]G[]I
+ []
+
+
+Overfull \hbox (35.01503pt too wide) in paragraph at lines 582--583
+\OT1/cmr/m/n/12 Kullan^^Plan veri, in-san v^^?ucudunun be-lirli refer-ans nok-t
+a-lar^^Pna dayanan antropometrik
+ []
+
+[40]
+Overfull \hbox (13.86108pt too wide) in paragraph at lines 613--615
+\OT1/cmr/m/n/12 Yap^^Psal v^^?ucut ^^?ol^^Xc^^?uleri V^^?ucudun, ayakta ve otu-
+rarak be-lirli stan-dart duru^^Xslar^^Pnda
+ []
+
+[41]
+<./images/mediapipe_iskelet.PNG, id=196, 601.64775pt x 430.60875pt>
+File: ./images/mediapipe_iskelet.PNG Graphic file (type png)
+<use ./images/mediapipe_iskelet.PNG>
+Package pdftex.def Info: ./images/mediapipe_iskelet.PNG  used on input line 634
+.
+(pdftex.def)             Requested size: 312.00119pt x 223.30676pt.
+ [42 <./images/mediapipe_iskelet.PNG>]
+<./images/mediapipeBen.PNG, id=201, 135.50626pt x 353.52075pt>
+File: ./images/mediapipeBen.PNG Graphic file (type png)
+<use ./images/mediapipeBen.PNG>
+Package pdftex.def Info: ./images/mediapipeBen.PNG  used on input line 645.
+(pdftex.def)             Requested size: 155.99762pt x 406.99342pt.
+
+Overfull \hbox (11.58055pt too wide) in paragraph at lines 656--657
+[]\OT1/cmr/m/n/12 al^^P^^Xsmada, Me-di-apipe al-go-rit-mas^^P kul-lan^^Plarak a
+ntropometrik ^^?ol^^Xc^^?umlerle iskelet
+ []
+
+[43 <./images/mediapipeBen.PNG>]
+<./images/ortaNokta.PNG, id=207, 292.09125pt x 219.82124pt>
+File: ./images/ortaNokta.PNG Graphic file (type png)
+<use ./images/ortaNokta.PNG>
+Package pdftex.def Info: ./images/ortaNokta.PNG  used on input line 664.
+(pdftex.def)             Requested size: 195.0pt x 146.7562pt.
+<./images/ikiNoktaArasiUzaklik.PNG, id=208, 293.29575pt x 219.82124pt>
+File: ./images/ikiNoktaArasiUzaklik.PNG Graphic file (type png)
+<use ./images/ikiNoktaArasiUzaklik.PNG>
+Package pdftex.def Info: ./images/ikiNoktaArasiUzaklik.PNG  used on input line 
+681.
+(pdftex.def)             Requested size: 195.0pt x 146.15579pt.
+ [44 <./images/ortaNokta.PNG>] [45 <./images/ikiNoktaArasiUzaklik.PNG>]
+Overfull \hbox (26.11536pt too wide) in paragraph at lines 708--709
+\OT1/cmr/m/n/10.95 Program^^Pn i^^Xslevselli^^Ugini sa^^Uglamak i^^Xcin a^^Xsa^
+^Ug^^Pdaki k^^?ut^^?uphaneler kul-lan^^Plm^^P^^Xst^^Pr: 
+ []
+
+[46]
+Overfull \hbox (13.90802pt too wide) in paragraph at lines 733--734
+\OT1/cmr/m/n/10.95 sonu^^Xclar^^Pn^^P kul-la-narak g^^?orsel ^^?o^^Ugeleri canl
+^^P videoya ek-ler. []Insan v^^?ucudunun
+ []
+
+
+Overfull \hbox (47.80519pt too wide) in paragraph at lines 741--742
+[]\OT1/cmr/m/n/12 Programda, Me-di-aPipe iskeletinde resim ek-le-nen be-lirli b
+ir k^^Ps^^Pm g^^?or^^?unmedi^^Uginde
+ []
+
+
+Overfull \hbox (11.87222pt too wide) in paragraph at lines 743--744
+[]\OT1/cmr/m/n/12 MediaPipe iskele-tinin ^^?uzerinde olu^^Xsturulan d^^?ortgen 
+^^Xseklindeki yerle^^Xstirilen
+ []
+
+[47] [48]
+Overfull \hbox (6.57935pt too wide) in paragraph at lines 755--756
+[]\OT1/cmr/bx/n/10.95 Anahtar Ke-limeler: \OT1/cmr/m/n/10.95 Antropometri, Me-d
+i-apipe, iskelet d^^?uzenleme,
+ []
+
+[49]
+Overfull \hbox (3.80843pt too wide) in paragraph at lines 790--791
+\OT1/cmr/m/n/12 Program, Me-di-aPipe kul-la-narak pozisyon tespiti ya-par ve bu
+ tespit sonu^^Xclar^^Pn^^P
+ []
+
+
+Overfull \hbox (2.84557pt too wide) in paragraph at lines 794--795
+\OT1/cmr/m/n/12 mesi pro-gram^^Pn^^P in-celedi. Pro-gram, Me-di-aPipe ve OpenCV
+ gibi k^^?ut^^?uphaneleri
+ []
+
+
+Overfull \hbox (17.9166pt too wide) in paragraph at lines 794--795
+\OT1/cmr/m/n/12 kul-la-narak in-san v^^?ucudunun be-lirli nok-ta-lar^^Pn^^P tes
+pit eder ve bu tespit sonu^^Xclar^^Pn^^P
+ []
+
+
+Overfull \hbox (10.40556pt too wide) in paragraph at lines 799--800
+[]\OT1/cmr/m/n/12 Mediapipe iskele-tinin ^^?uzerinde olu^^Xsturulan d^^?ortgen 
+^^Xseklindeki yerle^^Xstirilen
+ []
+
+[50]
+<./images/Hata1mediapipe.PNG, id=235, 954.56625pt x 234.27525pt>
+File: ./images/Hata1mediapipe.PNG Graphic file (type png)
+<use ./images/Hata1mediapipe.PNG>
+Package pdftex.def Info: ./images/Hata1mediapipe.PNG  used on input line 812.
+(pdftex.def)             Requested size: 272.99881pt x 66.99791pt.
+<./images/cozumMediapipe1.PNG, id=236, 735.34724pt x 133.09724pt>
+File: ./images/cozumMediapipe1.PNG Graphic file (type png)
+<use ./images/cozumMediapipe1.PNG>
+Package pdftex.def Info: ./images/cozumMediapipe1.PNG  used on input line 824.
+(pdftex.def)             Requested size: 272.99881pt x 49.41173pt.
+<./images/mediapipeCozum2.PNG, id=237, 1000.33725pt x 99.9735pt>
+File: ./images/mediapipeCozum2.PNG Graphic file (type png)
+<use ./images/mediapipeCozum2.PNG>
+Package pdftex.def Info: ./images/mediapipeCozum2.PNG  used on input line 836.
+(pdftex.def)             Requested size: 272.99881pt x 27.28304pt.
+ [51 <./images/Hata1mediapipe.PNG> <./images/cozumMediapipe1.PNG> <./images/med
+iapipeCozum2.PNG>]
+<./images/dikdortgen.PNG, id=244, 192.11775pt x 296.90926pt>
+File: ./images/dikdortgen.PNG Graphic file (type png)
+<use ./images/dikdortgen.PNG>
+Package pdftex.def Info: ./images/dikdortgen.PNG  used on input line 850.
+(pdftex.def)             Requested size: 268.13927pt x 414.3982pt.
+
+Overfull \hbox (10.40556pt too wide) in paragraph at lines 846--859
+[]\OT1/cmr/m/n/12 Mediapipe iskele-tinin ^^?uzerinde olu^^Xsturulan d^^?ortgen 
+^^Xseklindeki yerle^^Xstirilen
+ []
+
+<./images/MediapipeHata3.PNG, id=245, 822.07124pt x 177.66376pt>
+File: ./images/MediapipeHata3.PNG Graphic file (type png)
+<use ./images/MediapipeHata3.PNG>
+Package pdftex.def Info: ./images/MediapipeHata3.PNG  used on input line 865.
+(pdftex.def)             Requested size: 272.99881pt x 58.9979pt.
+[52 <./images/dikdortgen.PNG>]
+File: ./images/mediapipe_iskelet.PNG Graphic file (type png)
+<use ./images/mediapipe_iskelet.PNG>
+Package pdftex.def Info: ./images/mediapipe_iskelet.PNG  used on input line 878
+.
+(pdftex.def)             Requested size: 272.99881pt x 195.39507pt.
+ [53 <./images/MediapipeHata3.PNG>]
+Overfull \hbox (8.05975pt too wide) in paragraph at lines 904--905
+\OT1/cmr/m/n/12 yapt^^Pktan sonra, se^^Xcilen g^^?or^^?unt^^?uler arka plan^^P 
+^^Xseffaf hale ge-tirme ve k^^Pr^^P^^Xs^^Pkl^^Pklar^^P
+ []
+
+[54]
+<./images/Tkinter.PNG, id=257, 1075.6185pt x 496.254pt>
+File: ./images/Tkinter.PNG Graphic file (type png)
+<use ./images/Tkinter.PNG>
+Package pdftex.def Info: ./images/Tkinter.PNG  used on input line 913.
+(pdftex.def)             Requested size: 272.99881pt x 125.94867pt.
+File: ./images/mediapipe_iskelet.PNG Graphic file (type png)
+<use ./images/mediapipe_iskelet.PNG>
+Package pdftex.def Info: ./images/mediapipe_iskelet.PNG  used on input line 925
+.
+(pdftex.def)             Requested size: 272.99881pt x 195.39507pt.
+ [55 <./images/Tkinter.PNG>]
+Overfull \hbox (11.25833pt too wide) in paragraph at lines 937--938
+\OT1/cmr/m/n/12 ko-layca kul-lan^^Plabilir ve ger^^Xcek za-manl^^P olarak poz t
+espiti ve g^^?or^^?unt^^?u yerle^^Xstirme
+ []
+
+[56] (2118121017_FinalRaporu_HasanTekin.bbl
+Underfull \hbox (badness 2753) in paragraph at lines 40--42
+[]\OT1/cmr/m/n/12 A. Ti-sort-Pack-age, ``Try us-ing shirt ren-der-ing app sourc
+e file,''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--46
+[]\OT1/cmr/m/n/12 A. Antropometrik, ``What is an-thro-po-met-ric mea-sure-ment?
+,''
+ []
+
+) [57] (2118121017_FinalRaporu_HasanTekin.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3483 strings out of 474485
+ 61739 string characters out of 5744207
+ 1933542 words of memory out of 5000000
+ 25745 multiletter control sequences out of 15000+600000
+ 564351 words of font info for 57 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,9n,79p,1355b,373s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\user\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
+200.pk><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr10.pfb><C:/Users/user/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/user/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on 2118121017_FinalRaporu_HasanTekin.pdf (57 pages, 7386251 byte
+s).
+PDF statistics:
+ 298 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+
