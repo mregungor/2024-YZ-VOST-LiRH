@@ -1,0 +1,142 @@
+# Kaggle API anahtarını yükleyin ve ayarlayın
+from google.colab import files
+files.upload()
+
+# Kaggle API anahtarını doğru konuma taşıyın ve izinlerini ayarlayın
+!mkdir -p ~/.kaggle
+!cp kaggle.json ~/.kaggle/
+!chmod 600 ~/.kaggle/kaggle.json
+
+# CelebA veri setini indirin
+!kaggle datasets download -d arnrob/celeba-small-images-dataset
+
+# İndirilen zip dosyasını çıkarın
+import zipfile
+with zipfile.ZipFile("/content/celeba-small-images-dataset.zip", 'r') as zip_ref:
+    zip_ref.extractall("/content/data")
+
+# Etiket dosyasını yükleme
+import pandas as pd
+
+attributes_path = "/content/data/list_attr_celeba.csv"
+attributes_df = pd.read_csv(attributes_path)
+
+# Siyah saçlı ve siyah saçsız insanların sayısını bulma
+black_hair_count = (attributes_df['Black_Hair'] == 1).sum()
+no_black_hair_count = (attributes_df['Black_Hair'] == -1).sum()
+
+print(f"Siyah saçlı insan sayısı: {black_hair_count}")
+print(f"Siyah saçsız insan sayısı: {no_black_hair_count}")
+
+# Görsellerin bulunduğu dizin
+image_dir = "/content/data/img_align_celeba/img_align_celeba"
+
+import cv2
+import os
+import numpy as np
+
+# Görselleri yükleme ve ön işleme
+def load_images(image_dir, image_list, size=(64, 64)):
+    images = []
+    for img_name in image_list:
+        img_path = os.path.join(image_dir, img_name)
+        img = cv2.imread(img_path)
+        img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        img = cv2.resize(img, size)
+        img = img / 255.0
+        images.append(img)
+    return np.array(images)
+
+# Siyah saçlı ve siyah saçsız görselleri yükleme
+black_hair_images = load_images(image_dir, attributes_df[attributes_df['Black_Hair'] == 1]['image_id'].values)
+no_black_hair_images = load_images(image_dir, attributes_df[attributes_df['Black_Hair'] == -1]['image_id'].values)
+
+# İşlenmiş görselleri birleştir
+all_images = np.concatenate([black_hair_images, no_black_hair_images])
+
+# Discriminator modeli
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, Reshape, Conv2DTranspose, LeakyReLU, Conv2D, Flatten, Dropout
+from tensorflow.keras.optimizers import Adam
+
+discriminator = Sequential([
+    Conv2D(64, (3, 3), strides=(2, 2), padding='same', input_shape=(64, 64, 3)),
+    LeakyReLU(alpha=0.2),
+    Dropout(0.4),
+    Conv2D(128, (3, 3), strides=(2, 2), padding='same'),
+    LeakyReLU(alpha=0.2),
+    Dropout(0.4),
+    Conv2D(256, (3, 3), strides=(2, 2), padding='same'),
+    LeakyReLU(alpha=0.2),
+    Dropout(0.4),
+    Flatten(),
+    Dense(1, activation='sigmoid')
+])
+discriminator.compile(loss='binary_crossentropy', optimizer=Adam(learning_rate=0.0002, beta_1=0.5), metrics=['accuracy'])
+
+# Generator modeli
+generator = Sequential([
+    Dense(8*8*256, input_dim=100),
+    LeakyReLU(alpha=0.2),
+    Reshape((8, 8, 256)),
+    Conv2DTranspose(128, (4, 4), strides=(2, 2), padding='same'),
+    LeakyReLU(alpha=0.2),
+    Dropout(0.4),
+    Conv2DTranspose(64, (4, 4), strides=(2, 2), padding='same'),
+    LeakyReLU(alpha=0.2),
+    Dropout(0.4),
+    Conv2DTranspose(3, (4, 4), strides=(2, 2), padding='same', activation='tanh')
+])
+generator.compile(loss='binary_crossentropy', optimizer=Adam(learning_rate=0.0002, beta_1=0.5))
+
+# GAN modeli oluşturma
+discriminator.trainable = False
+gan = Sequential([generator, discriminator])
+gan.compile(loss='binary_crossentropy', optimizer=Adam())
+
+
+# Eğitim için veri oluşturma
+def generate_fake_samples(generator, num_samples):
+    noise = np.random.normal(0, 1, (num_samples, 100))
+    fake_samples = generator.predict(noise)
+    return fake_samples, np.zeros((num_samples, 1))  # Sahte veriler için etiketler
+
+# Resimleri görselleştirmek için yardımcı fonksiyon
+import matplotlib.pyplot as plt
+
+def plot_generated_images(generator, epoch, examples=100, dim=(10, 10), figsize=(10, 10)):
+    noise = np.random.normal(0, 1, (examples, 100))
+    generated_images = generator.predict(noise)
+    generated_images = generated_images * 0.5 + 0.5  # Normalize etmek için
+
+    plt.figure(figsize=figsize)
+    for i in range(examples):
+        plt.subplot(dim[0], dim[1], i+1)
+        plt.imshow(generated_images[i])
+        plt.axis('off')
+    plt.tight_layout()
+    plt.savefig(f"gan_generated_image_epoch_{epoch}.png")
+    plt.show()
+
+# Discriminator ve generator eğitimi
+epochs = 100  # Epoch sayısını azaltabilirsiniz
+batch_size = 32
+
+for epoch in range(epochs):
+    for _ in range(10):
+        # Gerçek veriler için eğitim
+        idx = np.random.randint(0, all_images.shape[0], batch_size)
+        real_samples = all_images[idx]
+        real_labels = np.ones((batch_size, 1))
+        d_loss_real = discriminator.train_on_batch(real_samples, real_labels)
+
+        # Sahte veriler için eğitim
+        fake_samples, fake_labels = generate_fake_samples(generator, batch_size)
+        d_loss_fake = discriminator.train_on_batch(fake_samples, fake_labels)
+
+        # Generator eğitimi
+        noise = np.random.normal(0, 1, (batch_size, 100))
+        g_loss = gan.train_on_batch(noise, np.ones((batch_size, 1)))
+
+    print(f"Epoch: {epoch+1}, Discriminator Loss Real: {d_loss_real}, Discriminator Loss Fake: {d_loss_fake}, Generator Loss: {g_loss}")
+    plot_generated_images(generator, epoch, examples=100)
