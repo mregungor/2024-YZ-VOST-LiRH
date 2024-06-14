@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+
+\bibitem{Dikkate-dayalı-modelleme}
+J.~Devlin, ``Dil anlamak için derin Çift yönlü transformatörlerin Ön
+  eğitimi erişim adresi.'' https://arxiv.org/abs/1810.04805, (11 ekim 2023).
+\newblock Accessed: 10.03.2024.
+
+\bibitem{transformator2}
+A.~Vaswani, ``Attention is all you nee.'' [https://arxiv.org/abs/1706.03762 ],
+  (02.08. 2023).
+\newblock Accessed: 10.03.2024.
+
+\bibitem{transformator1}
+maxime, ``hat is a transformer?.''
+  https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04,
+  (Jan 4, 2019).
+\newblock Accessed: 09.03.2024.
+
+\bibitem{Gan-nedir}
+İşnet blog, ``gan nedir.''
+  https://www.isnet.net.tr/blogicerik/generative-ai-nedir/, (Jan 4, 2019).
+\newblock Accessed: 09.03.2024.
+
+\bibitem{svd}
+A.~Blattmann, ``Stable video diffusion: Scaling latent video diffusion models
+  to large datasets.'' [https://arxiv.org/abs/2311.15127], (nov 25, 2023).
+\newblock Accessed:13.03.2024.
+
+\bibitem{gensim}
+gensim, ``Read the docs: documentation simplified.''
+  https://docs.readthedocs.io/.
+\newblock Accessed: 13.05.2024.
+
+\bibitem{yakar2020yapay}
+G.~Yakar and M.~KINIK, ``Yapay zek{\^a} {\.i}le {\"u}retilen g{\"o}rsel
+  sanatlar eserlerinde fikr{\^\i} m{\"u}lkiyet,'' {\em Art-e Sanat Dergisi},
+  vol.~13, no.~26, pp.~490--516, 2020.
+
+\bibitem{Automatic1111}
+can sungur, ``Stable diffusion 'ı anlamak: Negatif pozitif prompt, neural
+  network.'' [https://www.youtube.com/watch?v=9YPoQFxbTqk], (15.03, 2023).
+\newblock Accessed:02.11.2020.
+
+\bibitem{civitai}
+C.~ai, ``models.'' [https://civitai.com/models/86963/landscapesupermix],
+  (15.03, 2024).
+\newblock Accessed:02.11.2020.
+
+\bibitem{github1111}
+AUTOMATIC1111, ``models.'' [https://github.com/AUTOMATIC1111], (15.03, 2024).
+\newblock Accessed:02.11.2020.
+
+\bibitem{mimari}
+E.~Demir, ``Transformer’ı anlamak — bölüm 1.''
+  https://demegire.medium.com/transformer%C4%B1-anlamak-b%C3%B6l%C3%BCm-1-309c401cfdfb,
+  (03.03, 2024).
+\newblock Accessed:02.11.2020.
+
+\bibitem{unsplash}
+unsplash, ``The most powerful photo engine in the world..''
+  https://unsplash.com/developers.
+\newblock Accessed: 27.05.2024.
+
+\bibitem{Landscape-Pictures}
+A.~ROUGETET, ``Landscape pictures.''
+  [https://www.kaggle.com/datasets/arnaud58/landscape-pictures], (nov 15,
+  2020).
+\newblock Accessed:10.03.2023.
+
+\bibitem{litter-on-forest-floor}
+M.~KALKENINGS, ``Litter on forest floor.''
+  [https://www.kaggle.com/datasets/milankalkenings/litter-on-forest-floor],
+  (15.03, 2023).
+\newblock Accessed:10.03.2023.
+
+\bibitem{weather-dataset}
+J.~BHATHENA, ``Weather image recognition.''
+  [https://www.kaggle.com/datasets/jehanbhathena/weather-dataset], (15.03,
+  2023).
+\newblock Accessed:10.03.2022.
+
+\bibitem{wang2018assessment}
+X.~Wang, Y.~Huang, L.~Li, H.~Dai, F.~Song, and K.~Chen, ``Assessment of
+  performance of the gail model for predicting breast cancer risk: a systematic
+  review and meta-analysis with trial sequential analysis,'' {\em Breast Cancer
+  Research}, vol.~20, pp.~1--19, 2018.
+
+\end{thebibliography}

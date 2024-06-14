@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Database file #1: references.bib
+Repeated entry---line 231 of file references.bib
+ : @misc{civitai
+ :              ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "cloud"
+You've used 17 entries,
+            1876 wiz_defined-function locations,
+            572 strings with 5922 characters,
+and the built_in function-call counts, 2700 in all, are:
+= -- 274
+> -- 88
+< -- 0
++ -- 40
+- -- 23
+* -- 125
+:= -- 403
+add.period$ -- 32
+call.type$ -- 17
+change.case$ -- 17
+chr.to.int$ -- 0
+cite$ -- 17
+duplicate$ -- 90
+empty$ -- 326
+format.name$ -- 23
+if$ -- 679
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 2
+newline$ -- 69
+num.names$ -- 17
+pop$ -- 95
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 67
+stack$ -- 0
+substring$ -- 51
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 23
+width$ -- 19
+write$ -- 171
+(There was 1 error message)

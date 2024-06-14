@@ -1,0 +1,102 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: RAPOR1.2.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Database file #1: refs.bib
+Warning--string name "[https://spacy.io/]" is undefined
+--line 77 of file refs.bib
+Warning--string name "[https://arxiv.org/abs/2311.15127]" is undefined
+--line 91 of file refs.bib
+Warning--string name "landscape" is undefined
+--line 165 of file refs.bib
+I was expecting a `,' or a `}'---line 165 of file refs.bib
+ :  title =   landscape 
+ :                      Pictures},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 193 of file refs.bib
+ : 
+ : @misc{weather-dataset,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 223 of file refs.bib
+ : 
+ : 14
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 239 of file refs.bib
+ : 
+ : @misc{stableDiffision,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 283 of file refs.bib
+ : @misc{civitai
+ :              ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 311 of file refs.bib
+ : 
+ : @misc{mimari,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 327 of file refs.bib
+ : 
+ : @misc{kagle,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 343 of file refs.bib
+ : 
+ : @misc{github,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 363 of file refs.bib
+ : 
+ : @misc{tensorFlow,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 367 of file refs.bib
+ :  title = Sıfırdan 
+ :                     Veri Seti Oluşturarak Yapay Zeka Modeli Eğitelim },
+I'm skipping whatever remains of this entry
+You've used 20 entries,
+            1876 wiz_defined-function locations,
+            575 strings with 6795 characters,
+and the built_in function-call counts, 2939 in all, are:
+= -- 274
+> -- 100
+< -- 0
++ -- 46
+- -- 26
+* -- 126
+:= -- 429
+add.period$ -- 27
+call.type$ -- 20
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 102
+empty$ -- 377
+format.name$ -- 26
+if$ -- 738
+int.to.chr$ -- 0
+int.to.str$ -- 20
+missing$ -- 2
+newline$ -- 72
+num.names$ -- 20
+pop$ -- 101
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 109
+stack$ -- 0
+substring$ -- 51
+swap$ -- 14
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 26
+width$ -- 22
+write$ -- 171
+(There were 10 error messages)

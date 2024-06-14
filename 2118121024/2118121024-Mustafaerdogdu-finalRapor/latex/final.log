@@ -1,0 +1,750 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.6)  14 JUN 2024 15:53
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./final.tex
+(final.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/base\article
+.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.
+clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/datetime\dat
+etime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\eto
+olbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmt
+count.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.
+sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkey
+val.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xk
+eyval.tex
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xk
+vutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\ke
+yval.tex))
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcp
+refix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcn
+umparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsg
+en.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen141
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/datetime\dat
+etime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks20
+\dt@b=\toks21
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gra
+phics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tri
+g.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg
+\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def
+\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\rag
+ged2e.sty
+Package: ragged2e 2023/06/22 v3.6 ragged2e Package
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/float\float.
+sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count288
+\float@exts=\toks22
+\float@box=\box51
+\@float@everytoks=\toks23
+\@floatcapt=\box52
+)
+\@float@every@figure=\toks24
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3
+backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count289
+\l__pdf_internal_box=\box53
+) (final.aux
+
+LaTeX Warning: Label `görsel1' multiply defined.
+
+
+LaTeX Warning: Label `hata1' multiply defined.
+
+)
+\openout1 = `final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-
+english.def
+File: fc-english.def 2016/01/12
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\
+supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen144
+\scratchbox=\box54
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen145
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks26
+)
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg
+\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Mustafa Erdoğdu\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\eps
+topdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+<ksbu.png, id=1, 170.6375pt x 171.64125pt>
+File: ksbu.png Graphic file (type png)
+<use ksbu.png>
+Package pdftex.def Info: ksbu.png  used on input line 26.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 29.
+
+Overfull \hbox (16.34995pt too wide) in paragraph at lines 35--38
+\OT1/cmr/m/n/12 g^^?orsel ayr^^P^^Xst^^Prma mod-eli olu^^Xsturuldu daha sonra m
+etin analiz mod-eli olu^^Xsturuldu.
+ []
+
+
+Overfull \hbox (2.18481pt too wide) in paragraph at lines 35--38
+\OT1/cmr/m/n/12 ad^^Pm ad^^Pm g^^?or^^?unt^^?u olu^^Xsturmak ile m^^?umk^^?un a
+ma bu pro-jede g^^?orsel olu^^Xsturmak
+ []
+
+[1
+
+{C:/Users/Mustafa Erdoğdu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <.
+/ksbu.png>]
+Overfull \hbox (0.56549pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 limeleri ke^^Xsfedildi ve Word2Vec(W2W) mod-eliyle ben-z-er-lik
+-ler analiz edildi.Bu
+ []
+
+
+Overfull \hbox (2.98573pt too wide) in paragraph at lines 40--41
+\OT1/cmr/m/n/12 olu^^Xsturma pro-jesinde kul-lan^^Plmak ^^?uzere kaydedildi. Ku
+l-lan^^Pc^^Pn^^Pn girdi^^Ugi promt
+ []
+
+
+Overfull \hbox (18.30826pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/12 be-lirte^^Xclere ay^^Prma, k^^?ok ay^^Prma, k^^?ok ^^Xc^^?oz^^?
+umleme ve etk-i-siz ke-limelerin kald^^Pr^^Plmas^^P
+ []
+
+
+Overfull \hbox (38.77055pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/12 Ba^^Xsl^^P^^Ug^^Pn da be-lirtti^^Ugi gibi, daha ^^?once g^^?ord
+^^?u^^Ug^^?um^^?uz dikkat mekaniz-mas^^Pn^^P kullan^^Pyor.[[]]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+
+ []
+
+[2]
+Overfull \hbox (22.1139pt too wide) in paragraph at lines 54--58
+\TS1/cmr/m/n/12 � \OT1/cmr/m/n/12 Ay^^Prt Edici (Dis-crim-i-na-tor): Bu a^^Ug, 
+ger^^Xcek ver-i-leri ^^?uretici taraf^^Pndan olu^^Xsturulan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--58
+
+ []
+
+
+Overfull \hbox (0.64319pt too wide) in paragraph at lines 60--66
+\TS1/cmr/m/n/12 �\OT1/cmr/m/n/12 Stable Video Dif-fu-sion, g^^?ur^^?ult^^?u dif
+^^?uzyon ve ters dif^^?uzyon mod-el-leriyle ^^Xcal^^P^^Xs^^Pr. 
+ []
+
+
+Overfull \hbox (11.09306pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/12 belli bir tarzda veya stildeki ver-i-leri ^^?uretmekte daha ba^
+^Xsar^^Pl^^P ola-bilir.Dezavantaj^^P
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[3]
+
+LaTeX Warning: Reference `Gurultu1' on page 4 undefined on input line 72.
+
+
+LaTeX Warning: Reference `Gurultu2' on page 4 undefined on input line 72.
+
+
+LaTeX Warning: Reference `Gurultu3' on page 4 undefined on input line 72.
+
+
+LaTeX Warning: Reference `temiz' on page 4 undefined on input line 72.
+
+
+Overfull \hbox (14.06525pt too wide) in paragraph at lines 75--77
+\OT1/cmr/m/n/12 yaz^^Pl^^Pmlar^^P, ^^Xce^^Xsitli uygu-la-malar i^^Xcin ver-i-le
+ri haz^^Prlamak ad^^Pna be-lirte^^Xclere ay^^Prma,
+ []
+
+
+Overfull \hbox (8.60373pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/12 Torch, bil-im-sel hesapla-malar yap-mak i^^Xcin bir^^Xcok ara^^
+Xc sa^^Uglar. []Ozellikle tens^^?orler
+ []
+
+
+Overfull \hbox (1.03159pt too wide) in paragraph at lines 79--80
+\OT1/cmr/m/n/12 ^^?uzerinde i^^Xslemler ger^^Xcekle^^Xstirmek i^^Xcin kul-lan^^
+Pl^^Pr. Tens^^?orler, ^^Xcok boyutlu diziler
+ []
+
+
+Overfull \hbox (5.90794pt too wide) in paragraph at lines 82--88
+\OT1/cmr/m/n/12 Torchvision, Py-Torch k^^?ut^^?uphanesi i^^Xcin geli^^Xstirilmi
+^^Xs bir k^^?ut^^?uphanedir. G^^?or^^?unt^^?u
+ []
+
+
+Overfull \hbox (3.15102pt too wide) in paragraph at lines 82--88
+\OT1/cmr/m/n/12 k^^?umeleri ve yayg^^Pn d^^?on^^?u^^Xs^^?umler sunar. Bu da, bu
+ t^^?ur uygu-la-malar^^P geli^^Xstirmeyi
+ []
+
+[4]
+Overfull \hbox (11.50232pt too wide) in paragraph at lines 89--126
+\OT1/cmr/m/n/12 Kelimeleri an-lam-sal ili^^Xskilerine g^^?ore say^^Psal vekt^^?
+orlere d^^?on^^?u^^Xst^^?ur^^?ur. Bu vekt^^?orler,
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Overfull \hbox (23.25417pt too wide) in paragraph at lines 136--136
+[]\OT1/cmr/bx/n/12 Stable Video Dif-fuzyon ile Metinden G^^?orsel Olu^^Xsturma 
+Ad^^Pmlar^^P 
+ []
+
+
+Overfull \hbox (9.63356pt too wide) in paragraph at lines 137--142
+\OT1/cmr/m/n/12 lan^^Pl^^Pr.CLIP veya VQ-VAE gibi metinden vekt^^?ore mod-eller
+, metinsel a^^Xc^^Pklamay^^P
+ []
+
+
+Overfull \hbox (9.43057pt too wide) in paragraph at lines 137--142
+\OT1/cmr/m/n/12 say^^Psal bir vekt^^?ore d^^?on^^?u^^Xst^^?urerek mod-elin an-l
+aya-bilece^^Ugi bir for-mata d^^?on^^?u^^Xst^^?ur^^?ur. 
+ []
+
+
+Overfull \hbox (34.99144pt too wide) in paragraph at lines 144--145
+\OT1/cmr/m/n/12 (GUI). Sta-ble Dif-fu-sion ile etk-ile^^Xsim kur-man^^Pz^^P ko-
+layla^^Xst^^Prarak, metin a^^Xc^^Pklamalar^^Pna
+ []
+
+[6]
+Overfull \hbox (0.44409pt too wide) in paragraph at lines 147--149
+\OT1/cmr/m/n/12 Civit ai haz^^Pr e^^Ugitilmi^^Xs mod-ellerri kul-l-lan-mam^^Pza
+ ol-nak sa^^Uglayan sit-ede. [[]][[]] 
+ []
+
+<aaa.png, id=25, 434.22224pt x 495.65175pt>
+File: aaa.png Graphic file (type png)
+<use aaa.png>
+Package pdftex.def Info: aaa.png  used on input line 159.
+(pdftex.def)             Requested size: 341.42839pt x 227.6244pt.
+[7]
+Overfull \hbox (14.5833pt too wide) in paragraph at lines 171--174
+\OT1/cmr/m/n/12 \[]Input em-bed-ding" ile her sat^^Pr^^P bir ke-lim-eye kar^^Xs
+^^Pl^^Pk ge-len bir ma-trise ^^Xcevirilecek
+ []
+
+
+Overfull \hbox (12.48564pt too wide) in paragraph at lines 171--174
+\OT1/cmr/m/n/12 lan^^Plan bir teknik-tir. Bu mekanizma, bir mod-elin girdi dizi
+sinin t^^?um b^^?ol^^?umlerine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--183
+
+ []
+
+[8 <./aaa.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 187--194
+
+ []
+
+[9]
+Overfull \hbox (6.74126pt too wide) in paragraph at lines 207--208
+\OT1/cmr/m/n/12 ^^Xsekilde g^^?osterir. Bu, metindeki ^^?onemli veya bask^^Pn t
+emalar^^P h^^Pzl^^Pca tan^^Pmlamak
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+
+LaTeX Warning: Citation `cloud' on page 10 undefined on input line 214.
+
+
+Overfull \hbox (9.95279pt too wide) in paragraph at lines 211--215
+\OT1/cmr/m/n/12 kald^^Prmak, k^^?u^^Xc^^?uk harfe d^^?on^^?u^^Xst^^?urmek, stop
+ words (^^?onemsiz ke-limeler) kald^^Prmak
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--215
+
+ []
+
+<kelimebulutu2.png, id=38, 941.5175pt x 941.5175pt>
+File: kelimebulutu2.png Graphic file (type png)
+<use kelimebulutu2.png>
+Package pdftex.def Info: kelimebulutu2.png  used on input line 218.
+(pdftex.def)             Requested size: 227.62096pt x 227.62096pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11 <./kelimebulutu2.png>]
+<benzerlikGrafiği.png, id=46, 938.50626pt x 904.37875pt>
+File: benzerlikGrafiği.png Graphic file (type png)
+<use benzerlikGrafiği.png>
+Package pdftex.def Info: benzerlikGrafiği.png  used on input line 236.
+(pdftex.def)             Requested size: 170.71388pt x 170.71597pt.
+ [12 <./benzerlikGrafiği.png>]
+Overfull \hbox (1.41492pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/12 aras^^Pndaki an-lam-sal ili^^Xskileri analiz ede-bilirsiniz. Wo
+rd2Vec mod-eli, ke-limeleri
+ []
+
+[13]
+<app.png, id=55, 883.50075pt x 429.40425pt>
+File: app.png Graphic file (type png)
+<use app.png>
+Package pdftex.def Info: app.png  used on input line 256.
+(pdftex.def)             Requested size: 341.43628pt x 170.71684pt.
+<unsplashKey.png, id=56, 617.9085pt x 275.8305pt>
+File: unsplashKey.png Graphic file (type png)
+<use unsplashKey.png>
+Package pdftex.def Info: unsplashKey.png  used on input line 262.
+(pdftex.def)             Requested size: 341.42528pt x 170.71431pt.
+ [14 <./app.png> <./unsplashKey.png>]
+<epoch1.png, id=62, 608.2725pt x 64.44075pt>
+File: epoch1.png Graphic file (type png)
+<use epoch1.png>
+Package pdftex.def Info: epoch1.png  used on input line 274.
+(pdftex.def)             Requested size: 341.43777pt x 56.90762pt.
+<epoch2.png, id=63, 606.46574pt x 79.497pt>
+File: epoch2.png Graphic file (type png)
+<use epoch2.png>
+Package pdftex.def Info: epoch2.png  used on input line 281.
+(pdftex.def)             Requested size: 341.44151pt x 56.90541pt.
+<epoch3.png, id=64, 605.8635pt x 78.89474pt>
+File: epoch3.png Graphic file (type png)
+<use epoch3.png>
+Package pdftex.def Info: epoch3.png  used on input line 288.
+(pdftex.def)             Requested size: 341.43526pt x 56.90527pt.
+ [15 <./epoch1.png> <./epoch2.png> <./epoch3.png>]
+Overfull \hbox (15.7808pt too wide) in paragraph at lines 293--298
+\OT1/cmr/bx/n/12 Loss \OT1/cmr/m/n/12 Loss, mod-elin tah-min-leri ile ger^^Xcek
+ de^^Ugerler aras^^Pndaki fark^^Pn bir ^^?ol^^Xc^^?us^^?ud^^?ur.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--304
+
+ []
+
+
+Overfull \hbox (15.6319pt too wide) in paragraph at lines 305--307
+\OT1/cmr/m/n/12 te-lik-lerini tem-sil ed-erken, k^^?uresel is-tatis-tik-ler ke-
+limelerin t^^?um metin k^^?umesindeki
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 310--314
+
+ []
+
+<00000000_(5).jpg, id=74, 1027.84pt x 687.56876pt>
+File: 00000000_(5).jpg Graphic file (type jpg)
+<use 00000000_(5).jpg>
+Package pdftex.def Info: 00000000_(5).jpg  used on input line 317.
+(pdftex.def)             Requested size: 284.53105pt x 113.81114pt.
+<00000024_(2).jpg, id=75, 1606.0pt x 1062.97125pt>
+File: 00000024_(2).jpg Graphic file (type jpg)
+<use 00000024_(2).jpg>
+Package pdftex.def Info: 00000024_(2).jpg  used on input line 318.
+(pdftex.def)             Requested size: 284.50949pt x 113.79681pt.
+<huggingFaceToken.png, id=76, 1156.32pt x 522.15076pt>
+File: huggingFaceToken.png Graphic file (type png)
+<use huggingFaceToken.png>
+Package pdftex.def Info: huggingFaceToken.png  used on input line 327.
+(pdftex.def)             Requested size: 284.52713pt x 142.26534pt.
+File: huggingFaceToken.png Graphic file (type png)
+<use huggingFaceToken.png>
+Package pdftex.def Info: huggingFaceToken.png  used on input line 336.
+(pdftex.def)             Requested size: 284.52713pt x 142.26534pt.
+[17 <./00000000_(5).jpg> <./00000024_(2).jpg>] [18 <./huggingFaceToken.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
+
+ []
+
+<webHata.png, id=84, 705.837pt x 60.225pt>
+File: webHata.png Graphic file (type png)
+<use webHata.png>
+Package pdftex.def Info: webHata.png  used on input line 347.
+(pdftex.def)             Requested size: 455.256pt x 28.45277pt.
+
+LaTeX Warning: Citation `github' on page 19 undefined on input line 348.
+
+
+Overfull \hbox (65.256pt too wide) in paragraph at lines 347--350
+ [][] 
+ []
+
+<tutarsız_veri.png, id=85, 495.0495pt x 24.69225pt>
+File: tutarsız_veri.png Graphic file (type png)
+<use tutarsız_veri.png>
+Package pdftex.def Info: tutarsız_veri.png  used on input line 355.
+(pdftex.def)             Requested size: 256.08263pt x 28.45348pt.
+<verisetiDegerleri.png, id=86, 422.7795pt x 33.12375pt>
+File: verisetiDegerleri.png Graphic file (type png)
+<use verisetiDegerleri.png>
+Package pdftex.def Info: verisetiDegerleri.png  used on input line 362.
+(pdftex.def)             Requested size: 256.0888pt x 28.453pt.
+
+Overfull \hbox (15.3231pt too wide) in paragraph at lines 359--367
+\OT1/cmr/m/n/12 za-man buhata al^^Pn^^Pr. Hata 14[] de g^^?orec^^Ugimiz ^^?uzer
+e word2vec mod-eli s^^Pn^^Pfland^^Prma
+ []
+
+<görsel oluşturma hatası .png, id=87, 486.01575pt x 69.861pt>
+File: görsel oluşturma hatası .png Graphic file (type png)
+<use görsel oluşturma hatası .png>
+Package pdftex.def Info: görsel oluşturma hatası .png  used on input line 37
+0.
+(pdftex.def)             Requested size: 341.43976pt x 56.9058pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<grafik görüntüleme.png, id=88, 1155.1155pt x 600.44325pt>
+File: grafik görüntüleme.png Graphic file (type png)
+<use grafik görüntüleme.png>
+Package pdftex.def Info: grafik görüntüleme.png  used on input line 377.
+(pdftex.def)             Requested size: 341.42589pt x 227.62108pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19 <./webHata.png> <./tutarsız_veri.png> <./verisetiDegerleri.png>]
+<sürümHatası.png, id=96, 458.9145pt x 24.09pt>
+File: sürümHatası.png Graphic file (type png)
+<use sürümHatası.png>
+Package pdftex.def Info: sürümHatası.png  used on input line 388.
+(pdftex.def)             Requested size: 341.43306pt x 42.67896pt.
+<apiunsplashhatası.png, id=97, 491.436pt x 60.225pt>
+File: apiunsplashhatası.png Graphic file (type png)
+<use apiunsplashhatası.png>
+Package pdftex.def Info: apiunsplashhatası.png  used on input line 396.
+(pdftex.def)             Requested size: 426.81099pt x 85.36661pt.
+
+Overfull \hbox (36.81099pt too wide) in paragraph at lines 396--399
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20 <./görsel oluşturma hatası .png> <./grafik görüntüleme.png> <./sürü
+mHatası.png>] (final.bbl
+Overfull \hbox (12.25278pt too wide) in paragraph at lines 410--1
+\OT1/cmr/m/n/12 Gelecek s^^?ure^^Xcte hede-fle-nen ba^^Xsar^^Pm, kul-lan^^Pc^^P
+n^^Pn girdi^^Ugi metinden metin vekt^^?or^^?u
+ []
+
+
+Overfull \hbox (34.56226pt too wide) in paragraph at lines 410--1
+\OT1/cmr/m/n/12 edil-erek, mod-elin olu^^Xsturdu^^Ugu res-im-lerin kalitesinin 
+ve ^^Xce^^Xsitlili^^Uginin de^^Ugerlendirilmesi
+ []
+
+
+Overfull \hbox (21.00221pt too wide) in paragraph at lines 410--1
+\OT1/cmr/m/n/12 ve mod-elin s^^Pn^^Prlamalar^^Pn^^Pn be-lir-len-mesi gibi i^^Xs
+lemler tamam-lanacakt^^Pr. Metinden
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/12 J. De-vlin, ``Dil an-la-mak i^^Xcin de-rin []ift y^^?onl^^?u 
+trans-for-mat^^?orlerin
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+[]\OT1/cmr/m/n/12 A. Vaswani, ``At-ten-tion is all you nee.''
+ []
+
+
+Underfull \hbox (badness 7851) in paragraph at lines 9--12
+\OT1/cmr/m/n/12 [https://arxiv.org/abs/1706.03762 ], (02.08. 2023).  Ac-cessed:
+
+ []
+
+[21 <./apiunsplashhatası.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--33
+[]\OT1/cmr/m/n/12 gensim, ``Read the docs: doc-u-men-ta-tion sim-pli-fied.''
+ []
+
+
+Underfull \hbox (badness 3907) in paragraph at lines 40--43
+\OT1/cmr/m/n/12 ral net-work.'' [https://www.youtube.com/watch?v=9YPoQFxbTqk],
+ []
+
+
+Overfull \hbox (3.88202pt too wide) in paragraph at lines 45--48
+[]\OT1/cmr/m/n/12 C. ai, ``mod-els.'' [https://civitai.com/models/86963/landsca
+pesupermix],
+ []
+
+
+Overfull \hbox (4.2973pt too wide) in paragraph at lines 50--52
+[]\OT1/cmr/m/n/12 AUTOMATIC1111, ``mod-els.'' [https://github.com/AUTOMATIC1111
+],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--58
+[]\OT1/cmr/m/n/12 E. Demir, ``Trans-former'^^P an-la-mak | b^^?ol^^?um 1.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--58
+\OT1/cmr/m/n/12 https://demegire.medium.com/transformer(03.03, 2024).  Ac-
+ []
+
+
+Underfull \hbox (badness 5939) in paragraph at lines 60--63
+[]\OT1/cmr/m/n/12 unsplash, ``The most pow-er-ful photo en-gine in the world..'
+'
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--69
+[]\OT1/cmr/m/n/12 A. ROUGETET, ``Land-scape pic-tures.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--69
+\OT1/cmr/m/n/12 [https://www.kaggle.com/datasets/arnaud58/landscape-pictures],
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+[]\OT1/cmr/m/n/12 M. KALKEN-INGS, ``Lit-ter on for-est floor.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--75
+\OT1/cmr/m/n/12 [https://www.kaggle.com/datasets/milankalkenings/litter-on-fore
+st-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+[]\OT1/cmr/m/n/12 J. BHA-THENA, ``Weather im-age recog-ni-tion.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--81
+\OT1/cmr/m/n/12 [https://www.kaggle.com/datasets/jehanbhathena/weather-dataset]
+,
+ []
+
+[22]) [23] (final.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 2)
+
+### simple group (level 2) entered at line 313 ({)
+### simple group (level 1) entered at line 312 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 2976 strings out of 474486
+ 50009 string characters out of 5738528
+ 1933542 words of memory out of 5000000
+ 25252 multiletter control sequences out of 15000+600000
+ 561483 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,9n,79p,1112b,373s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Mustafa Erdoğdu\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Mustafa Erdoğdu/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Mustafa Erdoğdu
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Use
+rs/Mustafa Erdoğdu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr17.pfb><C:/Users/Mustafa Erdoğdu/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmti12.pfb>
+Output written on final.pdf (23 pages, 1389093 bytes).
+PDF statistics:
+ 137 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+
