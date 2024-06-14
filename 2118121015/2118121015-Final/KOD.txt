@@ -1,0 +1,121 @@
+import tensorflow as tf
+from tensorflow.keras import layers, models, optimizers, metrics
+import numpy as np
+import matplotlib.pyplot as plt
+import os
+from google.colab import drive
+
+# Google Drive'ı bağlama
+drive.mount('/content/drive')
+
+# Görüntü konumu
+image_dir = '/content/dataset/'
+test_image_path = '/content/drive/My Drive/DataSet/test4.png'
+
+# Görüntüleri yükleme ve boyutlarını ayarlama
+def load_and_preprocess_images(image_dir, image_size=(512, 512)):
+    images = []
+    for filename in os.listdir(image_dir):
+        if filename.endswith('.jpg') or filename.endswith('.jpeg') or filename.endswith('.png'):
+            image_path = os.path.join(image_dir, filename)
+            img = tf.keras.preprocessing.image.load_img(image_path, target_size=image_size)
+            img_array = tf.keras.preprocessing.image.img_to_array(img)
+            img_array = img_array.astype('float32') / 255.0  # Normalizasyon
+            images.append(img_array)
+    return np.array(images)
+
+# Gaussian Bulanıklığı Gürültüsü Ekleme Fonksiyonu
+def add_gaussian_noise(images, noise_std=0.1):
+    noisy_images = images + np.random.normal(0, noise_std, size=images.shape)
+    return np.clip(noisy_images, 0., 1.)
+
+# Salt-and-Pepper Noise Ekleme Fonksiyonu
+def add_salt_and_pepper_noise(images, noise_level=0.1):
+    noisy_images = np.copy(images)
+    num_salt_pixels = np.ceil(noise_level * images.size * 0.5)
+    salt_coords = [np.random.randint(0, i - 1, int(num_salt_pixels)) for i in images.shape]
+    pepper_coords = [np.random.randint(0, i - 1, int(num_salt_pixels)) for i in images.shape]
+    noisy_images[salt_coords[0], salt_coords[1], salt_coords[2]] = 1
+    noisy_images[pepper_coords[0], pepper_coords[1], pepper_coords[2]] = 0
+    return noisy_images
+
+# Gaussian ve Salt-and-Pepper Gürültüsü Ekleme
+def add_noise(images, gaussian_std=0.1, salt_pepper_level=0.1):
+    noisy_images = add_gaussian_noise(images, gaussian_std)
+    noisy_images = add_salt_and_pepper_noise(noisy_images, salt_pepper_level)
+    return noisy_images
+
+# Görüntüleri yükle ve boyutlarını ayarla
+images = load_and_preprocess_images(image_dir)
+images_noisy = add_noise(images, gaussian_std=0.1, salt_pepper_level=0.1)
+
+# DnCNN Modeli Oluşturma ve Eğitim
+def build_dncnn_model():
+    model = models.Sequential()
+    model.add(layers.Conv2D(128, (3, 3), padding='same', input_shape=(512, 512, 3)))
+    model.add(layers.LeakyReLU(alpha=0.1))
+
+    model.add(layers.Conv2D(128, (3, 3), padding='same'))
+    model.add(layers.LeakyReLU(alpha=0.1))
+
+    model.add(layers.Conv2D(128, (3, 3), padding='same'))
+    model.add(layers.LeakyReLU(alpha=0.1))
+
+    model.add(layers.Conv2D(3, (3, 3), padding='same'))
+
+    return model
+
+model = build_dncnn_model()
+model.summary()
+
+optimizer = optimizers.Adam(learning_rate=0.001)
+model.compile(optimizer=optimizer, loss='mean_squared_error', metrics=[metrics.MeanSquaredError()])
+
+epochs = 80
+batch_size = 3
+
+history = model.fit(images_noisy, images, epochs=epochs, batch_size=batch_size, validation_split=0.2)
+
+# Eğitim ve Doğrulama Kayıp Grafiği
+plt.plot(history.history['loss'], label='Training Loss')
+plt.plot(history.history['val_loss'], label='Validation Loss')
+plt.xlabel('Epochs')
+plt.ylabel('Loss')
+plt.legend()
+plt.show()
+
+# Test Aşaması
+# test1 görselini yükle
+test_img = tf.keras.preprocessing.image.load_img(test_image_path, target_size=(512, 512))
+test_img_array = tf.keras.preprocessing.image.img_to_array(test_img)
+test_img_array = test_img_array.astype('float32') / 255.0  # Normalizasyon
+
+# Model ile denoising yap
+denoised_test_image = model.predict(np.expand_dims(test_img_array, axis=0))
+
+# Sonuçları Görselleştirme
+plt.figure(figsize=(10, 10))
+
+plt.subplot(1, 2, 1)
+plt.imshow(test_img_array)
+plt.title('Original')
+plt.axis('off')
+
+plt.subplot(1, 2, 2)
+plt.imshow(denoised_test_image[0])
+plt.title('Denoised')
+plt.axis('off')
+
+plt.show()
+
+# Doğruluk Hesaplama
+def calculate_accuracy(test_img_array, denoised_test_image, threshold=0.1):
+    accurate_pixels = np.sum(np.abs(test_img_array - denoised_test_image) < threshold)
+    total_pixels = test_img_array.size
+    accuracy = accurate_pixels / total_pixels
+    return accuracy
+
+threshold = 0.1  # Eşik değeri
+accuracy = calculate_accuracy(images, model.predict(images_noisy), threshold)
+print(f"Model doğruluğu: {accuracy * 100:.2f}%")
+
