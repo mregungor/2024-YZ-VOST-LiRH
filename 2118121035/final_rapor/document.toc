@@ -1,0 +1,51 @@
+\contentsline {section}{\numberline {1}Giriş}{3}{section.1}%
+\contentsline {section}{\numberline {2}Literatür Araştırması}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Ses Datasetleri}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}N-synth}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}MAESTRO}{7}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Kaglle Kodu İle Kullanılan Datasetler}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}FSDD - Free Spoken Digit Dataset}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Gunshot Audio Dataset}{8}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Yöntem}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Variational Autoencoder (VAE): Yaratıcı ve Esnek Veri Üretimi}{10}{subsection.3.1}%
+\contentsline {subsubsubsection}{\numberline {3.1.0.1}VAE’nin İşlevi ve Autoencoder (AE) ile Farkı}{10}{subsubsubsection.3.1.0.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}VAE’nin Çalışma Prensibi}{10}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}GAN ile Bağlantısı}{11}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Kullanım Alanları}{11}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}VAE \& VQ-VAE \& VAE-GAN}{12}{subsubsection.3.1.4}%
+\contentsline {subsubsubsection}{\numberline {3.1.4.1}VAE}{13}{subsubsubsection.3.1.4.1}%
+\contentsline {subsubsubsection}{\numberline {3.1.4.2}VQ-VAE}{13}{subsubsubsection.3.1.4.2}%
+\contentsline {subsubsubsection}{\numberline {3.1.4.3}VAE-GAN}{14}{subsubsubsection.3.1.4.3}%
+\contentsline {subsection}{\numberline {3.2}Entropi}{15}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Çapraz Düzensizlik (Cross-Entropy) ve KL Iraksaklığı (KL Divergence)}{19}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Kullback-Leibler Iraksaklığı \newline (KL-Divergence)}{20}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Optimizer}{21}{subsection.3.5}%
+\contentsline {subsection}{\numberline {3.6}Aktivasyon Fonksiyonu}{23}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Ses Türleri}{25}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Ses Temsil Etme Yöntemi}{25}{subsection.3.8}%
+\contentsline {subsubsection}{\numberline {3.8.1}Raw-audio}{25}{subsubsection.3.8.1}%
+\contentsline {subsection}{\numberline {3.9}Spektrogram}{26}{subsection.3.9}%
+\contentsline {subsection}{\numberline {3.10}Spektrum}{26}{subsection.3.10}%
+\contentsline {subsection}{\numberline {3.11}Mel-Frekans Cepstral Katsayıları (MFCC-Mel-Frequency Cepstral Coefficients) }{26}{subsection.3.11}%
+\contentsline {subsection}{\numberline {3.12}Üretimde Inputlar}{27}{subsection.3.12}%
+\contentsline {subsection}{\numberline {3.13}Sinyaller;}{28}{subsection.3.13}%
+\contentsline {subsubsection}{\numberline {3.13.1}Discrite Fourier Transform (DFT)}{28}{subsubsection.3.13.1}%
+\contentsline {subsubsection}{\numberline {3.13.2}FFT}{29}{subsubsection.3.13.2}%
+\contentsline {subsubsection}{\numberline {3.13.3}Short Time Fourier Transform(STFT)}{29}{subsubsection.3.13.3}%
+\contentsline {subsubsection}{\numberline {3.13.4}Değişkenleri}{29}{subsubsection.3.13.4}%
+\contentsline {subsection}{\numberline {3.14}Ses Normalizasyonu}{30}{subsection.3.14}%
+\contentsline {subsection}{\numberline {3.15}Peak Normalizasyonu}{30}{subsection.3.15}%
+\contentsline {subsection}{\numberline {3.16}Loudness Normalizasyonu}{31}{subsection.3.16}%
+\contentsline {subsection}{\numberline {3.17}Evidence Lower Bound(ELBO)}{32}{subsection.3.17}%
+\contentsline {section}{\numberline {4}Bulgu ve Tartışma}{35}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Hatalar}{35}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}epsilon}{38}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}k shape}{38}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}model fit}{40}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}tensorflow function hatası}{40}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}y target}{41}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}SymbolicTensor}{43}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Hata1}{44}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}Hata2}{46}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}Hata3}{50}{subsection.4.10}%
+\contentsline {section}{\numberline {5}Sonuç}{51}{section.5}%

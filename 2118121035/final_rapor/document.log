@@ -1,0 +1,2215 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.6)  14 JUN 2024 12:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./document.tex
+(document.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box51
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen141
+\ttl@minus=\dimen142
+\ttl@toksa=\toks17
+\titlewidth=\dimen143
+\titlewidthlast=\dimen144
+\titlewidthfirst=\dimen145
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip52
+\cftbeforetoctitleskip=\skip53
+\cftaftertoctitleskip=\skip54
+\cftbeforepartskip=\skip55
+\cftpartnumwidth=\skip56
+\cftpartindent=\skip57
+\cftbeforesecskip=\skip58
+\cftsecindent=\skip59
+\cftsecnumwidth=\skip60
+\cftbeforesubsecskip=\skip61
+\cftsubsecindent=\skip62
+\cftsubsecnumwidth=\skip63
+\cftbeforesubsubsecskip=\skip64
+\cftsubsubsecindent=\skip65
+\cftsubsubsecnumwidth=\skip66
+\cftbeforeparaskip=\skip67
+\cftparaindent=\skip68
+\cftparanumwidth=\skip69
+\cftbeforesubparaskip=\skip70
+\cftsubparaindent=\skip71
+\cftsubparanumwidth=\skip72
+\cftbeforeloftitleskip=\skip73
+\cftafterloftitleskip=\skip74
+\cftbeforefigskip=\skip75
+\cftfigindent=\skip76
+\cftfignumwidth=\skip77
+\c@lofdepth=\count195
+\c@lotdepth=\count196
+\cftbeforelottitleskip=\skip78
+\cftafterlottitleskip=\skip79
+\cftbeforetabskip=\skip80
+\cfttabindent=\skip81
+\cfttabnumwidth=\skip82
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+) (C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip83
+For additional information on amsmath, use the `?' option.
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen148
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen149
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count197
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count198
+\leftroot@=\count199
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count266
+\DOTSCASE@=\count267
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen150
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count268
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count269
+\dotsspace@=\muskip17
+\c@parentequation=\count270
+\dspbrk@lvl=\count271
+\tag@help=\toks22
+\row@=\count272
+\column@=\count273
+\maxfields@=\count274
+\andhelp@=\toks23
+\eqnshift@=\dimen151
+\alignsep@=\dimen152
+\tagshift@=\dimen153
+\tagwidth@=\dimen154
+\totwidth@=\dimen155
+\lineht@=\dimen156
+\@envbody=\toks24
+\multlinegap=\skip84
+\multlinetaggap=\skip85
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.st
+y
+Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count275
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count277
+\Hy@pagecounter=\count278
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count279
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count280
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen158
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count281
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count282
+\c@Item=\count283
+\c@Hfootnote=\count284
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count285
+\c@bookmark@seq@number=\count286
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip86
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
+)
+\BKM@id=\count287
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count288
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.st
+y
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count289
+))
+\c@padzeroesN=\count290
+\fc@tmpcatcode=\count291
+\@DT@modctr=\count292
+\@ordinalctr=\count293
+\@orgargctr=\count294
+\@strctr=\count295
+\@tmpstrctr=\count296
+\@DT@loopN=\count297
+\@DT@X=\count298
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-defau
+lts.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count299
+\@month=\count300
+\@year=\count301
+\c@HOUR=\count302
+\c@HOURXII=\count303
+\c@MINUTE=\count304
+\c@TOHOUR=\count305
+\c@TOMINUTE=\count306
+\c@SECOND=\count307
+\currenthour=\count308
+\currentminute=\count309
+\currentsecond=\count310
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count311
+\dayofyear=\count312
+\dayofweek=\count313
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks28
+\dt@b=\toks29
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language79
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks30
+\pgfutil@tempdima=\dimen161
+\pgfutil@tempdimb=\dimen162
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box54
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks31
+\pgfkeys@temptoks=\toks32
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+libraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks33
+))
+\pgf@x=\dimen163
+\pgf@y=\dimen164
+\pgf@xa=\dimen165
+\pgf@ya=\dimen166
+\pgf@xb=\dimen167
+\pgf@yb=\dimen168
+\pgf@xc=\dimen169
+\pgf@yc=\dimen170
+\pgf@xd=\dimen171
+\pgf@yd=\dimen172
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count314
+\c@pgf@countb=\count315
+\c@pgf@countc=\count316
+\c@pgf@countd=\count317
+\t@pgf@toka=\toks34
+\t@pgf@tokb=\toks35
+\t@pgf@tokc=\toks36
+\pgf@sys@id@count=\count318
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count319
+\pgfsyssoftpath@bigbuffer@items=\count320
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen173
+\pgfmath@count=\count321
+\pgfmath@box=\box55
+\pgfmath@toks=\toks37
+\pgfmath@stack@operand=\toks38
+\pgfmath@stack@operation=\toks39
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count322
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen174
+\pgf@picmaxx=\dimen175
+\pgf@picminy=\dimen176
+\pgf@picmaxy=\dimen177
+\pgf@pathminx=\dimen178
+\pgf@pathmaxx=\dimen179
+\pgf@pathminy=\dimen180
+\pgf@pathmaxy=\dimen181
+\pgf@xx=\dimen182
+\pgf@xy=\dimen183
+\pgf@yx=\dimen184
+\pgf@yy=\dimen185
+\pgf@zx=\dimen186
+\pgf@zy=\dimen187
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen188
+\pgf@path@lasty=\dimen189
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen190
+\pgf@shorten@start@additional=\dimen191
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count323
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen192
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen193
+\pgf@pt@y=\dimen194
+\pgf@pt@temp=\dimen195
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen196
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen197
+\pgf@sys@shading@range@num=\count324
+\pgf@shadingcount=\count325
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box59
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box60
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen198
+\pgf@nodesepend=\dimen199
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen256
+\pgffor@skip=\dimen257
+\pgffor@stack=\toks40
+\pgffor@toks=\toks41
+))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count326
+\pgfplotmarksize=\dimen258
+)
+\tikz@lastx=\dimen259
+\tikz@lasty=\dimen260
+\tikz@lastxsaved=\dimen261
+\tikz@lastysaved=\dimen262
+\tikz@lastmovetox=\dimen263
+\tikz@lastmovetoy=\dimen264
+\tikzleveldistance=\dimen265
+\tikzsiblingdistance=\dimen266
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count327
+\tikznumberofchildren=\count328
+\tikznumberofcurrentchild=\count329
+\tikz@fig@count=\count330
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count331
+\pgfmatrixcurrentcolumn=\count332
+\pgf@matrix@numberofcolumns=\count333
+)
+\tikz@expandcount=\count334
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen267
+\captionmargin=\dimen268
+\caption@leftmargin=\dimen269
+\caption@rightmargin=\dimen270
+\caption@width=\dimen271
+\caption@indent=\dimen272
+\caption@parindent=\dimen273
+\caption@hangindent=\dimen274
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count335
+\c@continuedfloat=\count336
+Package caption Info: hyperref package is loaded.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 26.
+\c@subsubsubsection=\count337
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count338
+\l__pdf_internal_box=\box65
+) (document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count339
+\scratchdimen=\dimen275
+\scratchbox=\box66
+\nofMPsegments=\count340
+\nofMParguments=\count341
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count342
+\MPscratchDim=\dimen276
+\MPnumerator=\count343
+\makeMPintoPDFobject=\count344
+\everyMPtoPDFconversion=\toks43
+)
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring ON on input line 79.
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.def
+File: fc-english.def 2016/01/12
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<./images/ksbu.png, id=6, 127.97812pt x 128.73094pt>
+File: ./images/ksbu.png Graphic file (type png)
+<use ./images/ksbu.png>
+Package pdftex.def Info: ./images/ksbu.png  used on input line 82.
+(pdftex.def)             Requested size: 113.81102pt x 114.4798pt.
+ [1
+
+{C:/Users/dgdln/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/ksb
+u.png>] (document.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 1.
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 1.
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[2]
+Underfull \hbox (badness 6001) in paragraph at lines 29--29
+ [][] [][][]\T1/cmr/m/n/12 Mel-Frekans Cep-stral Kat-say^^Ylar^^Y (MFCC-Mel-Fre
+quency 
+ []
+
+[3])
+\tf@toc=\write4
+\openout4 = `document.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.88 	\newpage
+               [1]
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.117 			\item �
+                �retici Ağlar [2]
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.131 	
+        [3] [4] [5] [6] [7] [8] [9]
+
+Package hyperref Warning: bookmark level for unknown subsubsubsection defaults 
+to 0.
+
+[10] [11]
+<./images/models.png, id=195, 503.8825pt x 739.76375pt>
+File: ./images/models.png Graphic file (type png)
+<use ./images/models.png>
+Package pdftex.def Info: ./images/models.png  used on input line 262.
+(pdftex.def)             Requested size: 312.00119pt x 458.06181pt.
+ [12
+
+ <./images/models.png>]
+<./images/vae.png, id=206, 1104.125pt x 489.83pt>
+File: ./images/vae.png Graphic file (type png)
+<use ./images/vae.png>
+Package pdftex.def Info: ./images/vae.png  used on input line 269.
+(pdftex.def)             Requested size: 272.99881pt x 121.11183pt.
+<./images/vqvae.png, id=209, 831.105pt x 415.5525pt>
+File: ./images/vqvae.png Graphic file (type png)
+<use ./images/vqvae.png>
+Package pdftex.def Info: ./images/vqvae.png  used on input line 278.
+(pdftex.def)             Requested size: 117.00119pt x 58.50032pt.
+ [13 <./images/vae.png>]
+<./images/vaegan.png, id=218, 1039.885pt x 537.00626pt>
+File: ./images/vaegan.png Graphic file (type png)
+<use ./images/vaegan.png>
+Package pdftex.def Info: ./images/vaegan.png  used on input line 289.
+(pdftex.def)             Requested size: 195.0pt x 100.69661pt.
+ [14 <./images/vqvae.png> <./images/vaegan.png>]
+
+LaTeX Warning: Reference `bilgi_miktari' on page 15 undefined on input line 304
+.
+
+[15
+
+]
+Overfull \hbox (6.23831pt too wide) in paragraph at lines 364--377
+ [] 
+ []
+
+[16]
+
+LaTeX Warning: Reference `Shannon Entropisi' on page 17 undefined on input line
+ 416.
+
+[17]
+
+LaTeX Warning: Reference `tablo5' on page 18 undefined on input line 421.
+
+
+Overfull \hbox (60.60376pt too wide) in paragraph at lines 425--442
+ [] 
+ []
+
+
+Overfull \hbox (62.88791pt too wide) in paragraph at lines 448--465
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 422--467
+
+ []
+
+
+LaTeX Warning: Command \textemdash invalid in math mode on input line 470.
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+|[]\T1/cmr/bx/n/14.4 �apraz D�zen-si-z-lik (Cross-Entropy) ve KL
+ []
+
+
+LaTeX Warning: Reference `CrossEntropy2' on page 19 undefined on input line 496
+.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\newline' on input line 509.
+
+
+LaTeX Warning: Reference `Olabilirlik oranı' on page 19 undefined on input lin
+e 510.
+
+[19]
+
+LaTeX Warning: Reference `Olabilirlik oranı' on page 20 undefined on input lin
+e 518.
+
+
+LaTeX Warning: Reference `Olasılık dağılımları ayrıkken Kullback-Leibler
+ Iraksaklığı' on page 20 undefined on input line 525.
+
+[20] [21] [22] [23] [24] [25
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 627--627
+|[]\T1/cmr/bx/n/14.4 Mel-Frekans Cep-stral Kat-say^^Ylar^^Y
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--627
+\T1/cmr/bx/n/14.4 (MFCC-Mel-Frequency Cep-stral Co-ef-fi-cients)
+ []
+
+[26] [27] [28] [29] [30] [31] [32] [33] [34]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 7
+49.
+
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Overfull \hbox (245.86972pt too wide) in paragraph at lines 767--767
+[] \T1/cmtt/m/n/12 File "C:\Users\dgdl\Downloads\generating-sound-with-neural-n
+etworks-main\generating-sound-with-neural-[] 
+ []
+
+
+Overfull \hbox (110.05289pt too wide) in paragraph at lines 767--767
+[] \T1/cmtt/m/n/12 networks-main\n14 Sound generation with VAE\code\train.py", 
+line 41, in <module>[] 
+ []
+
+
+Overfull \hbox (245.86972pt too wide) in paragraph at lines 767--767
+[] \T1/cmtt/m/n/12 File "C:\Users\dgdl\Downloads\generating-sound-with-neural-n
+etworks-main\generating-sound-with-neural-[] 
+ []
+
+
+Overfull \hbox (91.53241pt too wide) in paragraph at lines 767--767
+[] \T1/cmtt/m/n/12 networks-main\n14 Sound generation with VAE\code\train.py", 
+line 36, in train[] 
+ []
+
+
+Overfull \hbox (245.86972pt too wide) in paragraph at lines 767--767
+[] \T1/cmtt/m/n/12 File "C:\Users\dgdl\Downloads\generating-sound-with-neural-n
+etworks-main\generating-sound-with-neural-[] 
+ []
+
+
+Overfull \hbox (128.57336pt too wide) in paragraph at lines 767--767
+[] \T1/cmtt/m/n/12 networks-main\n14 Sound generation with VAE\code\autoencoder
+.py", line 59, in train[] 
+ []
+
+
+Overfull \hbox (215.00226pt too wide) in paragraph at lines 767--767
+[] \T1/cmtt/m/n/12 File "C:\Users\dgdl\AppData\Local\Programs\Python\Python312\
+Lib\site-packages\keras\src\trainers\[] 
+ []
+
+
+Overfull \hbox (177.9613pt too wide) in paragraph at lines 767--767
+[] \T1/cmtt/m/n/12 ValueError: When providing `x` as a tf.data.Dataset, `y` sho
+uld not be passed. Instead, the[] 
+ []
+
+
+Overfull \hbox (745.9226pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 File "c:\Users\dgdl\Downloads\generating-sound-with-neural-
+networks-main\generating-sound-with-neural-networks-main\n14 Sound generation w
+ith VAE\code\train.py", line 77, in <module>[] 
+ []
+
+[35]
+Overfull \hbox (727.40213pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 File "c:\Users\dgdl\Downloads\generating-sound-with-neural-
+networks-main\generating-sound-with-neural-networks-main\n14 Sound generation w
+ith VAE\code\train.py", line 73, in train[] 
+ []
+
+
+Overfull \hbox (764.44308pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 File "c:\Users\dgdl\Downloads\generating-sound-with-neural-
+networks-main\generating-sound-with-neural-networks-main\n14 Sound generation w
+ith VAE\code\autoencoder.py", line 59, in train[] 
+ []
+
+
+Overfull \hbox (492.80942pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 File "C:\Users\dgdl\AppData\Local\Programs\Python\Python312
+\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_hand
+ler[] 
+ []
+
+
+Overfull \hbox (603.93228pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 File "C:\Users\dgdl\AppData\Local\Programs\Python\Python312
+\Lib\site-packages\keras\src\trainers\data_adapters\__init__.py", line 124, in 
+raise_unsupported_arg[] 
+ []
+
+
+Overfull \hbox (548.37085pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 ValueError: When providing `x` as a tf.data.Dataset, `y` sh
+ould not be passed. Instead, the targets should be included as part of the tf.d
+ata.Dataset.[] 
+ []
+
+
+Overfull \hbox (1906.53918pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 PS C:\Users\dgdl\Downloads\generating-sound-with-neural-net
+works-main\generating-sound-with-neural-networks-main\14 Sound generation with 
+VAE\code> & C:/Users/dgdln/AppData/Local/Programs/Python/Python312/python.exe "
+c:/Users/dgdl/Downloads/generating-sound-with-neural-networks-main/generating-s
+ound-with-neural-networks-main/14 Sound generation with VAE/code/train.py"[] 
+ []
+
+
+Overfull \hbox (1462.04773pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 2024-05-09 06:17:40.236300: I tensorflow/core/platform/cpu_
+feature_guard.cc:113] oneDNN custom operations are on. You may see slightly dif
+ferent numerical results due to floating-point round-off errors from different 
+orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0
+`.[] 
+ []
+
+
+Overfull \hbox (1462.04773pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 2024-05-09 06:17:40.979272: I tensorflow/core/platform/cpu_
+feature_guard.cc:113] oneDNN custom operations are on. You may see slightly dif
+ferent numerical results due to floating-point round-off errors from different 
+orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0
+`.[] 
+ []
+
+
+Overfull \hbox (1437.35376pt too wide) in paragraph at lines 787--787
+[]  \T1/cmtt/m/n/12 WARNING:tensorflow:From c:\Users\dgdl\Downloads\generating-
+sound-with-neural-networks-main\generating-sound-with-neural-networks-main\14 S
+ound generation with VAE\code\autoencoder.py:14: The name tf.disable_eager_exec
+ution is deprecated. Please use tf.compat.v1.disable_eager_execution instead.[]
+ 
+ []
+
+
+Overfull \hbox (159.44083pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 Trainable params: 2,368,833 (9.04 MB) Non-trainable params: 
+2,944 (11.50 KB) Epoch 1/150[] 
+ []
+
+
+Overfull \hbox (560.71783pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 "c:\Users\dgdln\Downloads\generating-sound-with-neural-netwo
+rks-main\generating-sound-with-neural-networks-main\generating-sound-with-neura
+l-networks-mai[] 
+ []
+
+
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 n\14 Sound generation with VAE\code\train.py", line 45, in <
+module>[] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 autoencoder = train(x_train, LEARNING RATE, BATCH_SIZE, EPOC
+HS)[] 
+ []
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.816 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (560.71783pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 "c:\Users\dgdln\Downloads\generating-sound-with-neural-netwo
+rks-main\generating-sound-with-neural-networks-main\generating-sound-with-neura
+l-networks-mai[] 
+ []
+
+[36]
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 n\14 Sound generation with VAE\code\train.py", line 39, in t
+rain[] 
+ []
+
+
+Overfull \hbox (560.71783pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 "c:\Users\dgdln\Downloads\generating-sound-with-neural-netwo
+rks-main\generating-sound-with-neural-networks-main\generating-sound-with-neura
+l-networks-mai[] 
+ []
+
+
+Overfull \hbox (48.31796pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 n\14 Sound generation with VAE\code\autoencoder.py", line 59
+, in train[] 
+ []
+
+
+Overfull \hbox (776.79007pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python312
+\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_hand
+ler raise e.with_traceback(filtered_tb) from None[] 
+ []
+
+
+Overfull \hbox (610.10577pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python312
+\Lib\site-packages\keras\src\models\functional.py", line 288, in _adjust_input_
+rank raise ValueError([] 
+ []
+
+
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 ValueError: Exception encountered when calling Functional.ca
+ll().[] 
+ []
+
+
+Overfull \hbox (560.71783pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 Invalid input shape for input Tensor("data:0", shape=(64, 1)
+, dtype-float32). Expected shape (None, 256, 64, 1), but input has incompatible
+ shape (64, 1)[] 
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+816.
+(C:\Users\dgdln\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmtt.fd
+File: ts1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Overfull \hbox (795.31055pt too wide) in paragraph at lines 816--816
+[] \T1/cmtt/m/n/12 PS C:\Users\dgdln\Downloads\generating-sound-with-neural-net
+works-main\generating-sound-with-neural-networks-main\generating-sound-with-neu
+ral-networks-main\14 Sound generation with VAE\code>[] 
+ []
+
+
+Overfull \hbox (2702.91971pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 PS C:\Users\dgdln\Downloads\generating-sound-with-neural-ne
+tworks-main\generating-sound-with-neural-networks-main\generating-sound-with-ne
+ural-networks-main\14 Sound generation with VAE\code> & C:/Users/dgdln/AppData/
+Local/Programs/Python/Python312/python.exe "c:/Users/dgdln/Downloads/generating
+-sound-with-neural-netwo rks-main/generating-sound-with-neural-networks-main/ge
+nerating-sound-with-neural-networks-main/14 Sound generation with VAE/code/prep
+rocess.py" Traceback (most recent call last):[] 
+ []
+
+
+Overfull \hbox (566.89133pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 "c:\Users\dgdln\Downloads\generating-sound-with-neural-netw
+orks-main\generating-sound-with-neural-networks-main\generating-sound-with-neur
+al-networks-mai[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 n\14 Sound generation with VAE\code\preprocess.py", line 13
+, in <module>[] 
+ []
+
+
+Overfull \hbox (486.63593pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python31
+2\Lib\site-packages\librosa\____init__.py", line 12, in <module> from import co
+re[] 
+ []
+
+
+Overfull \hbox (795.31055pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python31
+2\Lib\site-packages\librosa\core\__init__.py", line 125, in <module> from .time
+_frequency import * #pylint: disable-wildcard-import[] 
+ []
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (715.05515pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python31
+2\Lib\site-packages\librosa\core\time_frequency.py", line 11, in <module> from 
+..util.exceptions import ParameterError[] 
+ []
+
+
+Overfull \hbox (727.40213pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python31
+2\Lib\site-packages\librosa\util\__init__.py", line 77, in <module> from .utils
+ import # pylint: disable wildcard-import[] 
+ []
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[37]
+
+! LaTeX Error: Unicode character Α (U+0391)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Λ (U+039B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! LaTeX Error: Unicode character Λ (U+039B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.833 	\end{verbatim}
+                     
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (597.75879pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python31
+2\Lib\site-packages\librosa\util\utils.py", line 15, in <module> from .decorato
+rs import deprecated[] 
+ []
+
+
+Overfull \hbox (1054.59723pt too wide) in paragraph at lines 833--833
+[]  \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python31
+2\Lib\site-packages\librosa\util\decorators.py", line 9, in <module> from numba
+.decorators import jit as optional_jit ModuleNotFoundError: No module named 'nu
+mba.decorators'[] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 848--848
+[]    \T1/cmtt/m/n/12 -networks-main\14SoundGenerationwithVAE\code\autoencoder.
+py"[] 
+ []
+
+[38]
+Overfull \hbox (54.49146pt too wide) in paragraph at lines 881--881
+[]    \T1/cmtt/m/n/12 autoencoder.model.fit(train_dataset, epochs=epochs, steps
+_per_epoch=[] 
+ []
+
+
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 881--881
+[]    \T1/cmtt/m/n/12 File "C:Users/dgdln/AppData/Local/Programs/Python/Python3
+12/Lib/[] 
+ []
+
+
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 881--881
+[]    \T1/cmtt/m/n/12 site-packages/keras/src/utils/traceback_utls.py", line 12
+2, in[] 
+ []
+
+
+Overfull \hbox (48.31796pt too wide) in paragraph at lines 881--881
+[]    \T1/cmtt/m/n/12 File "C:\Users\dgdln\Desktop\generating-sound-with-neural
+-networks-[] 
+ []
+
+
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 881--881
+[]    \T1/cmtt/m/n/12 main\14SoundGenerationwithVAE\code\autoencoder.py", line 
+238,[] 
+ []
+
+
+Overfull \hbox (23.624pt too wide) in paragraph at lines 881--881
+[]    \T1/cmtt/m/n/12 self.mu),dtype=tf.float32),mean=0.,stddev=1.)#K.shape(sel
+f.mu),[] 
+ []
+
+
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 881--881
+[]    \T1/cmtt/m/n/12 ValueError: Exception encountered when calling Lambda.cal
+l().[] 
+ []
+
+[39]
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 File"C:\Users\dgdln\Desktop\generating-sound-with-neural-
+networks-[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 main\14SoundGenerationwithVAE\code\train.py", line 44, in
+ ^^Smodule^^T[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 File"C:\Users\dgdln\Desktop\generating-sound-with-neural-
+networks-[] 
+ []
+
+
+Overfull \hbox (23.624pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 main\14SoundGenerationwithVAE\code\train.py", line 59, in
+ train[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 File  "C:Users/dgdln/AppData/Local/Programs/Python/Python
+312/Lib/site-[] 
+ []
+
+
+Overfull \hbox (73.01193pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 packages/keras/src/utils/traceback_utls.py", line 122, in
+ error_handler[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 File  "C:Users/dgdln/AppData/Local/Programs/Python/Python
+312/Lib/site-[] 
+ []
+
+
+Overfull \hbox (85.35892pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 packages/tensorflow/python/data/ops/dataset_ops.py" line 
+503 , in__iter__[] 
+ []
+
+
+Overfull \hbox (35.97098pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 raise RuntimeError("'tf.data.Dataset' only supports Pytho
+n_style"[] 
+ []
+
+
+Overfull \hbox (73.01193pt too wide) in paragraph at lines 900--900
+[]    \T1/cmtt/m/n/12 RuntimeError: 'tf.data.Dataset' only supports Python-styl
+e iteration in[] 
+ []
+
+
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 928--928
+[]    \T1/cmtt/m/n/12 ValueError: Exception encountered when calling Lambda.cal
+l() .[] 
+ []
+
+
+Overfull \hbox (23.624pt too wide) in paragraph at lines 928--928
+[]    \T1/cmtt/m/n/12 A KerasTensor cannot be used as input to a TensorFlow fun
+ction.[] 
+ []
+
+
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 928--928
+[]    \T1/cmtt/m/n/12 A KerasTensor is a symbolic placeholder for a shape and d
+type,[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 928--928
+[]    \T1/cmtt/m/n/12 used when constructing Keras Functional models or Keras F
+unctions.[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 928--928
+[]    \T1/cmtt/m/n/12 You can only use it as input to a Keras layer or a Keras 
+operation[] 
+ []
+
+
+Overfull \hbox (48.31796pt too wide) in paragraph at lines 928--928
+[]    \T1/cmtt/m/n/12 (from the namespaces'keras.layers' and 'keras.operations'
+). You are[] 
+ []
+
+[40]
+Overfull \hbox (85.35892pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 File "c:\users\dgdin\Downloads\generating-sound-with-neur
+al-networks-main[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 \generating-sound-with-neural-networks-main\generating-so
+und-with-[] 
+ []
+
+
+Overfull \hbox (48.31796pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 n\14 Sound generation with VAE\code\train.py^^Q, line 77,
+ in <module>[] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 autoencoder = train(None, LEARNING RATE, BATCH_SIZE, EPOC
+HS)[] 
+ []
+
+
+Overfull \hbox (85.35892pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 File "c:\Users\dgdin\Downloads\generating-sound-with-neur
+al-networks-main[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 \generating-sound-with-neural-networks-main\generating-so
+und-with-[] 
+ []
+
+[41]
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 n\14 Sound generation with VAE\code\train.py", line 73, i
+n train[] 
+ []
+
+
+Overfull \hbox (85.35892pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 File "c:\Users\dgdIn\Downloads\generating-sound-with-neur
+al-networks-main[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 \generating-sound-with-neural-networks-main\generating-so
+und-with-[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 n\14 Sound generation with VAE\code\autoencoder.py", line
+ 59, in train[] 
+ []
+
+
+Overfull \hbox (73.01193pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 File "C: \users\dgdIn\AppData\Local\Programs\Python\Pytho
+n212\Lib\site-[] 
+ []
+
+
+Overfull \hbox (79.18542pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 packages\keras\src\utils\traceback_utils.py", line 122, i
+n error_handler[] 
+ []
+
+
+Overfull \hbox (73.01193pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 File "C: \users\dgdIn\AppData\Local\Programs\python\Pytho
+n312\Lib\site-[] 
+ []
+
+
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 packages\keras\src\trainers\data_adapters\_init__.py", li
+ne 124,[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 ValueError: hen providing `x' as a tf.data.Dataset, "y\TS
+1/cmtt/m/n/12 � \T1/cmtt/m/n/12 should not[] 
+ []
+
+
+Overfull \hbox (35.97098pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 be passed. Instead, the targets should be included as par
+t of the[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 PS C:\Users\dgdln\Downloads\generating-sound-with-neural-
+networks-[] 
+ []
+
+
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 main\generating-sound-with-neural-networks-main\generatin
+g-sound[] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 -with-neural-networks-main\14sound generation with VAE\co
+de>[] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 /python.exe "c:/Users/dgdln/Downloads/generating-sound-wi
+th-[] 
+ []
+
+
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 neural-networks-main/generating-sound-with-neural-network
+s-main/[] 
+ []
+
+
+Overfull \hbox (60.66495pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 generating-sound-with-neural-networks-main/14Soundgenerat
+ionwith VAE/[] 
+ []
+
+
+Overfull \hbox (23.624pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 2024-05-09 06:17:49.236398: I tensorflow/core/util/port.c
+c:113][] 
+ []
+
+[42]
+Overfull \hbox (85.35892pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 oneDNN custom operations are on. You may see slightly dif
+ferent numerical[] 
+ []
+
+
+Overfull \hbox (91.53241pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 To turn them off, set the environment variable "TF_ENABLE
+_ONEDNN_OPTS=0" .[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 2024-05-09 06:17:49.979272: I tensorflow/core/util/port.c
+c:113] oneDNN[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 custom operations are on. You may see slightly different 
+numerical[] 
+ []
+
+
+Overfull \hbox (91.53241pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 To turn them off, set the environment variable "TF_ENABLE
+_ONEDNN_OPTS=0" .[] 
+ []
+
+
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 985--985
+[]    \T1/cmtt/m/n/12 WARNING:tensorflow: From c: \Users\dgdln\Downloads\genera
+ting-[] 
+ []
+
+
+Overfull \hbox (35.97098pt too wide) in paragraph at lines 1006--1006
+[]    \T1/cmtt/m/n/12 File"C:\Users\dgdln\Desktop\generating-sound-with-neural-
+networks[] 
+ []
+
+[43]
+Overfull \hbox (48.31796pt too wide) in paragraph at lines 1006--1006
+[]    \T1/cmtt/m/n/12 -main\14SoundGenerationwithVAE\code\train.py", line 87, i
+n <module>[] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 1006--1006
+[]    \T1/cmtt/m/n/12 File "C:\Users\dgdln\Desktop\generating-sound-with-neural
+-networks[] 
+ []
+
+
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 1006--1006
+[]    \T1/cmtt/m/n/12 -main\14SoundGenerationwithVAE\code\train.py", line 78, i
+n train[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 1006--1006
+[]    \T1/cmtt/m/n/12 num_batches = tf.data.experimental.cardinality(train_data
+set) .numpy()[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 1006--1006
+[]    \T1/cmtt/m/n/12 File "C:\Users\dgdln\AppData\Local\Programs\Python\Python
+312\Lib\site-[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 1006--1006
+[]    \T1/cmtt/m/n/12 packages\tensorfIow\python\framework\tensor.py", line 260
+, in _getattr[] 
+ []
+
+
+Overfull \hbox (35.97098pt too wide) in paragraph at lines 1006--1006
+[]    \T1/cmtt/m/n/12 AttributeError: 'SymbolicTensor' object has no attribute 
+'numpy '[] 
+ []
+
+
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 1041--1041
+[]    \T1/cmtt/m/n/12 py_func (from tensorflow.python.ops.script_ops) is deprec
+ated[] 
+ []
+
+[44]
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 1041--1041
+[]    \T1/cmtt/m/n/12 - tf.numpy_function maintains the semantics of the deprec
+ated[] 
+ []
+
+
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 1041--1041
+[]    \T1/cmtt/m/n/12 It drops the stateful argument making all functions state
+ful.[] 
+ []
+
+[45]
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 1145--1145
+[]    \T1/cmtt/m/n/12 # Pick a sample of the test set for generating output ima
+ges[] 
+ []
+
+[46] [47] [48]
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 1145--1145
+[]    \T1/cmtt/m/n/12 File "/usr/local/lib/python3.10/dist-packages/soundfile.p
+y",[] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 1145--1145
+[]    \T1/cmtt/m/n/12 File "/usr/local/lib/python3.10/dist-packages/soundfile.p
+y",[] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 1145--1145
+[]    \T1/cmtt/m/n/12 TypeError: Invalid file: <tf.Tensor: shape=(), dtype=stri
+ng,[] 
+ []
+
+
+Overfull \hbox (11.27701pt too wide) in paragraph at lines 1145--1145
+[]    \T1/cmtt/m/n/12 numpy=b'Data/gunshot_audio_dataset_archive/AK-47/1 (21).w
+av'>[] 
+ []
+
+[49]
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 1188--1188
+[]    \T1/cmtt/m/n/12 in generate_and_save_images(model, epoch, test_sample, sa
+ve)[] 
+ []
+
+
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 1188--1188
+[]    \T1/cmtt/m/n/12 /usr/local/lib/python3.10/dist-packages/matplotlib/gridsp
+ec.py[] 
+ []
+
+[50]
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 1188--1188
+[]    \T1/cmtt/m/n/12 ValueError: num must be an integer with 1 <= num <= 16, n
+ot 17[] 
+ []
+
+[51] [52] (document.bbl
+Overfull \hbox (98.04967pt too wide) in paragraph at lines 21--25
+\T1/cmtt/m/n/12 understanding-[]vector-[]quantized-[]variational-[]autoencoders
+-[]vq-[]vae-[]323d710a888a$[][]\T1/cmr/m/n/12 , 
+ []
+
+[53] [54] [55] [56]) [57] (document.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 24043 strings out of 474486
+ 443520 string characters out of 5743756
+ 1941542 words of memory out of 5000000
+ 45735 multiletter control sequences out of 15000+600000
+ 572396 words of font info for 69 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 89i,12n,117p,1014b,701s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\dgdln\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
+1200.pk> <C:\Users\dgdln\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tctt1200.pk> <C:\Users\dgdln\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ectt1200.pk> <C:\Users\dgdln\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm1200.pk> <C:\Users\dgdln\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\dgdln\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\dgdln\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\dgdln\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\dgdln\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\dgdln\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\dgdln\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/d
+gdln/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
+:/Users/dgdln/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb><C:/Users/dgdln/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmmi8.pfb><C:/Users/dgdln/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Users/dgdln/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr8.pfb><C:/Users/dgdln/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/dgdln/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/dgdln/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on document.pdf (60 pages, 2380718 bytes).
+PDF statistics:
+ 1345 PDF objects out of 1440 (max. 8388607)
+ 185 named destinations out of 1000 (max. 500000)
+ 446 words of extra memory for PDF output out of 10000 (max. 10000000)
+

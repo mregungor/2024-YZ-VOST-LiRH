@@ -1,0 +1,213 @@
+\begin{thebibliography}{1}
+
+\bibitem{jukebox}
+Author/OpenAI, ``Müzik kutusu - jukebox (openai).''
+\url{https://openai.com/research/jukebox/}, Year Published/ 02.2024.
+\newblock Accessed: 15.03.2024.
+
+\bibitem{VAE}
+A.~Gezer, ``Vae.''
+\url{https://www.yapayzekatr.com/2023/11/14/variational-autoencoders-vaes-nedir/},
+Year Published/ 14.11.2023.
+\newblock Accessed: 15.03.2024.
+
+\bibitem{vaeTypes}
+A.~Kumar, ``A crash course on vaes, vq-vaes, and vae-gans.''
+\url{https://ammesatyajit.medium.com/a-crash-course-on-vaes-vq-vaes-and-vae-gans-3fdcc40b059e},
+Year Published/ 29.01.2020.
+\newblock Accessed: 17.03.2024.
+
+\bibitem{vqvae}
+A.~Yadav, ``Understanding vector quantized variational autoencoders (vq-vae).''
+\url{https://shashank7-iitd.medium.com/understanding-vector-quantized-variational-autoencoders-vq-vae-323d710a888a},
+Year Published/ 01.09.2019.
+\newblock Accessed: 17.03.2024.
+
+\bibitem{vaegan}
+A.~Mishra, ``An introduction to vae-gans.''
+\url{https://wandb.ai/shambhavicodes/vae-gan/reports/An-Introduction-to-VAE-GANs--VmlldzoxMTcxMjM5},
+Year Published/ 08.12.2021.
+\newblock Accessed: 17.03.2024.
+
+
+\bibitem{nsynth}
+Engel, ``Nsynth.'' \url{https://paperswithcode.com/dataset/nsynth/}, 01.04.2017.
+\newblock 25.03.2024.
+
+\bibitem{maestro}
+J.~Vial, ``The maestro dataset v2.''
+\url{https://www.kaggle.com/datasets/jackvial/themaestrodatasetv2/}, 01.01.2018.
+\newblock 25.03.2024.
+
+\bibitem{spektrogram}
+PNSN, ``What is a spectrogram?.''
+\url{https://pnsn.org/spectrograms/what-is-a-spectrogram/}, 01.01.2020.
+\newblock 28.03.2024.
+
+\bibitem{spektrum}
+ACMA, ``What is spectrum?.''
+\url{https://www.acma.gov.au/what-spectrum\#:~:text=The\%20spectrum\%20is\%20a\%20continuous,Frequency\%20bands/},
+17.10.2022.
+\newblock 28.03.2024.
+
+\bibitem{mfcc}
+U.~Kiran, ``Mfcc technique for speech recognition.''
+\url{https://community.gopro.com/s/article/What-is-RAW-Format?language=en_US/},
+14.08.2023.
+\newblock 28.03.2024.
+
+\bibitem{entropi}
+Author/Emre Yüksel, ``Entropi\&KL Divergence.''
+\url{https://medium.com/kaveai/d\%C3\%BCzensizlik-entropy-\%C3\%A7apraz-d\%C3\%BCzensizlik-cross-entropy-ve-kl-iraksakl\%C4\%B1\%C4\%9F\%C4\%B1-kl-divergence-89d26735789f/}, Year Published/ 02.2024.
+\newblock Accessed: 15.03.2024.
+
+\bibitem{UE}
+Author/Unreal Engine, ``UE BP.''
+\url{https://dev.epicgames.com/documentation/en-us/unreal-engine/making-macros-in-unreal-engine?application_version=5.0/}, Year Published/ 02.2024.
+\newblock Accessed: 02.03.2024.
+
+\bibitem{deep_learning}
+A.~O. YILMAZ, ``Derin Öğrenmede kayıp fonksiyonları ve optimizasyon
+algoritmaları.''
+\url{https://aoyilmaz.medium.com/derin-\%C3\%B6\%C4\%9Frenmede-kay\%C4\%B1p-fonksiyonlar\%C4\%B1-ve-optimizasyon-algoritmalar\%C4\%B1-8fc754e7a639/},
+Year Published/ 27.07.2023.
+\newblock Accessed: 25.03.2024.
+
+\bibitem{sgd}
+Author/wikipedia, ``Stochastic gradient descent.''
+\url{https://en.wikipedia.org/wiki/Stochastic\_gradient\_descent\#AdaGrad/}.
+\newblock Accessed: 25.03.2024.
+
+\bibitem{rmsprop}
+A.~ATCILI, ``Yapay sinir aglarinda kullanilan optimizasyon algoritmalari.''
+\url{https://medium.com/machine-learning-t\%C3\%BCrkiye/yapay-sinir-a\%C4\%9Flar\%C4\%B1nda-kullan\%C4\%B1lan-optimizasyon-algoritmalar\%C4\%B1-3e87cd738cb5/},
+Year Published/ 06.11.2020.
+\newblock Accessed: 25.03.2024.
+
+\bibitem{sigmoid}
+Author/wikipedia, ``Sigmoid function.''
+\url{https://en.wikipedia.org/wiki/Sigmoid_function/}.
+\newblock Accessed: 25.03.2024.
+
+\bibitem{relu}
+Author/wikipedia, ``Rectifier (neural networks).''
+\url{https://en.wikipedia.org/wiki/Rectifier_(neural_networks)/}.
+\newblock Accessed: 25.03.2024.
+
+
+\bibitem{bl}
+Ron Fredericks, 
+\emph{{Short-time Fourier Transform}}, 
+\url{https://www.biophysicslab.com/2020/07/10/short-time-fourier-transform/},
+July 10, 2020,
+[Online; accessed 01.05.2024].
+
+\bibitem{stft_yt}
+David Munson and Andrew Singer,
+\emph{{06 - Short Time Fourier Transform}},
+\url{https://www.youtube.com/watch?v=TZzS52OplYs},
+May 20, 2010,
+[Online; accessed 01.05.2024].
+
+\bibitem{fft}
+NTI Audio,
+\emph{{Fast Fourier Transformation FFT - Basics}},
+\url{https://www.nti-audio.com/en/support/know-how/fast-fourier-transform-fft},
+2024,
+[Online; accessed 01.05.2024].
+
+\bibitem{lect}
+University of Wisconsin–Madison,
+\emph{{Limitations of the Fourier Transform: STFT}},
+\url{https://qiml.radiology.wisc.edu/wp-content/uploads/sites/760/2020/10/notes_016_stft.pdf},
+2024,
+[Online; accessed 01.05.2024].
+
+\bibitem{thirdStft}
+Carnegie Mellon University,
+\emph{{3. Short-Time Fourier Transforms}},
+\url{https://course.ece.cmu.edu/~ece491/lectures/L25/STFT_Notes_ADSP.pdf},
+2024,
+[Online; accessed 01.05.2024].
+
+\bibitem{normalizingMethods}
+R.W.A. Scarr,
+\emph{{Normalization and adaptation of speech data for automatic speech recognition}},
+\url{https://www.sciencedirect.com/science/article/abs/pii/S0020737370800207},
+January 1970,
+[Online; accessed 01.05.2024].
+
+\bibitem{audioNormalization}
+Poudel Priyanka,
+\emph{{Audio Normalization}},
+\url{https://medium.com/@poudelnipriyanka/audio-normalization-9dbcedfefcc0},
+Sep 5, 2023,
+[Online; accessed 01.05.2024].
+
+\bibitem{vvAi}
+Valerio Valerdo,
+\emph{{generating-sound-with-neural-networks}},
+\url{https://github.com/musikalkemist/generating-sound-with-neural-networks/blob/main/12\%20Preprocessing\%20pipeline/preprocess.py},
+2021,
+[Online; accessed 01.05.2024].
+
+\bibitem{mb}
+Matthew N. Bernstein,
+\emph{{The evidence lower bound (ELBO)}},
+\url{https://mbernste.github.io/posts/elbo/},
+May 25, 2020,
+[Online; accessed 18.05.2024].
+
+\bibitem{ss}
+Sunshine,
+\emph{{Evidence Lower Bound(ELBO)}},
+\url{https://medium.com/@sunshine990316/evidence-lower-bound-elbo-63ec2e4c1b38},
+May 25, 2023,
+[Online; accessed 17.05.2024].
+
+\bibitem{yb}
+Yunfan's Blog,
+\emph{{ELBO — What \& Why}},
+\url{https://yunfanj.com/blog/2021/01/11/ELBO.html},
+Jan 11, 2021,
+[Online; accessed 17.05.2024].
+
+\bibitem{ha}
+Hesham Ali,
+\emph{{What is Evidence Lower Bound (ELBO)?}},
+\url{https://mlarchive.com/deep-learning/evidence-lower-bound/},
+Jan 1, 2021,
+[Online; accessed 17.05.2024].
+
+\bibitem{yt}
+Machine Learning \& Simulation,
+\emph{{Variational Inference | Evidence Lower Bound (ELBO) | Intuition \& Visualization}},
+\url{https://www.youtube.com/watch?v=HxQ94L8n0vU},
+May 11, 2021,
+[Online; accessed 17.05.2024].
+
+
+\bibitem{fsdd}
+Kaggle,
+\emph{{FSDD}},
+\url{https://paperswithcode.com/dataset/fsdd},
+Apr 27, 2020,
+[Online; accessed 17.05.2024].
+
+\bibitem{gunshot}
+Kaggle,
+\emph{{Gun Shot}},
+\url{https://www.kaggle.com/datasets/emrahaydemr/gunshot-audio-dataset},
+Jan 1, 2021,
+[Online; accessed 01.05.2024].
+
+
+
+\bibitem{kaggleCode}
+kCode,
+\emph{{Generate music with Variational AutoEncoder}},
+\url{https://www.kaggle.com/code/basu369victor/generate-music-with-variational-autoencoder},
+Jan 1, 2021,
+[Online; accessed 01.05.2022].
+
+\end{thebibliography}
