@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+
+\bibitem{kaggle}
+H.~Singh, ``Generating brain mri images with dc-gan.''
+  \url{https://www.kaggle.com/code/harshsingh2209/generating-brain-mri-images-with-dc-gan/notebook},
+  Year Published/ 22.02.2023.
+\newblock Accessed: 17.04.2024.
+
+\bibitem{youtube}
+F.~V. Vincent~Dumoulin, ``A guide to convolution arithmetic for deep
+  learning.'' \url{https://arxiv.org/pdf/1603.07285v1.pdf}, Year Published/
+  24.03.2016.
+\newblock Accessed: 17.04.2024.
+
+\bibitem{ytchannels}
+J.~Frey, ``Transposed convolutions explained: A fast 8-minute explanation |
+  computer vision.'' \url{https://www.youtube.com/watch?v=xoAv6D05j7g}, Year
+  Published/ 24.03.2016.
+\newblock Accessed: 17.04.2024.
+
+\bibitem{transposed_medium}
+A.~Anvar, ``What is transposed convolutional layer?.''
+  \url{https://towardsdatascience.com/what-is-transposed-convolutional-layer-40e5e6e31c11?gi=9d86a68e5a56},
+  Year Published/ 06.03.2020.
+\newblock Accessed: 17.04.2024.
+
+\bibitem{gan_overfitting}
+P.~Goyal, ``Mode collapse in gans: A roadblock to ai’s creative potential.''
+  \url{https://medium.com/@parth082006/mode-collapse-in-gans-a-roadblock-to-ais-creative-potential-8b142475e940},
+  Year Published/ 04.05.2024.
+\newblock Accessed: 29.10.2023.
+
+\bibitem{gan_hata}
+StackOverflov, ``Keyerror: 'the optimizer cannot recognize variable
+  dense_1/kernel:0. for pretrained keras model.''
+  \url{https://stackoverflow.com/questions/74684240/keyerror-the-optimizer-cannot-recognize-variable-dense-1-kernel0-for-pretrai},
+  Year Published/ 04.05.2024.
+\newblock Accessed: 21.01.2023.
+
+\bibitem{loss_neptune}
+neptune.ai(Harshit Dwivedi), ``Understanding gan loss functions.''
+  \url{https://neptune.ai/blog/gan-loss-functions}, Year Published/ 29.05.2024.
+\newblock Accessed:29.08.2023.
+
+\bibitem{loss_stackovervlof}
+StackOverflov, ``How to interpret the discriminator's loss and the generator's
+  loss in generative adversarial nets?.''
+  \url{https://stackoverflow.com/questions/42690721/how-to-interpret-the-discriminators-loss-and-the-generators-loss-in-generative},
+  Year Published/ 29.05.2024.
+\newblock Accessed:27.04.2021.
+
+\end{thebibliography}

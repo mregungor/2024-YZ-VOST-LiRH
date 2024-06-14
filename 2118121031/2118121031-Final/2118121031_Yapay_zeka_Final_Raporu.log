@@ -1,0 +1,1035 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.7)  14 JUN 2024 15:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./2118121031_Yapay_zeka_Final_Raporu.tex
+(2118121031_Yapay_zeka_Final_Raporu.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.te
+x
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fcnumparser.
+sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen143
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/datetime\datetime-def
+aults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box51
+) (2118121031_Yapay_zeka_Final_Raporu.aux
+
+LaTeX Warning: Label `fig:epoch1' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:hata_cozumu' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:uretici_tuketici' multiply defined.
+
+
+LaTeX Warning: Label `fig:plt' multiply defined.
+
+)
+\openout1 = `2118121031_Yapay_zeka_Final_Raporu.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count289
+\scratchdimen=\dimen144
+\scratchbox=\box52
+\nofMPsegments=\count290
+\nofMParguments=\count291
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count292
+\MPscratchDim=\dimen145
+\MPnumerator=\count293
+\makeMPintoPDFobject=\count294
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys
+.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\eakkaya\AppData\Local\Programs\MiKTeX\tex/latex/fmtcount\fc-english.d
+ef
+File: fc-english.def 2016/01/12
+)
+<ksbu.jpg, id=1, 170.6375pt x 171.64125pt>
+File: ksbu.jpg Graphic file (type jpg)
+<use ksbu.jpg>
+Package pdftex.def Info: ksbu.jpg  used on input line 16.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 19.
+
+Overfull \hbox (4.97289pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/10 ciddi bir sa^^Ugl^^Pk sorunu olu^^Xsturmaktad^^Pr ve erken te^^
+Xshis, te-davi s^^?urecindeki ba^^Xsar^^Py^^P
+ []
+
+
+Overfull \hbox (15.75069pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/10 kul-lan^^Plarak 10 adet e^^Ugitim verisi se^^Xcilip bun-lar^^Pn
+ e^^Ugitim i^^Xslemleri ger^^Xcekle^^Xstirilmi^^Xstir.
+ []
+
+
+Overfull \hbox (13.5286pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/10 E^^Ugitim s^^?ureci tamam-land^^Pktan sonra, mod-elin per-for-m
+ans^^P dikka-tle de^^Ugerlendirilmi^^Xs
+ []
+
+
+Overfull \hbox (1.44516pt too wide) in paragraph at lines 27--28
+\OT1/cmr/m/n/10 beyin t^^?um^^?orlerinin te^^Xshisinde kul-lan^^Plabilecek bir 
+ya-pay zeka mod-eli geli^^Xstirilmesi
+ []
+
+[1
+
+{C:/Users/eakkaya/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ksbu.jpg
+>]
+Overfull \hbox (22.44879pt too wide) in paragraph at lines 30--31
+\OT1/cmr/m/n/10 k^^?u^^Xc^^?ult^^?ulerek gri ton-la-maya d^^?on^^?u^^Xst^^?ur^^
+?ulm^^?u^^Xst^^?ur. GAN mod-eli, g^^?or^^?unt^^?ulerin ger^^Xcekli^^Ugini
+ []
+
+
+Overfull \hbox (41.3181pt too wide) in paragraph at lines 33--34
+[]\OT1/cmr/m/n/10 al^^P^^Xsmada, GAN mod-eli kul-lan^^Plarak yeni beyin t^^?um^
+^?orl^^?u MR g^^?or^^?unt^^?uleri olu^^Xsturulmu^^Xstur.
+ []
+
+[2]
+Overfull \hbox (8.30511pt too wide) in paragraph at lines 39--40
+\OT1/cmr/m/n/10 Mimari de^^Ugi^^Xsiklik g^^?osterse de, pek ^^Xcok pop^^?uler G
+AN'daki (DC-GAN gibi) ^^?ureticiler,
+ []
+
+
+Overfull \hbox (6.16624pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 ReLU (Rec-ti-fied Lin-ear Unit) veya Leaky ReLU, jen-erat^^?ord
+eki ak-ti-vasyon fonksiy-
+ []
+
+
+Overfull \hbox (2.60262pt too wide) in paragraph at lines 50--51
+\OT1/cmr/m/n/10 on-lar^^P i^^Xcin yayg^^Pn se^^Xcimlerdir. Bu fonksiy-on-lar, m
+od-elin do^^Ugrusal ol-mayan i^^Xslevler
+ []
+
+[3]
+Overfull \hbox (1.17203pt too wide) in paragraph at lines 64--65
+\OT1/cmr/m/n/10 marisini yans^^Pt^^Pr, an-cak baz^^P ayarla-malar vard^^Pr. Gen
+el-likle a^^Xsa^^Ug^^Pdaki bile^^Xsenlerin
+ []
+
+<mimari.png, id=18, 564.9105pt x 286.06876pt>
+File: mimari.png Graphic file (type png)
+<use mimari.png>
+Package pdftex.def Info: mimari.png  used on input line 86.
+(pdftex.def)             Requested size: 276.00105pt x 139.7646pt.
+[4]
+Overfull \hbox (26.08421pt too wide) in paragraph at lines 98--100
+\OT1/cmr/m/n/10 kat-man, g^^?ur^^?ult^^?ul^^?u bir vekt^^?or^^?u d^^?uzle^^Xsti
+rmek ve ard^^Pndan uy-gun boyut-lara d^^?on^^?u^^Xst^^?urmek
+ []
+
+
+Overfull \hbox (1.25073pt too wide) in paragraph at lines 98--100
+\OT1/cmr/m/n/10 i^^Xcin kul-lan^^Pl^^Pyor.Ard^^Pndan, Re-shape kat-man^^P ile g
+iri^^Xs vekt^^?or^^?u 3 boyutlu tens^^?orlere
+ []
+
+
+Overfull \hbox (16.97307pt too wide) in paragraph at lines 98--100
+\OT1/cmr/m/n/10 d^^?on^^?u^^Xst^^?ur^^?ul^^?uyor.Transpoze kon-vol^^?usyon kat-
+man-lar^^P (Conv2DTranspose) kul-lan^^Plarak
+ []
+
+
+Overfull \hbox (27.36194pt too wide) in paragraph at lines 98--100
+\OT1/cmr/m/n/10 g^^?or^^?unt^^?u boyut-lar^^P b^^?uy^^?ut^^?ul^^?uyor ve ^^?oze
+lliklerin daha karma^^Xs^^Pk bir ^^Xsekilde d^^?on^^?u^^Xst^^?ur^^?ulmesi
+ []
+
+
+Overfull \hbox (0.29706pt too wide) in paragraph at lines 104--108
+\OT1/cmr/m/n/10 g^^?or^^?unt^^?un^^?un ger^^Xcek veya sahte oldu^^Ugunu s^^Pn^^
+Pfland^^Pr^^Pr. build-dis-crim-i-na-tor fonksiy-
+ []
+
+
+Overfull \hbox (14.82375pt too wide) in paragraph at lines 104--108
+\OT1/cmr/m/n/10 evri^^Xsimli kat-man-lar (Conv2D) ve tama-men ba^^Ugl^^P kat-ma
+n-lar (Dense) i^^Xcerir. Evri^^Xsimli
+ []
+
+[5 <./mimari.png>]
+Overfull \hbox (2.74156pt too wide) in paragraph at lines 117--118
+\OT1/cmr/m/n/10 s^^Pn^^Pfland^^Prma gibi g^^?orevlerde etk-ili olmu^^Xslard^^Pr
+. []Ilk kul-lan^^Pmlar^^P 1990'larda karak-
+ []
+
+<resim1.png, id=27, 607.068pt x 175.857pt>
+File: resim1.png Graphic file (type png)
+<use resim1.png>
+Package pdftex.def Info: resim1.png  used on input line 127.
+(pdftex.def)             Requested size: 241.49895pt x 69.95782pt.
+<resim2.png, id=28, 423.38174pt x 148.75575pt>
+File: resim2.png Graphic file (type png)
+<use resim2.png>
+Package pdftex.def Info: resim2.png  used on input line 134.
+(pdftex.def)             Requested size: 241.49895pt x 84.85066pt.
+<resim3.png, id=29, 567.3195pt x 215.00325pt>
+File: resim3.png Graphic file (type png)
+<use resim3.png>
+Package pdftex.def Info: resim3.png  used on input line 141.
+(pdftex.def)             Requested size: 241.49895pt x 91.52115pt.
+<resim4.png, id=30, 525.162pt x 305.943pt>
+File: resim4.png Graphic file (type png)
+<use resim4.png>
+Package pdftex.def Info: resim4.png  used on input line 150.
+(pdftex.def)             Requested size: 241.49895pt x 140.68878pt.
+<resim5.png, id=31, 626.94225pt x 248.127pt>
+File: resim5.png Graphic file (type png)
+<use resim5.png>
+Package pdftex.def Info: resim5.png  used on input line 156.
+(pdftex.def)             Requested size: 241.49895pt x 95.5765pt.
+<resim6.png, id=32, 635.976pt x 328.8285pt>
+File: resim6.png Graphic file (type png)
+<use resim6.png>
+Package pdftex.def Info: resim6.png  used on input line 164.
+(pdftex.def)             Requested size: 241.49895pt x 124.86581pt.
+<resim7.png, id=33, 506.49225pt x 295.1025pt>
+File: resim7.png Graphic file (type png)
+<use resim7.png>
+Package pdftex.def Info: resim7.png  used on input line 171.
+(pdftex.def)             Requested size: 379.5021pt x 221.11919pt.
+
+Overfull \hbox (34.5021pt too wide) in paragraph at lines 171--172
+ [][] 
+ []
+
+
+Overfull \hbox (13.94518pt too wide) in paragraph at lines 179--182
+\OT1/cmr/m/n/10 den ^^?ozelliklerin ^^Xc^^Pkar^^Plmas^^Pn^^P sa^^Uglarken, tran
+s-poze etk-ile^^Xsim kat-man-lar^^P bu ^^?ozellikleri
+ []
+
+
+Overfull \hbox (2.4359pt too wide) in paragraph at lines 179--182
+\OT1/cmr/m/n/10 tekrar ori-ji-nal boyuta d^^?ond^^?ur^^?ur. Bu ne-denle, genel-
+likle g^^?or^^?unt^^?u i^^Xsleme ve yeniden
+ []
+
+[6 <./resim1.png>] [7 <./resim2.png> <./resim3.png> <./resim4.png> <./resim5.pn
+g>] [8 <./resim6.png> <./resim7.png>]
+<resim9.png, id=51, 267.399pt x 113.223pt>
+File: resim9.png Graphic file (type png)
+<use resim9.png>
+Package pdftex.def Info: resim9.png  used on input line 185.
+(pdftex.def)             Requested size: 465.7521pt x 197.22755pt.
+
+Overfull \hbox (120.7521pt too wide) in paragraph at lines 185--186
+ [][] 
+ []
+
+<epoc1.jpg, id=53, 594.22pt x 296.10625pt>
+File: epoc1.jpg Graphic file (type jpg)
+<use epoc1.jpg>
+Package pdftex.def Info: epoc1.jpg  used on input line 192.
+(pdftex.def)             Requested size: 276.00105pt x 137.53886pt.
+<epoc2.jpg, id=55, 725.71124pt x 579.16376pt>
+File: epoc2.jpg Graphic file (type jpg)
+<use epoc2.jpg>
+Package pdftex.def Info: epoc2.jpg  used on input line 199.
+(pdftex.def)             Requested size: 276.00105pt x 220.2701pt.
+
+Overfull \hbox (0.21367pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 pik-sel boyu-tunda ve gri ton-la-mal^^Pd^^Pr. E^^Ugitim s^^?ure
+cinde veri seti nor-malle^^Xstirilmi^^Xs
+ []
+
+
+Overfull \hbox (5.18593pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 ve mod-ele sunulmu^^Xstur. Mod-elin e^^Ugitimi i^^Xcin ba^^Xsla
+ng^^P^^Xcta 200 epoch kul-lan^^Plm^^P^^Xst^^Pr.
+ []
+
+
+Overfull \hbox (0.69519pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 ard^^Pndan, ^^?uretici mod-elde 2 trans-poze kat-man^^P ve 1 co
+nv2d kat-man^^P, ayr^^P^^Xst^^Pr^^Pc^^Pda
+ []
+
+
+Overfull \hbox (8.65816pt too wide) in paragraph at lines 211--212
+\OT1/cmr/m/n/10 ula^^Xs^^Plmaya ^^Xcal^^P^^Xs^^Plm^^P^^Xst^^Pr. Ard^^Pndan ^^?u
+retici taraf^^Pndan ^^?uretilen g^^?or^^?unt^^?uler, ayr^^P^^Xst^^Pr^^Pc^^P
+ []
+
+[9 <./resim9.png>] [10 <./epoc1.jpg> <./epoc2.jpg>]
+Overfull \hbox (6.473pt too wide) in paragraph at lines 218--219
+\OT1/cmr/m/n/10 Olu^^Xsturdu^^Ugum mod-eli e^^Ugittikten sonra 50 epoch so-nund
+a olu^^Xsan g^^?or^^?unt^^?u a^^Xsa^^Ug^^Pdaki
+ []
+
+File: epoc2.jpg Graphic file (type jpg)
+<use epoc2.jpg>
+Package pdftex.def Info: epoc2.jpg  used on input line 222.
+(pdftex.def)             Requested size: 147.65785pt x 117.83676pt.
+<resim23.jpg, id=67, 3035.34pt x 4047.12pt>
+File: resim23.jpg Graphic file (type jpg)
+<use resim23.jpg>
+Package pdftex.def Info: resim23.jpg  used on input line 234.
+(pdftex.def)             Requested size: 147.65785pt x 196.87175pt.
+<resim24.png, id=68, 142.73325pt x 75.8835pt>
+File: resim24.png Graphic file (type png)
+<use resim24.png>
+Package pdftex.def Info: resim24.png  used on input line 243.
+(pdftex.def)             Requested size: 147.65785pt x 78.50938pt.
+[11]
+<resim18.png, id=72, 1049.1195pt x 380.01974pt>
+File: resim18.png Graphic file (type png)
+<use resim18.png>
+Package pdftex.def Info: resim18.png  used on input line 252.
+(pdftex.def)             Requested size: 293.2521pt x 106.22504pt.
+
+Overfull \hbox (18.39896pt too wide) in paragraph at lines 249--256
+\OT1/cmr/m/n/10 E^^Ugitim s^^Pras^^Pnda 11.5 saat ge^^Xcirdikten sonra mod-e-li
+m 8. epochta tak^^Pld^^P. Olu^^Xsturulan
+ []
+
+<resim19.png, id=73, 1039.4835pt x 377.0085pt>
+File: resim19.png Graphic file (type png)
+<use resim19.png>
+Package pdftex.def Info: resim19.png  used on input line 259.
+(pdftex.def)             Requested size: 293.2521pt x 106.35551pt.
+<resim20.png, id=74, 1041.8925pt x 373.99725pt>
+File: resim20.png Graphic file (type png)
+<use resim20.png>
+Package pdftex.def Info: resim20.png  used on input line 266.
+(pdftex.def)             Requested size: 293.2521pt x 105.26636pt.
+<resim21.png, id=75, 1037.0745pt x 374.5995pt>
+File: resim21.png Graphic file (type png)
+<use resim21.png>
+Package pdftex.def Info: resim21.png  used on input line 273.
+(pdftex.def)             Requested size: 293.2521pt x 105.92172pt.
+<resim17.png, id=76, 1034.06325pt x 328.8285pt>
+File: resim17.png Graphic file (type png)
+<use resim17.png>
+Package pdftex.def Info: resim17.png  used on input line 280.
+(pdftex.def)             Requested size: 293.2521pt x 93.25548pt.
+[12 <./resim23.jpg> <./resim24.png>] [13 <./resim18.png> <./resim19.png> <./res
+im20.png> <./resim21.png>] [14 <./resim17.png>]
+<resim22.png, id=93, 1041.8925pt x 376.40625pt>
+File: resim22.png Graphic file (type png)
+<use resim22.png>
+Package pdftex.def Info: resim22.png  used on input line 289.
+(pdftex.def)             Requested size: 293.2521pt x 105.9444pt.
+
+Overfull \hbox (4.48677pt too wide) in paragraph at lines 297--298
+\OT1/cmr/m/n/10 Mode col-lapse, []Uretken Rek-a-bet^^Xci A^^Uglarda (GAN'lar), 
+jen-erat^^?or mod-elinin ger^^Xcek
+ []
+
+
+Overfull \hbox (10.88039pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 tik sekt^^?orlerde de de-vrim yaratma potan-siye-line sahip-tir
+. []Orne^^Ugin, ara^^Xst^^Prmac^^Plar^^Pn
+ []
+
+
+Overfull \hbox (12.30629pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 karma^^Xs^^Pk ik-lim mod-el-lerini sim^^?ule et-mek veya hastal
+^^Pk te^^Xshisi i^^Xcin t^^Pbbi g^^?or^^?unt^^?uleme
+ []
+
+
+Overfull \hbox (32.04704pt too wide) in paragraph at lines 300--301
+\OT1/cmr/m/n/10 ^^Xc^^Pkt^^Plarla sonu^^Xclan^^Pr. Bu ^^Xce^^Xsitlilik ek-sikli
+^^Ugi bil-im-sel il-er-lemeyi ve ye-nili^^Ugi engelleyebilir[[]]. 
+ []
+
+
+Overfull \hbox (10.30617pt too wide) in paragraph at lines 306--307
+\OT1/cmr/m/n/10 onunu ekley-erek ger^^Xcek ve sahte g^^?or^^?unt^^?uleri daha i
+yi ay^^Prt etmesini ayr^^Pca ^^?ureticinin
+ []
+
+
+Overfull \hbox (20.58417pt too wide) in paragraph at lines 306--307
+\OT1/cmr/m/n/10 ad^^Pm^^Pnda mod-elin n^^?oronlar^^Pn^^Pn y^^?uzde k^^Prk^^Pn^^
+Pn rast-gele olarak de-vre d^^P^^Xs^^P b^^Prak^^Placa^^Ug^^Pn^^P
+ []
+
+[15
+
+ <./resim22.png>]
+<eski_model.png, id=98, 582.978pt x 343.2825pt>
+File: eski_model.png Graphic file (type png)
+<use eski_model.png>
+Package pdftex.def Info: eski_model.png  used on input line 310.
+(pdftex.def)             Requested size: 207.0021pt x 121.8897pt.
+<yeni_model.png, id=99, 497.4585pt x 531.78674pt>
+File: yeni_model.png Graphic file (type png)
+<use yeni_model.png>
+Package pdftex.def Info: yeni_model.png  used on input line 317.
+(pdftex.def)             Requested size: 207.0021pt x 221.28784pt.
+<hata.png, id=100, 462.528pt x 142.73325pt>
+File: hata.png Graphic file (type png)
+<use hata.png>
+Package pdftex.def Info: hata.png  used on input line 327.
+(pdftex.def)             Requested size: 276.00105pt x 85.1767pt.
+ [16 <./eski_model.png> <./yeni_model.png>]
+<resim16.png, id=106, 672.71326pt x 319.1925pt>
+File: resim16.png Graphic file (type png)
+<use resim16.png>
+Package pdftex.def Info: resim16.png  used on input line 334.
+(pdftex.def)             Requested size: 186.99257pt x 88.72551pt.
+
+Overfull \hbox (18.02853pt too wide) in paragraph at lines 340--341
+\OT1/cmr/m/n/10 Hatay^^P ^^Xc^^?ozmek i^^Xcin yapt^^P^^Ug^^Pm ara^^Xst^^Prmalar
+ sonucu op-ti-miz^^?or^^?u build et-mem gerekti^^Ugini
+ []
+
+<hata_cozumu.png, id=107, 545.6385pt x 258.9675pt>
+File: hata_cozumu.png Graphic file (type png)
+<use hata_cozumu.png>
+Package pdftex.def Info: hata_cozumu.png  used on input line 344.
+(pdftex.def)             Requested size: 276.00105pt x 130.99289pt.
+
+Overfull \hbox (0.66571pt too wide) in paragraph at lines 350--351
+[]\OT1/cmtt/m/n/10 generator.trainable.variables\OT1/cmr/m/n/10 : []Uretici mod
+-elin e^^Ugitilebilir (train-able)
+ []
+
+[17 <./hata.png> <./resim16.png> <./hata_cozumu.png>]
+Overfull \hbox (6.99884pt too wide) in paragraph at lines 351--352
+[]\OT1/cmtt/m/n/10 discriminator.trainable.variables\OT1/cmr/m/n/10 : Ayr^^P^^X
+st^^Pr^^Pc^^P mod-elin e^^Ugitilebilir t^^?um
+ []
+
+
+Overfull \hbox (12.5399pt too wide) in paragraph at lines 358--359
+[]\OT1/cmr/bx/n/10 Modelin T^^?um Parame-trelerini Tan^^Ptmak: \OT1/cmtt/m/n/10
+ optimizer.build() \OT1/cmr/m/n/10 fonksiy-
+ []
+
+
+Overfull \hbox (2.27847pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 ayr^^P^^Xst^^Pr^^Pc^^P mod-el-lerin t^^?um e^^Ugitilebilir de^^
+Ugi^^Xskenlerinin op-ti-miz^^?ore tan^^Pt^^Plmas^^P,
+ []
+
+
+Overfull \hbox (8.48582pt too wide) in paragraph at lines 359--360
+[]\OT1/cmr/bx/n/10 Model E^^Ugitimi []I^^Xcin Haz^^Prl^^Pk: \OT1/cmr/m/n/10 Bu 
+yap^^Pland^^Prma, e^^Ugitim s^^?ureci ba^^Xslamadan
+ []
+
+
+Overfull \hbox (3.30579pt too wide) in paragraph at lines 360--361
+\OT1/cmr/m/n/10 op-ti-miz^^?ore tan^^Pt^^Plmas^^P, op-ti-miza-syon s^^?urecinde
+ or-taya ^^Xc^^Pkabilecek \OT1/cmtt/m/n/10 KeyError
+ []
+
+
+Overfull \hbox (12.46368pt too wide) in paragraph at lines 360--361
+\OT1/cmr/m/n/10 gibi hata-lar^^Pn ^^?onlenmesine yard^^Pmc^^P olur. B^^?oylece,
+ op-ti-miz^^?or t^^?um de^^Ugi^^Xskenleri
+ []
+
+
+Overfull \hbox (14.13063pt too wide) in paragraph at lines 370--371
+\OT1/cmr/m/n/10 m^^?umk^^?un k^^Plmak ola-cakt^^Pr. Ayr^^Pca, mod-elin klinik u
+ygu-la-malarda kul-lan^^Plabilirli^^Ugini
+ []
+
+<gan_epoc1.png, id=114, 794.97pt x 325.215pt>
+File: gan_epoc1.png Graphic file (type png)
+<use gan_epoc1.png>
+Package pdftex.def Info: gan_epoc1.png  used on input line 377.
+(pdftex.def)             Requested size: 293.2521pt x 119.97037pt.
+<gan_epoc2.png, id=115, 739.563pt x 317.38576pt>
+File: gan_epoc2.png Graphic file (type png)
+<use gan_epoc2.png>
+Package pdftex.def Info: gan_epoc2.png  used on input line 384.
+(pdftex.def)             Requested size: 293.2521pt x 125.8527pt.
+<gan_epoc3.png, id=116, 797.98125pt x 329.43076pt>
+File: gan_epoc3.png Graphic file (type png)
+<use gan_epoc3.png>
+Package pdftex.def Info: gan_epoc3.png  used on input line 391.
+(pdftex.def)             Requested size: 293.2521pt x 121.06308pt.
+<gan_epoc4.png, id=117, 800.9925pt x 331.83975pt>
+File: gan_epoc4.png Graphic file (type png)
+<use gan_epoc4.png>
+Package pdftex.def Info: gan_epoc4.png  used on input line 398.
+(pdftex.def)             Requested size: 293.2521pt x 121.49266pt.
+<gan_epoc5.png, id=118, 798.5835pt x 325.81725pt>
+File: gan_epoc5.png Graphic file (type png)
+<use gan_epoc5.png>
+Package pdftex.def Info: gan_epoc5.png  used on input line 405.
+(pdftex.def)             Requested size: 293.2521pt x 119.64566pt.
+[18] [19 <./gan_epoc1.png> <./gan_epoc2.png> <./gan_epoc3.png>] [20 <./gan_epoc
+4.png> <./gan_epoc5.png>]
+<gan_epoc6.png, id=136, 784.1295pt x 330.033pt>
+File: gan_epoc6.png Graphic file (type png)
+<use gan_epoc6.png>
+Package pdftex.def Info: gan_epoc6.png  used on input line 414.
+(pdftex.def)             Requested size: 241.49895pt x 101.64442pt.
+<gan_epoc7.png, id=137, 790.152pt x 332.442pt>
+File: gan_epoc7.png Graphic file (type png)
+<use gan_epoc7.png>
+Package pdftex.def Info: gan_epoc7.png  used on input line 421.
+(pdftex.def)             Requested size: 241.49895pt x 101.60516pt.
+<gan_epoc8.png, id=138, 802.197pt x 331.2375pt>
+File: gan_epoc8.png Graphic file (type png)
+<use gan_epoc8.png>
+Package pdftex.def Info: gan_epoc8.png  used on input line 429.
+(pdftex.def)             Requested size: 248.40042pt x 102.5663pt.
+<dis_loss.png, id=139, 423.38174pt x 73.4745pt>
+File: dis_loss.png Graphic file (type png)
+<use dis_loss.png>
+Package pdftex.def Info: dis_loss.png  used on input line 450.
+(pdftex.def)             Requested size: 241.49895pt x 41.91003pt.
+
+Overfull \hbox (22.87538pt too wide) in paragraph at lines 456--457
+[]\OT1/cmr/bx/n/10 log(D(x)) \OT1/cmr/m/n/10 Gen-er-a-tor^^?un ger^^Xcek g^^?or
+^^?unt^^?uy^^?u do^^Ugru ^^Xsekilde s^^Pn^^Pfland^^Prma olas^^Pl^^P^^Ug^^Pn^^P
+ []
+
+[21
+
+ <./gan_epoc6.png> <./gan_epoc7.png> <./gan_epoc8.png>]
+Overfull \hbox (16.7971pt too wide) in paragraph at lines 463--464
+\OT1/cmr/m/n/10 g^^?osterir. Bu du-rum, gen-er-a-tor'^^Pn dis-crim-i-na-tor'^^P
+ kand^^Prmada ba^^Xsar^^Pl^^P oldu^^Ugunu
+ []
+
+
+Overfull \hbox (4.14893pt too wide) in paragraph at lines 467--469
+\OT1/cmr/m/n/10 erat^^?or^^?un kayb^^P daha sonra ayr^^Pmc^^Pn^^Pn s^^Pn^^Pflan
+d^^Prmas^^Pna g^^?ore hesa-plan^^Pr; ayr^^Pmc^^Py^^P
+ []
+
+<gen_loss.png, id=146, 239.09325pt x 61.4295pt>
+File: gen_loss.png Graphic file (type png)
+<use gen_loss.png>
+Package pdftex.def Info: gen_loss.png  used on input line 472.
+(pdftex.def)             Requested size: 241.49895pt x 62.05078pt.
+
+Overfull \hbox (43.22302pt too wide) in paragraph at lines 479--480
+\OT1/cmr/m/n/10 tor'^^Pn ^^?uretti^^Ugi sahte ver-i-lerin dis-crim-i-na-tor tar
+af^^Pndan ger^^Xcek olarak s^^Pn^^Pfland^^Pr^^Pld^^P^^Ug^^Pn^^P
+ []
+
+[22 <./dis_loss.png> <./gen_loss.png>]
+Overfull \hbox (28.47304pt too wide) in paragraph at lines 486--487
+\OT1/cmr/m/n/10 karma^^Xs^^Pk bir op-ti-miza-syon prob-lemidir ve gen-er-a-tor'
+^^Pn dis-crim-i-na-tor'^^P kand^^Prmay^^P
+ []
+
+<plt.png, id=152, 560.0925pt x 236.082pt>
+File: plt.png Graphic file (type png)
+<use plt.png>
+Package pdftex.def Info: plt.png  used on input line 492.
+(pdftex.def)             Requested size: 172.5pt x 72.70915pt.
+<loss_grafik.png, id=153, 624.53325pt x 342.078pt>
+File: loss_grafik.png Graphic file (type png)
+<use loss_grafik.png>
+Package pdftex.def Info: loss_grafik.png  used on input line 500.
+(pdftex.def)             Requested size: 148.34747pt x 81.25479pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 508.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 508.
+[23 <./plt.png> <./loss_grafik.png>]
+Overfull \hbox (9.2508pt too wide) in paragraph at lines 514--515
+[][]\OT1/cmr/m/n/10 Ilk epoch'ta gen-er-a-tor kayb^^P olduk^^Xca y^^?uksek (4.9
+77), ard^^Pndan ik-inci epoch'ta
+ []
+
+(2118121031_Yapay_zeka_Final_Raporu.bbl
+! Undefined control sequence.
+l.5   \url
+          {https://www.kaggle.com/code/harshsingh2209/generating-brain-mri-i...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+[]\OT1/cmr/m/n/10 H. Singh, ``Gen-er-at-ing brain mri im-ages with dc-gan.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 https://www.kaggle.com/code/harshsingh2209/generating-brain-mri
+-
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 4--8
+\OT1/cmr/m/n/10 images-with-dc-gan/notebook, Year Pub-lished/ 22.02.2023.  Ac-c
+essed:
+ []
+
+! Undefined control sequence.
+l.11   learning.'' \url
+                       {https://arxiv.org/pdf/1603.07285v1.pdf}, Year Publis...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.17   computer vision.'' \url
+                              {https://www.youtube.com/watch?v=xoAv6D05j7g},...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.23   \url
+           {https://towardsdatascience.com/what-is-transposed-convolutional-...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+[]\OT1/cmr/m/n/10 A. An-var, ``What is trans-posed con-vo-lu-tional layer?.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+\OT1/cmr/m/n/10 https://towardsdatascience.com/what-is-transposed-convolutional
+-layer-
+ []
+
+! Undefined control sequence.
+l.29   \url
+           {https://medium.com/@parth082006/mode-collapse-in-gans-a-roadbloc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
+\OT1/cmr/m/n/10 https://medium.com/@parth082006/mode-collapse-in-gans-a-roadblo
+ck-to-
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.35   dense_
+             1/kernel:0. for pretrained keras model.''
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.36   \url
+           {https://stackoverflow.com/questions/74684240/keyerror-the-optimi...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.39 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.39 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
+[]\OT1/cmr/m/n/10 StackOverflov, ``Key-er-ror: 'the op-ti-mizer can-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
+\OT1/cmr/m/n/10 not rec-og-nize vari-able dense$[]\OML/cmm/m/it/10 =kernel \OT1
+/cmr/m/n/10 :
+ []
+
+
+Overfull \hbox (635.47359pt too wide) in paragraph at lines 34--39
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :forpretrainedkerasmodel:[][]; YearPublished=
+\OT1/cmr/m/n/10 04\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 05\OML/cmm/m/it/10 :\OT1/cm
+r/m/n/10 2024\OML/cmm/m/it/10 : Accessed \OT1/cmr/m/n/10 :
+ []
+
+[24]
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.39 
+     
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.42   \url
+           {https://neptune.ai/blog/gan-loss-functions}, Year Published/ 29....
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
+[]\OT1/cmr/m/n/10 neptune.ai(Harshit Dwivedi), ``Un-der-stand-ing gan loss func
+-tions.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
+\OT1/cmr/m/n/10 https://neptune.ai/blog/gan-loss-functions, Year Pub-lished/ 29
+.05.2024.
+ []
+
+! Undefined control sequence.
+l.48   \url
+           {https://stackoverflow.com/questions/42690721/how-to-interpret-th...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
+[]\OT1/cmr/m/n/10 StackOverflov, ``How to in-ter-pret the dis-crim-i-na-tor's l
+oss
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
+\OT1/cmr/m/n/10 and the gen-er-a-tor's loss in gen-er-a-tive ad-ver-sar-ial net
+s?.''
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
+\OT1/cmr/m/n/10 https://stackoverflow.com/questions/42690721/how-to-interpret-t
+he-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
+\OT1/cmr/m/n/10 discriminators-loss-and-the-generators-loss-in-generative, Year
+ Pub-lished/
+ []
+
+) [25] (2118121031_Yapay_zeka_Final_Raporu.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4060 strings out of 474486
+ 67710 string characters out of 5742812
+ 1937542 words of memory out of 5000000
+ 26294 multiletter control sequences out of 15000+600000
+ 563173 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,7n,79p,1484b,301s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\eakkaya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tc
+rm1000.pk><C:/Users/eakkaya/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb><C:/Users/eakkaya/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/eakkaya/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/eakkaya/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/eakkaya/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/eakkay
+a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Us
+ers/eakkaya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.p
+fb><C:/Users/eakkaya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><C:/Users/eakkaya/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmsy7.pfb><C:/Users/eakkaya/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmti10.pfb><C:/Users/eakkaya/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on 2118121031_Yapay_zeka_Final_Raporu.pdf (25 pages, 15531835 by
+tes).
+PDF statistics:
+ 220 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 204 words of extra memory for PDF output out of 10000 (max. 10000000)
+
