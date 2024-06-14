@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+
+\bibitem{haber1}
+BBC, ``https://www.bbc.com/turkce/haberler-dunya-60702679,'' 11 Mart 2022.
+
+\bibitem{site1}
+arcgis,
+  ``https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6,''
+  2024.
+
+\bibitem{article}
+C.~Çılgın Et~Al., ``Sentiment analysis of public sensitivity to covid-19
+  vaccines on twitter by majority voting classifier-based machine learning
+  twitter’da covid-19 aşılarına karşı kamu duyarlılığının
+  çoğunluk oylama sınıflandırıcısı temelli makine öğrenmesi ile duygu
+  analizi,'' {\em Journal of the Faculty of Engineering and Architecture of
+  Gazi University}, pp.~1093--1104, 2023.
+
+\bibitem{article_855113}
+N.~S. ÖZEN, S.~SARAÇ, and M.~KOYUNCU, ``Covid-19 vakalarının makine
+  Öğrenmesi algoritmaları ile tahmini: Amerika birleşik devletleri
+  Örneği,'' {\em Avrupa Bilim ve Teknoloji Dergisi}, no.~22, p.~134–139,
+  2021.
+
+\bibitem{genc2007new}
+H.~M. Genc, Z.~Cataltepe, and T.~Pearson, ``A new pca/ica based feature
+  selection method,'' in {\em 2007 IEEE 15th Signal Processing and
+  Communications Applications}, pp.~1--4, IEEE, 2007.
+
+\bibitem{article_1031070}
+E.~SÜTCÜ and P.~SHAMS, ``Türkiye’de covid-19 günlük vaka sayısının
+  makine öğrenmesi algoritmaları ile tahmin edilmesi,'' {\em Anadolu Bil
+  Meslek Yüksekokulu Dergisi}, vol.~16, no.~63, p.~197–213, 2021.
+
+\bibitem{siteSaglik}
+
+
+\bibitem{owidcoronavirus}
+E.~Mathieu, H.~Ritchie, L.~Rodés-Guirao, C.~Appel, C.~Giattino, J.~Hasell,
+  B.~Macdonald, S.~Dattani, D.~Beltekian, E.~Ortiz-Ospina, and M.~Roser,
+  ``Coronavirus pandemic (covid-19),'' {\em Our World in Data}, 2020.
+\newblock https://ourworldindata.org/coronavirus.
+
+\bibitem{site2}
+H.~Candan, ``Adım adım makine Öğrenmesi bölüm 4: Denetimli Öğrenme ve
+  denetimsiz Öğrenme arasındaki fark.''
+
+\bibitem{site3}
+R.~Kandar, ``Regresyon (regression) - sınıflandırma(classification)
+  nedir?.''
+
+\bibitem{site4}
+B.~Daz, ``Random forest algoritması (rassal orman) | machine learning [7].''
+
+\bibitem{site11}
+B.~Köseoğlu, ``Model performansını değerlendirmek: Regresyon,'' 2021.
+
+\bibitem{wikipedia}
+Wikipedia, ``Yapay sinir ağları,'' 2024.
+
+\bibitem{youtube}
+Şadi Evren~ŞEKER, ``Neural network 3: Çok katmanlı yapay sinir
+  ağları-youtube,'' 2017.
+
+\bibitem{SlideServe}
+SlideServe, ``Yapay sinir ağı (ysa),'' 2014.
+
+\bibitem{youtube-ysa}
+P.~D.~S. Akkoyun, ``Ders-8 yapay sinir ağları (python ile Örnek uygulama),''
+  2023.
+
+\bibitem{Aktivasyon}
+B.~Ayten, ``Yapay sinir ağlarında aktivasyon fonksiyonları,'' 2021.
+
+\bibitem{r2}
+Şevket Ay, ``Model performansını değerlendirmek — metrikler,'' 2020.
+
+\bibitem{Duzelr2}
+E.~Şirin, ``R kare ve düzeltilmiş r kare,'' 2017.
+
+\bibitem{MSE}
+U.~CİNDİLOĞLU, ``2- makine Öğrenmesinde performans metrikleri,'' 2024.
+
+\bibitem{svr}
+İlker Katkat, ``Python - svr (destek vektör regresyonu),'' 2020.
+
+\end{thebibliography}

@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: template_Article.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+Database file #1: document_vize.bib
+Warning--entry type for "haber1" isn't style-file defined
+--line 33 of file document_vize.bib
+Warning--entry type for "site1" isn't style-file defined
+--line 49 of file document_vize.bib
+Repeated entry---line 63 of file document_vize.bib
+ :   @online{site1
+ :                ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "site2" isn't style-file defined
+--line 77 of file document_vize.bib
+Warning--entry type for "site3" isn't style-file defined
+--line 93 of file document_vize.bib
+Warning--entry type for "site4" isn't style-file defined
+--line 109 of file document_vize.bib
+Warning--entry type for "site11" isn't style-file defined
+--line 125 of file document_vize.bib
+Warning--entry type for "siteSaglik" isn't style-file defined
+--line 139 of file document_vize.bib
+Warning--entry type for "wikipedia" isn't style-file defined
+--line 169 of file document_vize.bib
+Warning--entry type for "youtube" isn't style-file defined
+--line 183 of file document_vize.bib
+Warning--entry type for "SlideServe" isn't style-file defined
+--line 199 of file document_vize.bib
+Warning--entry type for "youtube-ysa" isn't style-file defined
+--line 213 of file document_vize.bib
+Warning--entry type for "Aktivasyon" isn't style-file defined
+--line 233 of file document_vize.bib
+Warning--entry type for "r2" isn't style-file defined
+--line 249 of file document_vize.bib
+Warning--entry type for "MSE" isn't style-file defined
+--line 265 of file document_vize.bib
+Warning--entry type for "Duzelr2" isn't style-file defined
+--line 281 of file document_vize.bib
+Warning--entry type for "svr" isn't style-file defined
+--line 295 of file document_vize.bib
+Warning--all relevant fields are empty in siteSaglik
+You've used 21 entries,
+            1876 wiz_defined-function locations,
+            565 strings with 5978 characters,
+and the built_in function-call counts, 3499 in all, are:
+= -- 308
+> -- 130
+< -- 0
++ -- 56
+- -- 35
+* -- 157
+:= -- 478
+add.period$ -- 19
+call.type$ -- 21
+change.case$ -- 20
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 163
+empty$ -- 421
+format.name$ -- 35
+if$ -- 885
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 5
+newline$ -- 67
+num.names$ -- 20
+pop$ -- 120
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 163
+stack$ -- 0
+substring$ -- 88
+swap$ -- 55
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 27
+width$ -- 23
+write$ -- 158
+(There was 1 error message)
