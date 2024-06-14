@@ -1,127 +1,171 @@
 \documentclass[12pt,a4paper]{article}
-\usepackage{datetime} % datetime paketini ekleyin
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
-\usepackage{graphicx} % Grafikleri eklemek için gerekli paket
-\graphicspath{{images/}} % Grafik yolu belirleme
+\usepackage{graphicx} 
+\usepackage{url}
+\graphicspath{{images/}} 
 \renewcommand{\figurename}{Şekil}
+\renewcommand{\refname}{Kaynakça}
 \usepackage{geometry}
-\title{\bf\fontsize{12pt}{14pt}\selectfont KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ \\ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ}
+\usepackage{hyperref}
+\usepackage{subcaption}
+\usepackage{amsmath}
 
+\title{\bf\fontsize{12pt}{14pt}\selectfont KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ \\ MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ}
+\date{}
 \begin{document}
 	
 	\maketitle
 	\begin{center}
 			\includegraphics[width=0.25\linewidth]{ksbu.png}
 	\end{center}
-             
-	        
 	\begin{center}
-		\vspace{1cm} % Vertical space of 1cm
 	\end{center}
 	\begin{center}
-	\title{\bf\fontsize{12pt}{14pt}\selectfont YAPAY ZEKA DERSİ }
+	\title{\bf\fontsize{12pt}{14pt}\selectfont YAPAY ZEKA DERSİ FİNAL RAPORU }
 	\end{center}
 		\begin{center}
-		\title{\bf\fontsize{12pt}{14pt}\selectfont Sistem LOG dosyalarını inceleyerek, sistemde aktif ya da öncesinde var
-olmuş yetkisiz girişlerin tespit edilmes}
-	\end{center}
+		\title{\bf\fontsize{12pt}{14pt}\selectfont Sistem LOG dosyalarını inceleyerek, sistemde aktif ya da öncesinde
+var olmuş yetkisiz girişlerin tespit edilmesi}
+        \end{center}
 	\begin{center}
-	\vspace{1cm} % Vertical space of 1cm
 	\end{center}
 	\begin{center}
 		
-	%\title{\bf\fontsize{12pt}{14pt}\selectfont Hande Öz\hspace{1.5cm}2118121038}	
-	\author{\bf\fontsize{12pt}{14pt}Barış AZAR\hspace{2cm}2118121004}
+	
+	\author{\bf\fontsize{12pt}{14pt}Barış AZAR \hspace{1.5cm}2118121004}
 	
 	\begin{center}
-	\vspace{1cm} % Vertical space of 1cm
 	\end{center}
-	
+  \bf\fontsize{12pt}{14pt}\selectfont {Anahtar kelimeler: LOG Analizi, LSTM, Yapay Zeka, Access.log\newline}
+    \begin{abstract}
+Bu çalışmada, yetkisiz girişleri tespit etmek amacıyla yapay zeka teknolojilerinden yararlanılarak bir log analiz sistemi geliştirilmiştir.
+Çalışmanın temel amacı, hem içeriden hem de dışarıdan yapılan yetkisiz erişim girişimlerini, sunucu erişim logları üzerinden analiz ederek belirlemektir.
+Farklı senaryolar ve yapay zeka modelleriyle, bu verilerin yapay zeka modelleriyle işlenmesi sonucu yetkisiz erişim girişimlerinin tespit edilip edilemeyeceği araştırılmıştır.
+Sonuç olarak, bu çalışma, log dosyalarının yapay zeka yardımıyla analiz edilerek sistem güvenliğinin nasıl artırılabileceğine dair önemli bilgiler sunmaktadır.    \end{abstract}
+
 	\end{center}
+
   \newpage
-	\begin{enumerate}
-	 \section{giriş}\newline\newline
-Güvenlik, günümüzde dijital sistemler için kritik bir öneme sahiptir.
-Bu proje, sistem güvenli§ini artırmak amacıyla yapay zeka kullanarak sistemde aktif olarak işlem yapan ya da geçmişte işlem yapmış izinsiz girişleri
-(hacker) tespit etmek amacıyla geliştirilecektir. Sistem loglarını inceleyerek,
-hackerları tespit etmeyi hedeflemektedir.\newline
-Linux sistem üzerinde bulunan ve tanımlı olarak(default) kaydedilen log
-dosyalarını analiz edilmesi planlanmaktadır. Programın aktif olarak çalış-
-ması değil, yalnızca istenilen zamanda çalışması planlanmaktadır.
-\newline
-	
- \section{ Literatür Araştırması}\newline\newline
-SIEM ürünlerinin basit versiyonu olarak nitelendirebiliriz. Literatür daha
-çok ağ analizi üzerindedir.
-\newline
+	\section{Giriş}
+Güvenlik, günümüzde dijital sistemler için kritik bir öneme sahiptir. Yapılan araştırmaya göre, 2023 yılında küresel çapta 2.365 siber saldırı yaşanmış ve bu saldırılar sonucunda 343.338.964 kişi etkilenmiştir. Saldırılardan kaynaklanan veri ihlallerinin ortalama maliyeti 4.45 milyon USD olmuştur. Saldırıların etkisi ve maliyeti düşünülünce siber güvenlik alanında yatırımlar ve veri sızmasını engellemek için çalışmaların olması hayatidir.\cite{Cyber_attack}\newline\newline Çalışmanın amacı yüksek güvenlikli sunucu ve kritik sistemleri ve o sunuculara içeriden erişebilen çalışan yönetici vb. kişilerin şahsi ve kurumsal bilgisayarlarında keşif yapmayı amaçlamaktadır. Çalışmanın önemi, araştırmacının Yapay Zeka, log analizi konusunda tecrübe sağlaması ve bu tecrübelerin temel aldığı farklı çalışmalar yapmasına katkı sağlamaktır. Literatür açısından, yapay zeka ile log analizi konusunda farklı yapay zeka modellerini karşılaştırmak önemli bir katkıdır. Çalışmada, sistem güvenliğini artırmak amacıyla yapay zeka kullanarak sistemde aktif olarak işlem yapan ya da geçmişte işlem yapmış izinsiz girişleri tespit etmek amacıyla geliştirilmektedir. Sistem erişim (access) log dosyalarını analiz edilerek çıktı üretilmesi üzerine çalışılmaktadır.
 
- \section{Metodoloji}
-  \begin{itemize}
-\subsection{Veri Toplama ve Veri Seti}
-Proje, sistem loglarını toplamak için belirli bir metodoloji kullanacaktır. Veri setinde bir hacker tarafından izinsiz olarak ele geçirilen bilgisayarda
-olması muhtemel loglar ve izin verilen kullanıcı tarafından kullanılırken oluş-
-turulan loglar yer alacaktır. Hazır veri setleri ya da kendi oluşturduğum
-loglar veri setini oluşturacaktır.\newline\newline
-Veri seti oluşturmak için bir hacker saldırı simülasyonu planım şu şekildedir: Tamamen yasal ve izinli olarak kendi bilgisayarım üzerindeki Linux işletim sistemi üzerinde önce hacker gibi davranarak bilgisayar ve sistem zaaflarını test edip bilgisayara sızarak logları toplayacağım. Sisteme giriş yaptıktan sonra içeride hala üzerine çalıştığım komut ve değişiklikleri yaparak ortaya çıkan logları alacağım.
-\newline\newpage
-Normal yani sistemi kullanılmasına izin verilen kullanıcı için log toplama planım ise şöyledir: Sisteme şifre ve parola ile önce yanlış sonra doğru olacak şekilde sisteme giriş yapacağım. Sistemde önce kullanıcı yetkisi ile sonra da süper kullanıcı yetkisi ile işlemler gerçekleştirip log toplayacağım.\newline\newline
-2 farklı açıdan log toplama sebebim yapay zekanın yalnızca sisteme izinsiz
-giriş var demesi değil sistemde sorun yok çıktısı üretmesini sağlamak. Yani
-hastalıklı ve sağlıklı verinin bir arada bulunmasını örnek gösterebilirim.
-\newline
+\section{Veri Seti}
+Veri seti, "Kirli" ve "Temiz" olarak 2 adet kategori mevcuttur. Kirli veri seti çalışma için özel olarak elde edilmiştir. Kirli veri setini hazırlamak için yerel ağ üzerinden Apache sunucu sistemi üzerine saldırı gerçekleştirilmiştir \cite{Dirbuster},\cite{gobuster}. Saldırı türü wordlist'dir. Wordlist olarak \cite{big.txt} kullanılmıştır. Saldırı sonucunda oluşan access.log dosyası kirli verileri oluşturmaktadır. Karşıt olarak temiz verisi için \cite{kaggle} verileri kullanılmıştır.
 
-\subsection{ Yapay Zeka Modeli}
+Toplamda 20.000 adet veri mevcuttur. Bu veriler \%70 eğitim (14.000 veri), \%20 test (4.000 veri) ve \%10 doğrulama (2.000 veri) olacak şekilde ayrılmıştır. Kirli ve temiz veri setleri dengeli olarak dağıtılmış ve analiz edilmiştir. Eğitim seti, modeli saldırıları tanımlamak üzere eğitirken, test seti modelin performansını değerlendirir. Doğrulama seti ise modelin hiperparametrelerini optimize etmek için kullanılmıştır. Bu yaklaşım, modelin gerçek dünya saldırılarını tanıyabilmesi ve yanıltıcı pozitifleri minimize etmesi için tasarlanmıştır. Eğitim seti üzerinde modelin öğrenme süreci, saldırı tespit performansını maksimize edecek şekilde yürütülmüştür.
 
-Literatür taraması ve yapay zeka modellerinin incelenmesi sonucunda; LOG analizi için RNN, özellikle de Long Short-Term Memory (LSTM) ile CNN modellerini paralel olarak kullanma kararı aldım. İki modelin özel avantajlarını birleştirerek sistemdeki potansiyel güvenlik ihlallerini daha etkili bir şekilde değerlendirmeyi amaçlıyorum. LSTM, metin verilerindeki uzun vadeli bağlantıları daha iyi anlama yeteneğine sahip olduğundan, zaman serilerini içeren LOG dosyalarındaki olayları modelleme konusunda güçlüdür. Ayrıca, CNN, metin verilerindeki özellikleri çıkarma konusunda etkili olduğu için, LOG dosyalarındaki belirli desenleri tespit etme kabiliyetiyle anomali tespiti ve güvenlik ihlallerini belirleme konusunda önemli bir avantaj sağlar.\newline \newline
-Bu paralel kullanım, LSTM'in zamanla ilişkili olayları, CNN'in ise özellik çıkarma yeteneklerini birleştirerek, LOG dosyalarındaki hem zamanla ilişkili olayları hem de belirli desenleri daha etkili bir şekilde analiz etmeyi hedeflemektedir. Bu strateji, veri setindeki karmaşıklığı daha iyi ele alarak, güvenlik açısından daha sağlam bir sistem oluşturmayı amaçlamaktadır. \newline \newline
-Ancak, her iki modelin de eğitim süreçleri, modelin karmaşıklığı ve kullanım senaryoları dikkate alınmalıdır. LSTM'nin uzun vadeli bağlantıları işleme kabiliyeti, zaman içindeki olayları modelleme açısından avantajlıdır, ancak eğitim süreci zaman alabilir. Aynı zamanda, CNN'in filtre boyutları ve mimari seçimi gibi parametrelerin dikkatlice ayarlanması gerekmektedir.\newline\newline
-Sonuç olarak, LSTM ve CNN'nin paralel kullanımı, LOG analizi sürecini daha kapsamlı ve etkili hale getirerek, sistemdeki güvenlik açıklarını daha etkili bir şekilde tespit etmeye yönelik bir strateji olarak benimsenmiştir. Bu yaklaşım, her iki modelin avantajlarını birleştirerek güçlü bir analitik yetenek sunmayı amaçlamaktadır
-  \end{itemize}
-  \section{Sonuçlar ve Değerlendirme}
-\begin{itemize}
-Geliştirilen yapay zeka modeli ile elde edilen sonuçlar, projenin başarısını değerlendirecek. Modelin hassasiyeti, doğruluğu ve tespit yetenekleri, gerçek dünya senaryolarında nasıl performans gösterdiği üzerine odaklanacaktır. Ortaya çıkan ürünü canlı bir sistemde denemek için adımlar atılması düşünülmektedir. \newline
-    \subsection{ GANTT Chart ve İş Akış Planı}
-    İş akış şeması, zaman aralıkları ve yapılacak görevler henüz kesinleştirilmemiştir. Gelecek 2 hafta içerisinde iş akış planı, zaman aralıkları ve yapılacak görevlerin tanımları netleştirilecektir. Bu süre zarfında yapılan değişiklikler ilgili haftada bildirilecek ve nihai sonuçlar gelecek 2 hafta içinde sunulacaktır. Şekil 1'de görüldüğü gibi, GANTT Chart iş paketlerinin tanımını ve zaman çizelgesini göstermektedir.
-\end{itemize}
-  
-  \begin{figure}[h]
-  	\caption{GANTT CHART}
-  	\vspace{1cm} % Vertical space of 1cm
-  	\centering
-  	 \includegraphics[width=\textwidth,height=\textheight,keepaspectratio]{789465.png}
-  	\label{gantt}
-  		\vspace{1cm} % Vertical space of 1cm
-  	Şekil \ref{gantt}'de görebileceği üzere
-  	iş akış planı gösterilmektedir.
-  \end{figure}
-  \begin{itemize}
-        
-      
-  \end{itemize}
-  \item Kaynakça
+\section{Yöntem}
+\subsection{Yapay Zeka Modeli}
 
-  \begin{itemize}
-  \bibitem{example} ADeep Learning Türkiye. (22 Kasım 2020). RNN Nedir? Nasıl Çalışır? Erişim tarihi: [5.03.2024].
-  \url{  https://medium.com/deep-learning-turkiye/rnn-nedir-nasıl-çalışır-9e5d572689e1}
-  \bibitem{example} TensorFlow. Zaman Serileri Yapılandırılmış Veri Eğitimi. Erişim tarihi: [10.03.2024]. \newline\url{https://www.tensorflow.org/tutorials/structured_data/time_series?hl=tr}
-  
-\bibitem{example} Application of Artificial Intelligence and Machine Learning in Security Operations Center Middle Georgia State University (2023). Erişim Tarihi:
-[10.03.2024]\newline 
-\url{ https://comp.mga.edu/static/media/doctoralpapers/2023Islam0516152253.pdf}  
-  
- \bibitem{example}  konvolüsyonel Sinir Ağları Tabanlı Türkçe Metin Sınıflandırma (2023). Erişim Tarihi: [13.03.2024] \newline  \url{ https://dergipark.org.tr/en/download/article-file/2609278}
+Bu çalışma kapsamında, bir LSTM (Long Short-Term Memory) tabanlı model kullanarak log verilerini analiz eden ve zararlı etkinlikleri tespit eden bir derin öğrenme modeli oluşturulmuştur. Bu model, metin verilerini işleyip sınıflandırarak hangi logların saldırıya uğradığını (infected) ve hangilerinin temiz olduğunu (not infected) belirlemektedir. Aşağıda, modelin her bir bileşeni ve adımı detaylı olarak açıklanmaktadır.
 
- \bibitem{example}Convolutional Neural Network (ConvNet yada CNN) nedir, nasıl çalışır?
-(02.10.2018). Erişim Tarihi: [13.03.2024]\newline 
-\url{ https://medium.com/@tuncerergin/convolutional-neural-network-convnet-yadacnn-nedir-nasil-calisir-97a0f5d34cad}  
+\subsubsection{Veri Hazırlığı ve Yükleme}
+
+Çalışmanın ilk adımı, gerekli veri setlerini ve anahtar kelimeleri yüklemektir. Log verileri, bir Excel dosyasından alınmış ve her bir log girdisi metin formatında bir listeye dönüştürülmüştür. Bu log verileri, saldırı girişimlerini ve normal etkinlikleri içermektedir. Yüklenen veriler, gereksiz bilgilerin çıkarılması amacıyla temizlenmiştir. Bu temizlik işlemi, her bir log girdisinden ilk virgülden sonraki kısmı alarak gerçekleştirilmiştir. Böylece, analiz edilecek log metinlerinin sadece önemli kısımları elde edilmiştir.
+
+Anahtar kelimeler, bir metin dosyasından yüklenmiştir. Bu anahtar kelimeler, saldırı tespitinde kullanılacak kritik kelimeleri içerir ve her satır bir anahtar kelime olacak şekilde listeye dönüştürülmüştür. Bu sayede, log verilerinde bu anahtar kelimelerin varlığına göre etiketleme yapılması sağlanmıştır.
+
+\subsubsection{Veri Etiketleme}
+
+Veri etiketleme işlemi, log verilerinde anahtar kelimelerin bulunup bulunmadığını kontrol ederek gerçekleştirilmiştir. Eğer bir log girdisinde herhangi bir anahtar kelime bulunuyorsa, bu log girdisi "infected" (saldırıya uğramış) olarak etiketlenmiştir. Aksi halde, log girdisi "not infected" (saldırıya uğramamış) olarak işaretlenmiştir. Bu etiketleme işlemi, saldırı tespiti için gerekli olan denetimli öğrenme modelinin eğitiminde kullanılacak veri setini oluşturmuştur.
+
+\subsubsection{Metin Verisinin İşlenmesi}
+
+Log verilerini makine öğrenmesi modeli için uygun hale getirmek amacıyla, metin verisi tokenize edilmiştir. Tokenizasyon işlemi, metinlerin kelime dizilerine dönüştürülmesini sağlar. Daha sonra bu diziler, modelin girdi olarak kullanabileceği sabit uzunlukta vektörler haline getirilmiştir. Bu işlem, tüm log girdilerinin aynı uzunlukta olmasını sağlayarak modelin düzgün bir şekilde eğitilmesini sağlamaktadır.
+
+\subsubsection{Modelin Tanımlanması}
+
+Modelin tanımlanması aşamasında, LSTM (Long Short-Term Memory) tabanlı bir sinir ağı modeli oluşturulmuştur. Bu model, metin verilerini işleyerek hangi logların saldırıya uğradığını tahmin etmeyi amaçlar. Modelin girdi katmanı, metin verilerini almak üzere tanımlanmıştır. Girdi verileri, embedding katmanı aracılığıyla sayısal bir temsile dönüştürülmüştür. Bu embedding katmanı, kelimelerin vektör temsilini öğrenerek metin verisinin anlamlı bir şekilde işlenmesini sağlar. Embedding katmanının çıktısı, LSTM katmanına aktarılmıştır. LSTM katmanı, zaman serisi verisi olan metinlerdeki ardışık ilişkileri öğrenir. Son olarak, dense katmanı kullanılarak modelin çıktısı üretilmiş ve bu çıktı, saldırı tespitinin yapılmasını sağlamaktadır.
+
+\subsubsection{Modelin Eğitilmesi}
+
+Modelin eğitimi için derleme işlemi yapılmış ve modelin optimize edilmesi amacıyla gerekli parametreler belirlenmiştir. Model, 'adam' optimizasyon algoritması ve 'binary\_crossentropy' kayıp fonksiyonu ile derlenmiştir. Modelin performansı, eğitim ve doğrulama doğruluğu ile değerlendirilmiştir. Eğitim süreci boyunca model, verinin \%70'i ile eğitilirken, \%20'si ile test edilmiş ve \%10'u doğrulama için kullanılmıştır. Eğitim sürecinde model, her epoch sonunda eğitim ve doğrulama kayıplarını ve doğruluklarını hesaplamıştır.
+
+\section{Bulgu ve Tartışma}
+\subsection{Metrikler}
+\subsubsection{Doğru Pozitif (TP)}
+\quad Gerçekte pozitif olan ve modelin de pozitif olarak tahmin ettiği örnekler.
+
+\subsubsection{Doğru Negatif (TN)}
+\quad Gerçekte negatif olan ve modelin de negatif olarak tahmin ettiği örnekler.
+
+\subsubsection{Yanlış Pozitif (FP)}
+\quad Gerçekte negatif olan ancak modelin pozitif olarak tahmin ettiği örnekler.
+
+\subsubsection{Yanlış Negatif (FN)}
+\quad Gerçekte pozitif olan ancak modelin negatif olarak tahmin ettiği örnekler.
+
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[width=1\linewidth]{metrik_aciklama.png}
+    \caption{Metrik açıklayıcı görsel\cite{Metrik}.}
+    \label{fig:enter-label}
+\end{figure}\newpage
+
+\subsubsection{Doğruluk (Accuracy}
+\quad Modelin doğru tahminlerinin tüm tahminlere oranı.
+\begin{align}
+Dogruluk &= \frac{TP+TN}{TP+TN+FP+FN}
+\end{align}
+
+\subsubsection{Hassasiyet (Precision)}
+\quad Pozitif olarak tahmin edilen örneklerin gerçekten pozitif olma oranı.
+\begin{align}
+Hassasiyet (Precision) &= \frac{TP}{TP+FP}
+\end{align}
+
+\subsubsection{Duyarlılık (Recall)}
+\quad Gerçekte pozitif olan örneklerin model tarafından pozitif olarak tahmin edilme oranı.
+\begin{align}
+Duyarlilik (Recall) &= \frac{TP}{TP+FN}
+\end{align}
 
 
- \bibitem{example}CCNN (Convolutional Neural Networks) Nedir? (30.09.2021). Erişim Tarihi:
-[13.03.2024]\newline 
-\url{ https://bartubozkurt35.medium.com/cnn-convolutional-neural-networks-nedira5bafc4a82a1}  
+\subsubsection{F1 Skoru (F1 Score)}
+\quad Hassasiyet ve duyarlılığın harmonik ortalaması, modelin genel performansını değerlendirmek için kullanılır.
+\begin{align}
+F1 Skor &= 2 \cdot \frac{Hassasiyet \cdot Duyarlilik}{Hassasiyet + Duyarlilik}
+\end{align}
 
-  \end{itemize}
-  \end{enumerate}
-  
+\section{Sonuç}
+Bu çalışmada, Apache sunucu sistemine yönelik saldırıların tespiti amacıyla bir LSTM tabanlı yapay zeka modeli geliştirilmiştir. Model, log verilerini analiz ederek zararlı etkinlikleri belirlemiş ve bu sayede sistem güvenliğini artırmak için önemli bir araç sunmuştur. Eğitim sürecinde modelin performansı çeşitli metriklerle değerlendirilmiştir. 
+
+\begin{figure}[!htbp]
+    \centering
+    \includegraphics[width=1\linewidth]{GRAPHİCS.png}
+    \caption{Eğitim - Doğrulama kayıp ve Eğitim - Doğrulama kesinlik grafiği}
+    \label{fig:enter-label}
+\end{figure}
+
+Elde edilen sonuçlar, modelin yüksek doğruluk, hassasiyet, duyarlılık ve F1 skoru ile başarılı bir performans sergilediğini göstermiştir. Model, test verileri üzerinde \%97 doğruluk, \%92 hassasiyet, \%94 duyarlılık ve \%94 F1 skoru ile doğru ve güvenilir tahminler yapabilmiştir. Bu bulgular, log dosyalarının yapay zeka yardımıyla analiz edilerek izinsiz girişlerin tespit edilmesinin mümkün olduğunu ortaya koymaktadır. Gelecekteki çalışmalar, daha büyük ve çeşitli veri setleri ile modelin genelleme yeteneğinin artırılmasını hedefleyebilir.
+
+\begin{table}[!htbp]
+    \centering
+    \caption{Eğitimde elde edilen sonuçlar}
+    \begin{tabular}{|c|c|}
+    \hline
+    \textbf{Ölçüm metrikleri} & \textbf{Değerler} \\
+    \hline
+    True Positives & 22 \\
+    \hline
+    True Negatives & 75 \\
+    \hline
+    False Positives & 2 \\
+    \hline
+    False Negatives & 1 \\
+    \hline
+    Accuracy & 0.97 \\
+    \hline
+    Precision & 0.92 \\
+    \hline
+    Recall & 0.94 \\
+    \hline
+    F1 Score & 0.94 \\
+    \hline
+    \end{tabular}
+\end{table}
+
+\bibliographystyle{ieeetr}
+\bibliography{./sample.bib}
 \end{document}
