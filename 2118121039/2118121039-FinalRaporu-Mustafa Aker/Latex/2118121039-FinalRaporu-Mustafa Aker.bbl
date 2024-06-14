@@ -1,0 +1,88 @@
+\begin{thebibliography}{10}
+
+\bibitem{inancc2020solving}
+{\c{S}}.~{\.I}nan{\c{c}} and A.~E. {\c{S}}enaras, ``Solving nurse scheduling
+  problem via genetic algorithm in home healthcare,'' in {\em Transportation,
+  Logistics, and Supply Chain Management in Home Healthcare: Emerging Research
+  and Opportunities}, pp.~20--28, IGI Global, 2020.
+
+\bibitem{kuccuk2021hemcsire}
+A.~K{\"u}{\c{c}}{\"u}k and {\.I}.~D. KOCAKO{\c{C}}, ``Hem{\c{s}}ire
+  {\c{c}}izelgeleme problemlerinin genetik algoritmalarla optimizasyonu ve bir
+  uygulama,'' {\em Manisa Celal Bayar {\"U}niversitesi Sosyal Bilimler
+  Dergisi}, vol.~19, no.~Arma{\u{g}}an Say{\i}s{\i}, pp.~203--210, 2021.
+
+\bibitem{yamamura1993nurse}
+M.~Yamamura, S.~Kobayash, M.~Yamagishi, and H.~Ase, ``Nurse scheduling by
+  genetic algorithms,'' {\em Hiroaki Kitano: Genetic Algorithms}, vol.~2,
+  pp.~89--125, 1993.
+
+\bibitem{bailey1997using}
+R.~Bailey, K.~Garner, and M.~Hobbs, ``Using simulated annealing and genetic
+  algorithms to solve staff-scheduling problems,'' {\em Asia-Pacific Journal of
+  Operational Research}, vol.~14, no.~2, p.~27, 1997.
+
+\bibitem{aickelin2004indirect}
+U.~Aickelin and K.~A. Dowsland, ``An indirect genetic algorithm for a
+  nurse-scheduling problem,'' {\em Computers \& operations research}, vol.~31,
+  no.~5, pp.~761--778, 2004.
+
+\bibitem{duenas2009genetic}
+A.~Duenas, G.~Y. T{\"u}t{\"u}nc{\"u}, and J.~B. Chilcott, ``A genetic algorithm
+  approach to the nurse scheduling problem with fuzzy preferences,'' {\em IMA
+  Journal of Management Mathematics}, vol.~20, no.~4, pp.~369--383, 2009.
+
+\bibitem{balekar2013survey}
+S.~S. Balekar and N.~Mhetre, ``Survey of genetic algorithm approach for nurse
+  scheduling problem,'' {\em International Journal of Science and Research},
+  vol.~4, no.~6, pp.~55--62, 2013.
+
+\bibitem{leksakul2014nurse}
+K.~Leksakul, S.~Phetsawat, {\em et~al.}, ``Nurse scheduling using genetic
+  algorithm,'' {\em Mathematical Problems in Engineering}, vol.~2014, 2014.
+
+\bibitem{kim2018genetic}
+J.~Kim, W.~Jeon, Y.-W. Ko, S.~Uhmn, and D.-H. Kim, ``Genetic local search for
+  nurse scheduling problem,'' {\em Advanced Science Letters}, vol.~24, no.~1,
+  pp.~608--612, 2018.
+
+\bibitem{alfadilla2019optimization}
+N.~Alfadilla, P.~Sentia, D.~Asmadi, {\em et~al.}, ``Optimization of nurse
+  scheduling problem using genetic algorithm: a case study,'' in {\em IOP
+  Conference Series: Materials Science and Engineering}, vol.~536, p.~012131,
+  IOP Publishing, 2019.
+
+\bibitem{holland1992adaptation}
+J.~H. Holland, {\em Adaptation in natural and artificial systems: an
+  introductory analysis with applications to biology, control, and artificial
+  intelligence}.
+\newblock MIT press, 1992.
+
+\bibitem{elen2011ccizelgeleme}
+A.~Elen, ``{\c{C}}izelgeleme probleminin sezgisel optimizasyon
+  yakla{\c{s}}{\i}m{\i}yla {\c{c}}{\"o}z{\"u}m{\"u},'' Master's thesis, Fen
+  Bilimleri Enstit{\"u}s{\"u}, 2011.
+
+\bibitem{birougul2005genetik}
+S.~Biro{\u{g}}ul, ``Genetik algoritma yakla{\c{s}}{\i}m{\i}yla at{\"o}lye
+  {\c{c}}izelgeleme,'' {\em Gazi {\"U}niversitesi Fen Bilimleri
+  Enstit{\"u}s{\"u} Y{\"u}ksek Lisans Tezi, Gazi {\"U}niversitesi Fen Bilimleri
+  Enstit{\"u}s{\"u}, ANKARA, Ocak}, 2005.
+
+\bibitem{aydemir2009atolye}
+E.~Aydemir, ``At{\"o}lye tipi {\c{c}}izelgeleme problemlerinin {\"o}ncelik
+  kural{\i} tabanl{\i} genetik algoritma yakla{\c{s}}{\i}m{\i}yla
+  sim{\"u}lasyon destekli optimizasyonu,'' Master's thesis, Fen Bilimleri
+  Enstit{\"u}s{\"u}, 2009.
+
+\bibitem{mıracöztürk}
+miracöztürk, ``Business intelligence specialist.''
+  \url{https://miracozturk.com/python-ile-siniflandirma-analizleri-genetik-algoritmalar/}.
+\newblock Erişim Tarihi: 15 Nisan 2024.
+
+\bibitem{Tobs80}
+Tobs80, ``Schedule with genetic algorithms main.''
+  \url{https://github.com/Tobs80/Schedule-with-Genetic-Algorithms/blob/main/main.py}.
+\newblock Erişim Tarihi: 01 Mayıs 2024.
+
+\end{thebibliography}

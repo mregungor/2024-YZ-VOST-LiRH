@@ -1,0 +1,1249 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.12)  14 JUN 2024 23:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./2118121039-FinalRaporu-Mustafa Aker.tex"
+(2118121039-FinalRaporu-Mustafa Aker.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/pdflscape\pdflscape.st
+y
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/pdflscape\pdflscape-no
+metadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/datetime\datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count195
+) (C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fmtcount.st
+y
+Package: fmtcount 2020/01/30 v3.07
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count196
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fcnumparser.s
+ty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count197
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen143
+)
+\c@padzeroesN=\count198
+\fc@tmpcatcode=\count199
+\@DT@modctr=\count266
+\@ordinalctr=\count267
+\@orgargctr=\count268
+\@strctr=\count269
+\@tmpstrctr=\count270
+\@DT@loopN=\count271
+\@DT@X=\count272
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/datetime\datetime-defa
+ults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count273
+\@month=\count274
+\@year=\count275
+\c@HOUR=\count276
+\c@HOURXII=\count277
+\c@MINUTE=\count278
+\c@TOHOUR=\count279
+\c@TOMINUTE=\count280
+\c@SECOND=\count281
+\currenthour=\count282
+\currentminute=\count283
+\currentsecond=\count284
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count285
+\dayofyear=\count286
+\dayofweek=\count287
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+) (C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/graphics\mathcolor.ltx
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen144
+\enit@toks=\toks23
+\enit@inbox=\box51
+\enit@count@id=\count288
+\enitdp@description=\count289
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen145
+\captionmargin=\dimen146
+\caption@leftmargin=\dimen147
+\caption@rightmargin=\dimen148
+\caption@width=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count290
+\c@continuedfloat=\count291
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count292
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count293
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count294
+\multirow@dima=\skip52
+\bigstrutjot=\dimen153
+) (C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/colortbl\colortbl.st
+y
+Package: colortbl 2024/05/26 v1.0h Color table columns (DPC)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen154
+\ar@mcellbox=\box52
+\extrarowheight=\dimen155
+\NC@list=\toks24
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box53
+)
+\everycr=\toks25
+\minrowclearance=\skip55
+\rownum=\count295
+)
+
+LaTeX Warning: Package "xcolor" has already been loaded: ignoring load-time
+(LaTeX)        option "xcdraw".
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen156
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count296
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count297
+\leftroot@=\count298
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count299
+\DOTSCASE@=\count300
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen157
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count301
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count302
+\dotsspace@=\muskip17
+\c@parentequation=\count303
+\dspbrk@lvl=\count304
+\tag@help=\toks26
+\row@=\count305
+\column@=\count306
+\maxfields@=\count307
+\andhelp@=\toks27
+\eqnshift@=\dimen158
+\alignsep@=\dimen159
+\tagshift@=\dimen160
+\tagwidth@=\dimen161
+\totwidth@=\dimen162
+\lineht@=\dimen163
+\@envbody=\toks28
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/pdfescape\pdfescape.
+sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/letltxmacro\letltxmacr
+o.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/gettitlestring\getti
+tlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count308
+)
+\@linkdim=\dimen164
+\Hy@linkcounter=\count309
+\Hy@pagecounter=\count310
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-26 v7.01g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count311
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-26 v7.01g Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4181.
+Package hyperref Info: Link nesting OFF on input line 4186.
+Package hyperref Info: Hyper index ON on input line 4189.
+Package hyperref Info: Plain pages OFF on input line 4196.
+Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4448.
+\c@Hy@tempcnt=\count312
+LaTeX Info: Redefining \url on input line 4786.
+\XeTeXLinkMargin=\dimen165
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/bigintcalc\bigintcal
+c.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count313
+\Field@Width=\dimen166
+\Fld@charsize=\dimen167
+Package hyperref Info: Hyper figures OFF on input line 6065.
+Package hyperref Info: Link nesting OFF on input line 6070.
+Package hyperref Info: Hyper index ON on input line 6073.
+Package hyperref Info: backreferencing OFF on input line 6080.
+Package hyperref Info: Link coloring OFF on input line 6085.
+Package hyperref Info: Link coloring with OCG OFF on input line 6090.
+Package hyperref Info: PDF/A mode OFF on input line 6095.
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count314
+\c@Item=\count315
+\c@Hfootnote=\count316
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-26 v7.01g Hyperref driver for pdfTeX
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count317
+\c@bookmark@seq@number=\count318
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/rerunfilecheck\rerunfi
+lecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/generic/uniquecounter\unique
+counter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip59
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count319
+\l__pdf_internal_box=\box56
+) (2118121039-FinalRaporu-Mustafa Aker.aux
+
+LaTeX Warning: Label `fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `fig:resim1@cref' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:resim1@cref' multiply defined.
+
+)
+\openout1 = `"2118121039-FinalRaporu-Mustafa Aker.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count320
+\scratchdimen=\dimen168
+\scratchbox=\box57
+\nofMPsegments=\count321
+\nofMParguments=\count322
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen169
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
+\everyMPtoPDFconversion=\toks31
+)
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\90546\AppData\Local\Programs\MiKTeX1\tex/latex/fmtcount\fc-english.de
+f
+File: fc-english.def 2016/01/12
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 27.
+ (2118121039-FinalRaporu-Mustafa Aker.out)
+(2118121039-FinalRaporu-Mustafa Aker.out)
+\@outlinefile=\write3
+\openout3 = `"2118121039-FinalRaporu-Mustafa Aker.out"'.
+
+<ksbu.png, id=247, 170.6375pt x 171.64125pt>
+File: ksbu.png Graphic file (type png)
+<use ksbu.png>
+Package pdftex.def Info: ksbu.png  used on input line 34.
+(pdftex.def)             Requested size: 170.63707pt x 171.64081pt.
+ [1
+
+{C:/Users/90546/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ksbu.png>]
+ [2] [3] [4] [5] [6]
+<gen.png, id=307, 257.16075pt x 254.1495pt>
+File: gen.png Graphic file (type png)
+<use gen.png>
+Package pdftex.def Info: gen.png  used on input line 265.
+(pdftex.def)             Requested size: 257.16011pt x 254.14888pt.
+<iki.png, id=309, 251.13824pt x 77.088pt>
+File: iki.png Graphic file (type png)
+<use iki.png>
+Package pdftex.def Info: iki.png  used on input line 280.
+(pdftex.def)             Requested size: 251.13763pt x 77.0878pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<sıralı.png, id=310, 239.09325pt x 166.82326pt>
+File: sıralı.png Graphic file (type png)
+<use sıralı.png>
+Package pdftex.def Info: sıralı.png  used on input line 291.
+(pdftex.def)             Requested size: 239.09265pt x 166.82285pt.
+[7 <./gen.png>]
+<deger.png, id=318, 284.262pt x 74.07675pt>
+File: deger.png Graphic file (type png)
+<use deger.png>
+Package pdftex.def Info: deger.png  used on input line 302.
+(pdftex.def)             Requested size: 284.26129pt x 74.07657pt.
+ [8 <./iki.png> <./sıralı.png> <./deger.png>]
+<rulet.png, id=329, 428.19975pt x 281.25075pt>
+File: rulet.png Graphic file (type png)
+<use rulet.png>
+Package pdftex.def Info: rulet.png  used on input line 334.
+(pdftex.def)             Requested size: 350.99762pt x 230.54555pt.
+ [9 <./rulet.png>]
+<sıralı.secim.png, id=337, 428.19975pt x 352.31625pt>
+File: sıralı.secim.png Graphic file (type png)
+<use sıralı.secim.png>
+Package pdftex.def Info: sıralı.secim.png  used on input line 350.
+(pdftex.def)             Requested size: 350.99762pt x 288.79904pt.
+ [10 <./sıralı.secim.png>]
+<truva.png, id=346, 446.26724pt x 133.09724pt>
+File: truva.png Graphic file (type png)
+<use truva.png>
+Package pdftex.def Info: truva.png  used on input line 367.
+(pdftex.def)             Requested size: 446.26614pt x 133.09691pt.
+
+Overfull \hbox (56.26614pt too wide) in paragraph at lines 365--368
+ [] 
+ []
+
+[11 <./truva.png>]
+<cap.png, id=355, 313.77225pt x 178.266pt>
+File: cap.png Graphic file (type png)
+<use cap.png>
+Package pdftex.def Info: cap.png  used on input line 407.
+(pdftex.def)             Requested size: 350.99762pt x 199.42804pt.
+ [12 <./cap.png>]
+<teknokta.png, id=363, 416.757pt x 227.04825pt>
+File: teknokta.png Graphic file (type png)
+<use teknokta.png>
+Package pdftex.def Info: teknokta.png  used on input line 427.
+(pdftex.def)             Requested size: 416.75598pt x 227.04768pt.
+
+Overfull \hbox (26.75598pt too wide) in paragraph at lines 425--428
+ [] 
+ []
+
+[13 <./teknokta.png>]
+<ikinokta.png, id=373, 414.348pt x 220.4235pt>
+File: ikinokta.png Graphic file (type png)
+<use ikinokta.png>
+Package pdftex.def Info: ikinokta.png  used on input line 437.
+(pdftex.def)             Requested size: 414.34698pt x 220.42294pt.
+
+Overfull \hbox (24.34698pt too wide) in paragraph at lines 435--438
+ [] 
+ []
+
+[14
+
+ <./ikinokta.png>]
+<pozisyon.png, id=381, 307.1475pt x 199.947pt>
+File: pozisyon.png Graphic file (type png)
+<use pozisyon.png>
+Package pdftex.def Info: pozisyon.png  used on input line 455.
+(pdftex.def)             Requested size: 307.14674pt x 199.9465pt.
+File: sıralı.png Graphic file (type png)
+<use sıralı.png>
+Package pdftex.def Info: sıralı.png  used on input line 465.
+(pdftex.def)             Requested size: 239.09265pt x 166.82285pt.
+<kısmi.png, id=382, 230.0595pt x 177.66376pt>
+File: kısmi.png Graphic file (type png)
+<use kısmi.png>
+Package pdftex.def Info: kısmi.png  used on input line 474.
+(pdftex.def)             Requested size: 230.05893pt x 177.66331pt.
+ [15
+
+ <./pozisyon.png>]
+<kısmi2.png, id=391, 249.93375pt x 157.18726pt>
+File: kısmi2.png Graphic file (type png)
+<use kısmi2.png>
+Package pdftex.def Info: kısmi2.png  used on input line 481.
+(pdftex.def)             Requested size: 249.93314pt x 157.18686pt.
+ [16 <./kısmi.png> <./kısmi2.png>]
+<ters.png, id=401, 388.45125pt x 66.2475pt>
+File: ters.png Graphic file (type png)
+<use ters.png>
+Package pdftex.def Info: ters.png  used on input line 522.
+(pdftex.def)             Requested size: 388.45029pt x 66.24733pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[17]
+<komsu.png, id=406, 378.213pt x 60.82726pt>
+File: komsu.png Graphic file (type png)
+<use komsu.png>
+Package pdftex.def Info: komsu.png  used on input line 532.
+(pdftex.def)             Requested size: 378.21207pt x 60.8271pt.
+<keyfi.png, id=407, 386.04225pt x 78.2925pt>
+File: keyfi.png Graphic file (type png)
+<use keyfi.png>
+Package pdftex.def Info: keyfi.png  used on input line 542.
+(pdftex.def)             Requested size: 386.0413pt x 78.2923pt.
+<keyfi3.png, id=408, 378.213pt x 69.25874pt>
+File: keyfi3.png Graphic file (type png)
+<use keyfi3.png>
+Package pdftex.def Info: keyfi3.png  used on input line 551.
+(pdftex.def)             Requested size: 378.21207pt x 69.25856pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18 <./ters.png> <./komsu.png> <./keyfi.png>]
+<ara.png, id=419, 370.986pt x 73.4745pt>
+File: ara.png Graphic file (type png)
+<use ara.png>
+Package pdftex.def Info: ara.png  used on input line 561.
+(pdftex.def)             Requested size: 370.98508pt x 73.4743pt.
+ [19 <./keyfi3.png> <./ara.png>]
+[20]
+<sema.png, id=444, 313.17pt x 434.8245pt>
+File: sema.png Graphic file (type png)
+<use sema.png>
+Package pdftex.def Info: sema.png  used on input line 615.
+(pdftex.def)             Requested size: 313.16922pt x 434.82341pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21 <./sema.png>]
+<1.png, id=452, 305.34074pt x 175.25475pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 634.
+(pdftex.def)             Requested size: 305.34pt x 175.2543pt.
+ [22
+
+ <./1.png>]
+<3.png, id=461, 572.73975pt x 155.3805pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 651.
+(pdftex.def)             Requested size: 467.99881pt x 126.96707pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 651--652
+ [][] 
+ []
+
+<4.png, id=462, 381.22424pt x 159.59625pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 657.
+(pdftex.def)             Requested size: 381.22331pt x 159.59584pt.
+[23
+
+ <./3.png> <./4.png>]
+<5.png, id=473, 451.6875pt x 70.46326pt>
+File: 5.png Graphic file (type png)
+<use 5.png>
+Package pdftex.def Info: 5.png  used on input line 664.
+(pdftex.def)             Requested size: 451.68639pt x 70.46307pt.
+
+Overfull \hbox (61.68639pt too wide) in paragraph at lines 664--665
+ [][] 
+ []
+
+<6.png, id=474, 295.70474pt x 96.36pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 671.
+(pdftex.def)             Requested size: 295.70401pt x 96.35974pt.
+<7.png, id=475, 663.6795pt x 109.6095pt>
+File: 7.png Graphic file (type png)
+<use 7.png>
+Package pdftex.def Info: 7.png  used on input line 677.
+(pdftex.def)             Requested size: 467.99881pt x 77.29308pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 677--678
+ [][] 
+ []
+
+[24 <./5.png> <./6.png> <./7.png>]
+<8.png, id=489, 353.52075pt x 150.5625pt>
+File: 8.png Graphic file (type png)
+<use 8.png>
+Package pdftex.def Info: 8.png  used on input line 684.
+(pdftex.def)             Requested size: 353.51988pt x 150.56212pt.
+<9.png, id=490, 361.95226pt x 157.7895pt>
+File: 9.png Graphic file (type png)
+<use 9.png>
+Package pdftex.def Info: 9.png  used on input line 690.
+(pdftex.def)             Requested size: 361.95135pt x 157.78911pt.
+ [25
+
+ <./8.png> <./9.png>]
+<10.png, id=502, 597.432pt x 205.9695pt>
+File: 10.png Graphic file (type png)
+<use 10.png>
+Package pdftex.def Info: 10.png  used on input line 697.
+(pdftex.def)             Requested size: 467.99881pt x 161.35011pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 697--698
+ [][] 
+ []
+
+<11.png, id=503, 269.20575pt x 52.39575pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 703.
+(pdftex.def)             Requested size: 269.20508pt x 52.39561pt.
+[26 <./10.png> <./11.png>]
+<12.png, id=514, 283.65974pt x 332.442pt>
+File: 12.png Graphic file (type png)
+<use 12.png>
+Package pdftex.def Info: 12.png  used on input line 715.
+(pdftex.def)             Requested size: 283.65904pt x 332.44118pt.
+ [27 <./12.png>]
+<33.png, id=521, 504.6855pt x 470.9595pt>
+File: 33.png Graphic file (type png)
+<use 33.png>
+Package pdftex.def Info: 33.png  used on input line 730.
+(pdftex.def)             Requested size: 467.99881pt x 436.74458pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 730--731
+ [][] 
+ []
+
+<34.png, id=522, 791.95876pt x 522.753pt>
+File: 34.png Graphic file (type png)
+<use 34.png>
+Package pdftex.def Info: 34.png  used on input line 735.
+(pdftex.def)             Requested size: 507.00119pt x 334.66447pt.
+
+Overfull \hbox (117.00119pt too wide) in paragraph at lines 735--736
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[28 <./33.png>] [29 <./34.png>] [30
+
+]
+<cıktı.png, id=539, 278.2395pt x 383.63326pt>
+File: cıktı.png Graphic file (type png)
+<use cıktı.png>
+Package pdftex.def Info: cıktı.png  used on input line 756.
+(pdftex.def)             Requested size: 272.99881pt x 376.43217pt.
+ [31 <./cıktı.png>]
+<5.1.png, id=548, 592.01175pt x 423.38174pt>
+File: 5.1.png Graphic file (type png)
+<use 5.1.png>
+Package pdftex.def Info: 5.1.png  used on input line 786.
+(pdftex.def)             Requested size: 467.99881pt x 334.69402pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 786--787
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<5.3.png, id=549, 417.35925pt x 196.93575pt>
+File: 5.3.png Graphic file (type png)
+<use 5.3.png>
+Package pdftex.def Info: 5.3.png  used on input line 795.
+(pdftex.def)             Requested size: 390.0pt x 184.0318pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32]
+
+LaTeX Warning: Text page 33 contains only floats.
+
+
+Overfull \vbox (2.72581pt too high) has occurred while \output is active []
+
+
+[33 <./5.1.png> <./5.3.png>]
+<5.4.png, id=564, 808.2195pt x 301.125pt>
+File: 5.4.png Graphic file (type png)
+<use 5.4.png>
+Package pdftex.def Info: 5.4.png  used on input line 811.
+(pdftex.def)             Requested size: 507.00119pt x 188.90106pt.
+
+Overfull \hbox (117.00119pt too wide) in paragraph at lines 810--812
+ [][] 
+ []
+
+<5.5.png, id=565, 377.61075pt x 187.902pt>
+File: 5.5.png Graphic file (type png)
+<use 5.5.png>
+Package pdftex.def Info: 5.5.png  used on input line 822.
+(pdftex.def)             Requested size: 350.99762pt x 174.6639pt.
+[34 <./5.4.png> <./5.5.png>]
+<5.6.png, id=576, 596.2275pt x 311.36325pt>
+File: 5.6.png Graphic file (type png)
+<use 5.6.png>
+Package pdftex.def Info: 5.6.png  used on input line 831.
+(pdftex.def)             Requested size: 507.00119pt x 264.76929pt.
+
+Overfull \hbox (117.00119pt too wide) in paragraph at lines 830--832
+ [][] 
+ []
+
+[35 <./5.6.png>]
+<5.7.png, id=583, 616.10175pt x 526.96875pt>
+File: 5.7.png Graphic file (type png)
+<use 5.7.png>
+Package pdftex.def Info: 5.7.png  used on input line 842.
+(pdftex.def)             Requested size: 467.99881pt x 400.29134pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 841--843
+ [][] 
+ []
+
+[36 <./5.7.png>]
+<5.8.png, id=590, 680.5425pt x 540.21825pt>
+File: 5.8.png Graphic file (type png)
+<use 5.8.png>
+Package pdftex.def Info: 5.8.png  used on input line 854.
+(pdftex.def)             Requested size: 475.80048pt x 377.69682pt.
+
+Overfull \hbox (85.80048pt too wide) in paragraph at lines 853--855
+ [][] 
+ []
+
+<5.9.png, id=591, 651.6345pt x 452.892pt>
+File: 5.9.png Graphic file (type png)
+<use 5.9.png>
+Package pdftex.def Info: 5.9.png  used on input line 874.
+(pdftex.def)             Requested size: 312.00119pt x 216.83975pt.
+<5.10.png, id=592, 522.15076pt x 356.532pt>
+File: 5.10.png Graphic file (type png)
+<use 5.10.png>
+Package pdftex.def Info: 5.10.png  used on input line 881.
+(pdftex.def)             Requested size: 312.00119pt x 213.04495pt.
+<5.11.png, id=593, 752.8125pt x 364.9635pt>
+File: 5.11.png Graphic file (type png)
+<use 5.11.png>
+Package pdftex.def Info: 5.11.png  used on input line 888.
+(pdftex.def)             Requested size: 312.00119pt x 151.26212pt.
+[37 <./5.8.png>] [38 <./5.9.png> <./5.10.png> <./5.11.png>]
+<6.1.png, id=611, 522.15076pt x 353.52075pt>
+File: 6.1.png Graphic file (type png)
+<use 6.1.png>
+Package pdftex.def Info: 6.1.png  used on input line 937.
+(pdftex.def)             Requested size: 467.99881pt x 316.8711pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 937--938
+ [][] 
+ []
+
+[39
+
+] [40 <./6.1.png>]
+<6.2.png, id=622, 594.42075pt x 316.18124pt>
+File: 6.2.png Graphic file (type png)
+<use 6.2.png>
+Package pdftex.def Info: 6.2.png  used on input line 949.
+(pdftex.def)             Requested size: 467.99881pt x 248.94096pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 949--950
+ [][] 
+ []
+
+<6sec.png, id=623, 510.708pt x 115.02975pt>
+File: 6sec.png Graphic file (type png)
+<use 6sec.png>
+Package pdftex.def Info: 6sec.png  used on input line 957.
+(pdftex.def)             Requested size: 467.99881pt x 105.41266pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 957--958
+ [][] 
+ []
+
+[41 <./6.2.png> <./6sec.png>]
+<6.3.png, id=632, 516.7305pt x 338.4645pt>
+File: 6.3.png Graphic file (type png)
+<use 6.3.png>
+Package pdftex.def Info: 6.3.png  used on input line 964.
+(pdftex.def)             Requested size: 467.99881pt x 306.54677pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 964--965
+ [][] 
+ []
+
+[42 <./6.3.png>]
+<6.4.png, id=639, 456.5055pt x 260.77425pt>
+File: 6.4.png Graphic file (type png)
+<use 6.4.png>
+Package pdftex.def Info: 6.4.png  used on input line 972.
+(pdftex.def)             Requested size: 467.99881pt x 267.3391pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 972--973
+ [][] 
+ []
+
+[43
+
+ <./6.4.png>]
+<6.5.png, id=647, 600.44325pt x 385.44pt>
+File: 6.5.png Graphic file (type png)
+<use 6.5.png>
+Package pdftex.def Info: 6.5.png  used on input line 981.
+(pdftex.def)             Requested size: 467.99881pt x 300.4185pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 981--982
+ [][] 
+ []
+
+[44 <./6.5.png>]
+<6.6.png, id=654, 332.442pt x 74.07675pt>
+File: 6.6.png Graphic file (type png)
+<use 6.6.png>
+Package pdftex.def Info: 6.6.png  used on input line 990.
+(pdftex.def)             Requested size: 467.99881pt x 104.2832pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 990--991
+ [][] 
+ []
+
+<6cıktı2.png, id=655, 246.9225pt x 157.18726pt>
+File: 6cıktı2.png Graphic file (type png)
+<use 6cıktı2.png>
+Package pdftex.def Info: 6cıktı2.png  used on input line 997.
+(pdftex.def)             Requested size: 312.00119pt x 198.6278pt.
+
+LaTeX Warning: Float too large for page by 70.8715pt on input line 1066.
+
+[45 <./6.6.png> <./6cıktı2.png>] [46]
+<8.1.png, id=669, 573.342pt x 286.06876pt>
+File: 8.1.png Graphic file (type png)
+<use 8.1.png>
+Package pdftex.def Info: 8.1.png  used on input line 1087.
+(pdftex.def)             Requested size: 467.99881pt x 233.51718pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 1087--1088
+ [][] 
+ []
+
+[47 <./8.1.png>]
+<8.2.png, id=677, 481.8pt x 154.77824pt>
+File: 8.2.png Graphic file (type png)
+<use 8.2.png>
+Package pdftex.def Info: 8.2.png  used on input line 1107.
+(pdftex.def)             Requested size: 467.99881pt x 150.34962pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 1107--1108
+ [][] 
+ []
+
+[48 <./8.2.png>] [49] [50]
+<8kısıt1.png, id=726, 510.10574pt x 514.92375pt>
+File: 8kısıt1.png Graphic file (type png)
+<use 8kısıt1.png>
+Package pdftex.def Info: 8kısıt1.png  used on input line 1207.
+(pdftex.def)             Requested size: 390.0pt x 393.68753pt.
+<8kısıt2.png, id=727, 666.69075pt x 366.168pt>
+File: 8kısıt2.png Graphic file (type png)
+<use 8kısıt2.png>
+Package pdftex.def Info: 8kısıt2.png  used on input line 1214.
+(pdftex.def)             Requested size: 390.0pt x 214.19904pt.
+
+
+LaTeX Warning: Float too large for page by 31.38657pt on input line 1220.
+
+[51] [52 <./8kısıt1.png> <./8kısıt2.png>]
+<8kısıt3.png, id=742, 495.0495pt x 375.20175pt>
+File: 8kısıt3.png Graphic file (type png)
+<use 8kısıt3.png>
+Package pdftex.def Info: 8kısıt3.png  used on input line 1226.
+(pdftex.def)             Requested size: 390.0pt x 295.59315pt.
+<8kısıt4.png, id=743, 507.0945pt x 211.38976pt>
+File: 8kısıt4.png Graphic file (type png)
+<use 8kısıt4.png>
+Package pdftex.def Info: 8kısıt4.png  used on input line 1233.
+(pdftex.def)             Requested size: 390.0pt x 162.58675pt.
+ [53 <./8kısıt3.png> <./8kısıt4.png>]
+<8uygunluk.png, id=751, 389.0535pt x 127.677pt>
+File: 8uygunluk.png Graphic file (type png)
+<use 8uygunluk.png>
+Package pdftex.def Info: 8uygunluk.png  used on input line 1253.
+(pdftex.def)             Requested size: 467.99881pt x 153.59152pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 1253--1254
+ [][] 
+ []
+
+[54
+
+ <./8uygunluk.png>]
+<8sec.png, id=758, 510.708pt x 115.02975pt>
+File: 8sec.png Graphic file (type png)
+<use 8sec.png>
+Package pdftex.def Info: 8sec.png  used on input line 1266.
+(pdftex.def)             Requested size: 467.99881pt x 105.41266pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 1266--1267
+ [][] 
+ []
+
+<8cap.mut.png, id=759, 405.31425pt x 255.95625pt>
+File: 8cap.mut.png Graphic file (type png)
+<use 8cap.mut.png>
+Package pdftex.def Info: 8cap.mut.png  used on input line 1280.
+(pdftex.def)             Requested size: 467.99881pt x 295.53859pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 1280--1281
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[55 <./8sec.png>]
+<8optimize.png, id=767, 582.978pt x 389.0535pt>
+File: 8optimize.png Graphic file (type png)
+<use 8optimize.png>
+Package pdftex.def Info: 8optimize.png  used on input line 1296.
+(pdftex.def)             Requested size: 467.99881pt x 312.32364pt.
+
+Overfull \hbox (77.99881pt too wide) in paragraph at lines 1296--1297
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[56 <./8cap.mut.png>] [57 <./8optimize.png>]
+<8son.png, id=780, 341.47575pt x 80.09924pt>
+File: 8son.png Graphic file (type png)
+<use 8son.png>
+Package pdftex.def Info: 8son.png  used on input line 1307.
+(pdftex.def)             Requested size: 272.99881pt x 64.03668pt.
+<8hafta1.png, id=781, 506.49225pt x 410.7345pt>
+File: 8hafta1.png Graphic file (type png)
+<use 8hafta1.png>
+Package pdftex.def Info: 8hafta1.png  used on input line 1319.
+(pdftex.def)             Requested size: 312.00119pt x 253.02325pt.
+<8hafta2.png, id=782, 495.0495pt x 239.09325pt>
+File: 8hafta2.png Graphic file (type png)
+<use 8hafta2.png>
+Package pdftex.def Info: 8hafta2.png  used on input line 1326.
+(pdftex.def)             Requested size: 312.00119pt x 150.69154pt.
+<8hafta3.png, id=783, 522.15076pt x 242.1045pt>
+File: 8hafta3.png Graphic file (type png)
+<use 8hafta3.png>
+Package pdftex.def Info: 8hafta3.png  used on input line 1333.
+(pdftex.def)             Requested size: 312.00119pt x 144.66905pt.
+<8hafta4.png, id=784, 510.708pt x 245.718pt>
+File: 8hafta4.png Graphic file (type png)
+<use 8hafta4.png>
+Package pdftex.def Info: 8hafta4.png  used on input line 1340.
+(pdftex.def)             Requested size: 312.00119pt x 150.11646pt.
+
+
+LaTeX Warning: Float too large for page by 109.5003pt on input line 1345.
+
+[58 <./8son.png>] [59 <./8hafta1.png> <./8hafta2.png> <./8hafta3.png> <./8hafta
+4.png>]
+Overfull \hbox (121.90771pt too wide) in paragraph at lines 1353--1379
+[][] 
+ []
+
+
+Overfull \hbox (121.90771pt too wide) in paragraph at lines 1384--1410
+[][] 
+ []
+
+
+Overfull \hbox (121.90771pt too wide) in paragraph at lines 1417--1443
+[][] 
+ []
+
+
+Overfull \hbox (119.50772pt too wide) in paragraph at lines 1449--1474
+[][] 
+ []
+
+[60] [61] [62] [63] [64
+
+
+] (2118121039-FinalRaporu-Mustafa Aker.bbl [65]
+Underfull \hbox (badness 2653) in paragraph at lines 67--71
+[]\OT1/cmr/m/n/12 S. Biro^^Ugul, ``Genetik al-go-ritma yakla^^Xs^^Pm^^Pyla at^^
+?olye ^^Xcizelgeleme,''
+ []
+
+
+Overfull \hbox (16.59157pt too wide) in paragraph at lines 79--82
+\OT1/cmtt/m/n/12 com / python-[]ile-[]siniflandirma-[]analizleri-[]genetik-[]al
+goritmalar/$[]\OT1/cmr/m/n/12 .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+[]\OT1/cmr/m/n/12 Tobs80, ``Sched-ule with ge-netic al-go-rithms main.'' []$\OT
+1/cmtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+\OT1/cmtt/m/n/12 / / github . com / Tobs80 / Schedule-[]with-[]Genetic-[]Algori
+thms / blob /
+ []
+
+) [66] (2118121039-FinalRaporu-Mustafa Aker.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `"2118121039-FinalRaporu-Mustafa Aker".out' h
+as not changed.
+(rerunfilecheck)             Checksum: 31230F6657F7599DAD4C566682A4D3F2;12053.
+ ) 
+Here is how much of TeX's memory you used:
+ 15055 strings out of 474485
+ 255114 string characters out of 5743265
+ 2012542 words of memory out of 5000000
+ 36913 multiletter control sequences out of 15000+600000
+ 563850 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 89i,15n,131p,1053b,806s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\90546\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/90546/AppData/Local/Programs/MiKTeX1/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><C:/Users/90546/AppData/Local/Programs/MiKTeX1/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Users/90546/AppData/Local/Programs/MiKTeX1/font
+s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/90546/AppData/Local/Programs/Mi
+KTeX1/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/90546/AppData/Local/Pr
+ograms/MiKTeX1/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/90546/AppData
+/Local/Programs/MiKTeX1/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/90546
+/AppData/Local/Programs/MiKTeX1/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/U
+sers/90546/AppData/Local/Programs/MiKTeX1/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Users/90546/AppData/Local/Programs/MiKTeX1/fonts/type1/public/amsfonts/
+cm/cmti12.pfb><C:/Users/90546/AppData/Local/Programs/MiKTeX1/fonts/type1/public
+/amsfonts/cm/cmtt12.pfb>
+Output written on "2118121039-FinalRaporu-Mustafa Aker.pdf" (66 pages, 2024595 
+bytes).
+PDF statistics:
+ 945 PDF objects out of 1000 (max. 8388607)
+ 256 named destinations out of 1000 (max. 500000)
+ 824 words of extra memory for PDF output out of 10000 (max. 10000000)
+
