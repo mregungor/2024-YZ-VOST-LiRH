@@ -1,0 +1,59 @@
+\begin{thebibliography}{10}
+
+\bibitem{ozkiricscci2022motion}
+{\.I}.~H. {\"O}ZK{\.I}R{\.I}{\c{S}}{\c{C}}{\.I}, ``Motion capture
+  teknoloj{\.i}s{\.i}n{\.i}n hareketl{\.i} af{\.i}{\c{s}}lerde kullanimina
+  {\"o}rnek b{\.i}r {\c{c}}ali{\c{s}}ma,'' {\em F{\i}rat {\"U}niversitesi
+  Sosyal Bilimler Dergisi}, vol.~32, no.~3, pp.~1027--1041, 2022.
+
+\bibitem{erdem2021sanali}
+{\"O}.~{\"U}.~S. ERDEM, ``Sanali ger{\c{c}}e{\u{g}}e
+  d{\"o}n{\"u}{\c{s}}t{\"u}rmede hareket yakalama teknoloj{\.i}s{\.i},'' 2021.
+
+\bibitem{rosalesestimating}
+R.~Rosales, M.~Siddiqui, J.~Alon, and S.~Sclaroff, ``Estimating 3d body pose
+  using uncalibrated cameras, 2001, pp.''
+
+\bibitem{desmarais2021review}
+Y.~Desmarais, D.~Mottet, P.~Slangen, and P.~Montesinos, ``A review of 3d human
+  pose estimation algorithms for markerless motion capture,'' {\em Computer
+  Vision and Image Understanding}, vol.~212, p.~103275, 2021.
+
+\bibitem{benefits}
+G.~Developers, ``Mediapipe.'' \url{https://ai.google.dev/edge/mediapipe}, Year
+  Published/ 2024-05-14.
+\newblock Accessed: 06.03.2024.
+
+\bibitem{chatgpt}
+OpenAI, ``Chatgpt.'' \url{https://chat.openai.com/}, Year Published/
+  2015–2024.
+
+\bibitem{mixamo}
+MOBİDİCTUM, ``Mixamo nedir ?.''
+  \url{https://mobidictum.com/tr/mixamo-nedir/}, Year Published/ 2015–2024.
+
+\bibitem{blender}
+Wikipedia, ``Blender(yazılım).''
+  \url{https://tr.wikipedia.org/wiki/Blender_(yaz%C4%B1l%C4%B1m)}, Year
+  Published/ 15 Mayıs 2024.
+
+\bibitem{mixamo-2}
+Adobe, ``Get animated.animate 3d characters for games, film, and more..''
+  \url{https://www.mixamo.com/)}, Year Published/ 2024.
+
+\bibitem{biovision-file-format-1}
+Wikipedia, ``Biovision hierarchy.''
+  \url{https://en.wikipedia.org/wiki/Biovision_Hierarchy)}, Year Published/
+  2003.
+
+\bibitem{biovision-file-format-2}
+M.~Technologies and .~Applications (Semester~A, ``Bvh motion capture data
+  animated.''
+  \url{https://www.cs.cityu.edu.hk/~howard/Teaching/CS4185-5185-2007-SemA/Group12/BVH.html},
+  Year Published/ 2007.
+
+\bibitem{article}
+M.~Meredith and S.~Maddock, ``Motion capture file formats explained,'' {\em
+  Production}, 01 2001.
+
+\end{thebibliography}
