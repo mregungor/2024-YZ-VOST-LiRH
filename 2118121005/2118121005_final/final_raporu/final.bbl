@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{ieeedata}
+MonaOmidyeganehShervinShirmohammadiBehnooshHariri, ``Yawning detection
+  dataset.''
+  \url{http://ieee-dataport.org/open-access/yawdd-yawning-detection-dataset},
+  Sun, 12/13/2020.
+\newblock 21.03.2024.
+
+\bibitem{mrl}
+M.~R. Lab, ``Mrl eye dataset.'' \url{http://mrl.cs.vsb.cz/eyedataset}, 2021.
+\newblock 21.03.2024.
+
+\bibitem{dasar_haartrain}
+Dasar, ``driver dataset.''
+  \url{https://www.mediafire.com/file/1aq02tpidk105fv/dasar_haartrain.rar/file},
+  Sun, 12/13/2020.
+\newblock Erişim tarihi: 21.03.2024.
+
+\bibitem{onursahin}
+O.~Şahin, ``Windows'a dlib kütüphanesini kurma.''
+  \url{https://onursahin.net/windowsa-dlib-kutuphanesini-kurma/}, 2024.
+\newblock Erişim tarihi: 03.04.2024.
+
+\bibitem{amos2018}
+B.~Amos, ``The 68 landmarks detected by dlib library.''
+  \url{https://www.researchgate.net/figure/The-68-landmarks-detected-by-dlib-library-This-image-was-created-by-Brandon-Amos-of-CMU_fig2_329392737},
+  2018.
+\newblock Erişim tarihi: 03.04.2024.
+
+\bibitem{superthinking}
+V.~Dhawan, ``Driver drowsiness detection.''
+  \url{https://github.com/SuperThinking/driver-drowsiness-detection}, 2024.
+\newblock Erişim tarihi: 13.04.2024.
+
+\bibitem{cnnnedir}
+T.~Ergin, ``Cnn nedir.''
+  \url{https://medium.com/@tuncerergin/convolutional-neural-network-convnet-yada-cnn-nedir-nasil-calisir-97a0f5d34cad},
+  2024.
+\newblock Erişim tarihi: 13.04.2024.
+
+\bibitem{cnnnedirtek}
+Özgür Doğan, ``Cnn nedir.''
+  \url{https://teknoloji.org/cnn-convolutional-neural-networks-nedir}, 2024.
+\newblock Erişim tarihi: 13.04.2024.
+
+\bibitem{eadali}
+Erkan, ``Driver drowsiness detection system process diagram.''
+  \url{https://github.com/eadali/pytorch-drowsiness-detection/blob/main/doc/process.png},
+  2024.
+\newblock Erişim tarihi: 03.04.2024.
+
+\bibitem{tuyobank}
+``Facebook'ta tuyo life tarafından paylaşılan görsel.''
+  \url{https://www.facebook.com/tuyolife/photos/a.758789660963596/2140828869426328/?type=3}.
+\newblock Erişim tarihi: 14.05.2024.
+
+\bibitem{neelan}
+neelanjan00, ``Driverdrowsinessdetection.''
+  \url{https://github.com/neelanjan00/Driver-Drowsiness-Detection.git}, 2020/
+  2022.
+\newblock 21.03.2024.
+
+\bibitem{headpos}
+E.~A. R. M. D. R. M. B. G. D.~C. Cavalcanti, ``Enhanced real-time head pose
+  estimation system for mobile device.''
+  \url{https://www.researchgate.net/figure/Orientation-of-the-head-in-terms-of-pitch-roll-and-yaw-movements-describing-the-three_fig1_279291928},
+  2014.
+
+\bibitem{aayushrai}
+aayushrai, ``Driversafety.''
+  \url{https://github.com/aayushrai/Driver_safety.git}, 2019.
+\newblock 21.03.2024.
+
+\bibitem{bulentsezen}
+bulentsezen, ``tensorflowderinogrenme.''
+  \url{https://github.com/bulentsezen/tensorflow_derin_ogrenme.git}, 2022/2024.
+\newblock 21.03.2024.
+
+\bibitem{researchgate}
+F.~Cogen, ``Driver fatigue detection with image processing.''
+  \url{https://www.researchgate.net/publication/345253476_Driver_fatigue_detection_with_image_processing},
+  2020.
+\newblock 21.03.2024.
+
+\bibitem{copilot}
+M.~Copilot, ``Microsoft copilot: An ai-powered code completion tool.''
+  \url{https://www.microsoft.com/en-us/ai/copilot}, 2024.
+\newblock Erişim tarihi: 13.04.2024.
+
+\end{thebibliography}

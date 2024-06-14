@@ -1,0 +1,80 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Database file #1: ref.bib
+Warning--entry type for "headpos" isn't style-file defined
+--line 11 of file ref.bib
+Warning--entry type for "researchgate" isn't style-file defined
+--line 23 of file ref.bib
+Warning--entry type for "bulentsezen" isn't style-file defined
+--line 37 of file ref.bib
+Warning--entry type for "onursahin" isn't style-file defined
+--line 51 of file ref.bib
+Warning--entry type for "amos2018" isn't style-file defined
+--line 65 of file ref.bib
+Warning--entry type for "neelan" isn't style-file defined
+--line 79 of file ref.bib
+Warning--entry type for "eadali" isn't style-file defined
+--line 93 of file ref.bib
+Warning--entry type for "superthinking" isn't style-file defined
+--line 107 of file ref.bib
+Warning--entry type for "cnnnedir" isn't style-file defined
+--line 121 of file ref.bib
+Warning--entry type for "cnnnedirtek" isn't style-file defined
+--line 135 of file ref.bib
+Warning--entry type for "aayushrai" isn't style-file defined
+--line 149 of file ref.bib
+Warning--entry type for "mrl" isn't style-file defined
+--line 163 of file ref.bib
+Warning--entry type for "ieeedata" isn't style-file defined
+--line 177 of file ref.bib
+Warning--entry type for "dasar_haartrain" isn't style-file defined
+--line 191 of file ref.bib
+Warning--entry type for "copilot" isn't style-file defined
+--line 205 of file ref.bib
+Warning--I didn't find a database entry for "neelanjan00"
+You've used 16 entries,
+            1876 wiz_defined-function locations,
+            551 strings with 5830 characters,
+and the built_in function-call counts, 2165 in all, are:
+= -- 219
+> -- 61
+< -- 0
++ -- 31
+- -- 15
+* -- 80
+:= -- 322
+add.period$ -- 31
+call.type$ -- 16
+change.case$ -- 16
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 64
+empty$ -- 289
+format.name$ -- 15
+if$ -- 555
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 0
+newline$ -- 66
+num.names$ -- 15
+pop$ -- 98
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 48
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 15
+width$ -- 18
+write$ -- 158
+(There were 16 warnings)
