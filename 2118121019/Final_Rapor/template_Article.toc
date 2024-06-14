@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}ÖZET}{3}{}%
+\contentsline {section}{\numberline {2}GİRİŞ}{3}{}%
+\contentsline {section}{\numberline {3}LİTERATÜR ARAŞTIRMASI}{4}{}%
+\contentsline {section}{\numberline {4}YÖNTEMLER}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Plaka Tespiti ve Tanıma}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Makine Öğrenimi Tabanlı Plaka Tanıma}{6}{}%
+\contentsline {subsection}{\numberline {4.3}Nesne Tespiti ve Takibi}{7}{}%
+\contentsline {subsection}{\numberline {4.4}Otopark Doluluk Durumu Bulma}{7}{}%
+\contentsline {subsection}{\numberline {4.5}Veri Hazırlama ve Yapay Zeka Eğitimi}{7}{}%
+\contentsline {subsection}{\numberline {4.6}Yapay Sinir Ağları ve Model Optimizasyonu}{8}{}%
+\contentsline {section}{\numberline {5}BULGU VE TARTIŞMA}{9}{}%
+\contentsline {subsection}{\numberline {5.1}Otopark Doluluk Sistemi Eğitiminin Sonuçları}{9}{}%
+\contentsline {subsubsection}{\numberline {5.1.1}Confusion Matrix Tablosu}{9}{}%
+\contentsline {subsubsection}{\numberline {5.1.2}Eğitim Çıktı Sonuçlarının Tablosu}{10}{}%
+\contentsline {subsubsection}{\numberline {5.1.3}Validasyon Eğitim Çıktısı}{11}{}%
+\contentsline {subsection}{\numberline {5.2}Veri seti Bilgileri}{11}{}%
+\contentsline {subsubsection}{\numberline {5.2.1}Plaka Tanıma Sistemi Veri seti Bilgileri}{11}{}%
+\contentsline {subsubsection}{\numberline {5.2.2}Otopark Doluluk Bulma Sistemi Veri seti Bilgileri}{12}{}%
+\contentsline {subsection}{\numberline {5.3}Plaka Tespiti ve Tanıma}{12}{}%
+\contentsline {subsection}{\numberline {5.4}Otopark Doluluk Sistemi Eğitiminde Roboflow Sorunları}{13}{}%
+\contentsline {subsection}{\numberline {5.5}Hazır Eğitimin Otopark Doluluk Sistemine Uygun Olmaması}{13}{}%
+\contentsline {subsection}{\numberline {5.6}Colab'da Yapılan Eğitimde Çıkan Sorunlar}{14}{}%
+\contentsline {subsection}{\numberline {5.7}Yolov8 Eğitiminin Sürekli Yenilenmesi Durumu Sorunu}{14}{}%
+\contentsline {subsection}{\numberline {5.8}Gantt Chartların Karşılaştırılması}{15}{}%
+\contentsline {section}{\numberline {6}SONUÇ}{16}{}%

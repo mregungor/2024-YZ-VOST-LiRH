@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: template_Article.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+Database file #1: reference.bib
+Warning--I didn't find a database entry for "roboflow"
+Warning--empty school in yavuz
+You've used 15 entries,
+            1876 wiz_defined-function locations,
+            559 strings with 5571 characters,
+and the built_in function-call counts, 2448 in all, are:
+= -- 260
+> -- 68
+< -- 0
++ -- 32
+- -- 17
+* -- 98
+:= -- 350
+add.period$ -- 29
+call.type$ -- 15
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 105
+empty$ -- 280
+format.name$ -- 17
+if$ -- 628
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 2
+newline$ -- 62
+num.names$ -- 15
+pop$ -- 81
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 89
+stack$ -- 0
+substring$ -- 32
+swap$ -- 35
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 17
+width$ -- 17
+write$ -- 152
+(There were 2 warnings)

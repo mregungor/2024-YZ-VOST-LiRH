@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+
+\bibitem{makale}
+M.~ORAL and U.~ÇELİK, ``Motorlu araÇ plaka gÖrÜntÜlerİnden karakter
+  ayriŞtirma ve tanima.''
+  \url{https://www.researchgate.net/publication/267450862_MOTORLU_ARAC_PLAKA_GORUNTULERINDEN_KARAKTER_AYRISTIRMA_VE_TANIMA},
+  2003.
+\newblock 20.05.2024.
+
+\bibitem{yavuz}
+G.~Yavuz, {\em Plaka Tanima Sistemi}.
+\newblock PhD thesis, 2008 2008.
+\newblock Telif Hakkı - Database copyright ProQuest LLC; ProQuest does not
+  claim copyright in the individual underlying works; Son güncelleme -
+  2024-04-22.
+
+\bibitem{article_515830}
+F.~Bayram, ``Derin Öğrenme tabanlı otomatik plaka tanıma,'' {\em Politeknik
+  Dergisi}, vol.~23, no.~4, p.~955–960, 2020.
+
+\bibitem{article_1098978}
+B.~Doğaroğlu and S.~Çalışkanelli, ``Akıllı otopark sistemlerinde
+  kullanılan araç tanıma teknolojileri Üzerine bir İnceleme,'' {\em
+  Akıllı Ulaşım Sistemleri ve Uygulamaları Dergisi}, vol.~5, no.~2,
+  p.~53–72, 2022.
+
+\bibitem{github}
+umutkaanbaser, ``plakatanimasistemi.''
+  \url{https://github.com/umutkaanbaser/plakatanimasistemi.git}, 2022.
+\newblock 18.03.2024.
+
+\bibitem{kitap}
+D.~S. UĞUZ, ``Makine Öğrenmesi teorik yönleri ve python uygulamaları,''
+  2021.
+\newblock [30.04.2024].
+
+\bibitem{kitap2}
+Z.~DEMİRKOL, ``Herkes İçin yapay zeka,'' 2021.
+\newblock [07.05.2024].
+
+\bibitem{chatgpt35}
+OpenAI, ``Chatgpt-3.5,'' 2021.
+\newblock Kodun bazı yerleri ChatGPT 3.5 tarafından yazılmıştır.
+
+\bibitem{basarasizkod}
+freedomwebtech, ``yolov8-advance-parkingspace-detection.''
+  \url{https://github.com/freedomwebtech/yolov8-advance-parkingspace-detection},
+  2024.
+\newblock 09.05.2024.
+
+\bibitem{dataset}
+B.~FEDORAK, ``Parking lot dataset.''
+  \url{https://www.kaggle.com/datasets/blanderbuss/parking-lot-dataset}, 2019.
+\newblock 01.05.2024.
+
+\bibitem{kod2}
+Ultralytics, ``Ultralytic eğitimi.''
+  \url{https://docs.ultralytics.com/tr/reference/utils/metrics/#ultralytics.utils.metrics.PoseMetrics.__init__},
+  2022.
+\newblock 28.05.2024.
+
+\bibitem{yapayZekaKod}
+Roboflow, ``train-yolov8-object-detection-on-custom-dataset.ipynb.''
+  \url{https://colab.research.google.com/drive/1T4-PMP0CW16Zt4J2tt47SjAheQfdL7G9#scrollTo=tdSMcABDNKW-},
+  2024.
+\newblock 09.05.2024.
+
+\bibitem{roboflowSite}
+Roboflow, ``Roboflow.'' \url{https://roboflow.com/}, 2024.
+\newblock 09.05.2024.
+
+\bibitem{colab}
+Colaboratory, ``Colabsure.'' \url{https://colab.research.google.com/}, 2015.
+\newblock 22.05.2024.
+
+\bibitem{result}
+Ultralytics, ``Ultralytic eğitimi plotting.''
+  \url{https://docs.ultralytics.com/reference/utils/plotting/#ultralytics.utils.plotting.plot_results},
+  2022.
+\newblock 25.05.2024.
+
+\end{thebibliography}
