@@ -1,7 +1,0 @@
-cnn1.2.py dosyası görsel ayrıştırma ve görsel model eğitim kodunu içeriyor.
-
-metinBulutu.py dosyası kullanıcı tarafından girilen metin ön işleme adımlarından sonra metin bulutu oluşturmak için kullanılıyor.
-
-metin_analiz.py dosyası kelimeler veri tabanında oluşturulan promtları işleyip metin vektör model eğitimi için kullanılabilir hale getirmek için kullanılıyor.
-
-ilkelStableDiffisionn.py dosyası kullanıcı tarafından girilen promta apiler tarafından görsel karşılığı oluşturmak için kullınılıyor
