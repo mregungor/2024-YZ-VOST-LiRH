@@ -1,0 +1,403 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.3.5)  15 JUN 2024 07:54
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Article.tex
+(./Article.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen141
+\Gin@req@width=\dimen142
+)
+(c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2024/02/07 v24.2 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen143
+\l@unhyphenated=\language89
+
+(c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+(c:/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language23). Reported on input line 108.
+))
+(c:/texlive/2023/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(c:/texlive/2023/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+) (c:/texlive/2023/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+(c:/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count198
+)
+(c:/texlive/2023/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+
+(c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(c:/texlive/2023/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2023/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count199
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2023/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+
+(c:/texlive/2023/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count266
+))
+(c:/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen144
+)
+\c@padzeroesN=\count267
+\fc@tmpcatcode=\count268
+
+(c:/texlive/2023/texmf-dist/tex/latex/fmtcount/fc-english.def
+File: fc-english.def 2016/01/12
+)
+\@DT@modctr=\count269
+\@ordinalctr=\count270
+\@orgargctr=\count271
+\@strctr=\count272
+\@tmpstrctr=\count273
+\@DT@loopN=\count274
+\@DT@X=\count275
+)
+(c:/texlive/2023/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count276
+\@month=\count277
+\@year=\count278
+\c@HOUR=\count279
+\c@HOURXII=\count280
+\c@MINUTE=\count281
+\c@TOHOUR=\count282
+\c@TOMINUTE=\count283
+\c@SECOND=\count284
+\currenthour=\count285
+\currentminute=\count286
+\currentsecond=\count287
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count288
+\dayofyear=\count289
+\dayofweek=\count290
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks21
+\dt@b=\toks22
+)
+(c:/texlive/2023/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(c:/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(c:/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+(c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count291
+\l__pdf_internal_box=\box51
+)
+(./Article.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+)
+\openout1 = `Article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+ (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count292
+\scratchdimen=\dimen145
+\scratchbox=\box52
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen146
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks24
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+
+
+LaTeX Warning: No \author given.
+
+<logo.jpg, id=1, 127.97812pt x 128.73094pt>
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 20.
+(pdftex.def)             Requested size: 127.9778pt x 128.7306pt.
+[1
+
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo.jpg>]
+Overfull \hbox (3.29453pt too wide) in paragraph at lines 40--41
+[]\OT1/cmr/m/n/12 Q-learning, bir ajan^^Pn (^^?orne^^Ugin bir oyun-cu-nun) bir 
+or-tamda nas^^Pl hareket
+ []
+
+
+Overfull \hbox (14.57368pt too wide) in paragraph at lines 44--47
+[]\OT1/cmr/m/n/12 Farklar^^P: A Al-go-rit-mas^^P*: De-ter-min-is-tik ve plan-la
+ma bazl^^P bir yakla^^Xs^^Pmd^^Pr.
+ []
+
+
+Overfull \hbox (12.28981pt too wide) in paragraph at lines 44--47
+\OT1/cmr/m/n/12 deneyim kaza-narak en iyi strate-jiyi ^^?o^^Ugrenir. Di-namik v
+e de^^Ugi^^Xsen ^^Xcevrelerde
+ []
+
+[2{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+[3]
+<-gantt-chart.png, id=16, 552.8655pt x 287.27325pt>
+File: -gantt-chart.png Graphic file (type png)
+<use -gantt-chart.png>
+Package pdftex.def Info: -gantt-chart.png  used on input line 65.
+(pdftex.def)             Requested size: 273.79158pt x 142.26378pt.
+ [4
+
+ <./-gantt-chart.png>]
+Overfull \hbox (27.2981pt too wide) in paragraph at lines 75--80
+\OT1/cmr/m/n/12 learn-ing (RL) y^^?ontem-lerinin kul-lan^^Plmas^^P in-ce-lenmi^
+^Xstir. E^^Ugitsel oyun-lar, ^^Xcocuklar^^Pn
+ []
+
+
+Overfull \hbox (7.59737pt too wide) in paragraph at lines 75--80
+\OT1/cmr/m/n/12 cer-i-lerini geli^^Xstiren bir oyun i^^Xcerisinde, RL al-go-rit
+-malar^^P kul-lan^^Plarak ^^Xcocuklar^^Pn
+ []
+
+
+Overfull \hbox (10.9801pt too wide) in paragraph at lines 75--80
+\OT1/cmr/m/n/12 do^^Ugrultuda ayarlanm^^P^^Xst^^Pr. b)Yapay Zeka Destekli []O^^
+Ugrenme Oyun-lar^^P ve []O^^Ugrenci
+ []
+
+
+Overfull \hbox (0.43994pt too wide) in paragraph at lines 75--80
+\OT1/cmr/m/n/12 ^^?o^^Ugrenci mo-ti-vasy-onunu art^^Prmadaki etk-isini ara^^Xst
+^^Prmaktad^^Pr. RL, ^^?o^^Ugrencilerin
+ []
+
+
+Overfull \hbox (5.69267pt too wide) in paragraph at lines 75--80
+\OT1/cmr/m/n/12 in-san^^?ust^^?u per-for-mans elde et-meyi ba^^Xsarm^^P^^Xst^^P
+r. Bu ^^Xcal^^P^^Xsma, DPO'nun karma^^Xs^^Pk
+ []
+
+
+Overfull \hbox (15.56662pt too wide) in paragraph at lines 75--80
+\OT1/cmr/m/n/12 labirentte daha h^^Pzl^^P ve daha ver-imli bir ^^Xsekilde gez-i
+n-me-sine imkan sa^^Uglamaktad^^Pr
+ []
+
+[5
+
+] [6]
+<atarioyun.png, id=28, 251.7405pt x 214.401pt>
+File: atarioyun.png Graphic file (type png)
+<use atarioyun.png>
+Package pdftex.def Info: atarioyun.png  used on input line 86.
+(pdftex.def)             Requested size: 167.04424pt x 142.26378pt.
+<robotoyun.png, id=29, 231.86626pt x 145.14224pt>
+File: robotoyun.png Graphic file (type png)
+<use robotoyun.png>
+Package pdftex.def Info: robotoyun.png  used on input line 92.
+(pdftex.def)             Requested size: 227.26982pt x 142.26378pt.
+<dota2.png, id=30, 504.08325pt x 163.20975pt>
+File: dota2.png Graphic file (type png)
+<use dota2.png>
+Package pdftex.def Info: dota2.png  used on input line 97.
+(pdftex.def)             Requested size: 439.40266pt x 142.26378pt.
+
+
+LaTeX Warning: Float too large for page by 113.99127pt on input line 102.
+
+[7 <./atarioyun.png> <./robotoyun.png> <./dota2.png>] [8
+
+
+]
+<manhattan.png, id=41, 803.0pt x 679.53876pt>
+File: manhattan.png Graphic file (type png)
+<use manhattan.png>
+Package pdftex.def Info: manhattan.png  used on input line 118.
+(pdftex.def)             Requested size: 168.10811pt x 142.26378pt.
+ [9
+
+ <./manhattan.png>]
+<son.png, id=46, 443.256pt x 448.67625pt>
+File: son.png Graphic file (type png)
+<use son.png>
+Package pdftex.def Info: son.png  used on input line 133.
+(pdftex.def)             Requested size: 140.53944pt x 142.26378pt.
+[10
+
+
+ <./son.png>]
+Overfull \hbox (14.25693pt too wide) in paragraph at lines 142--144
+\OT1/cmr/m/n/12 ge^^Xcerek deney-im-ler-den ^^?o^^Ugrenmesini sa^^Uglayan bir ^
+^?o^^Ugrenme paradig-mas^^Pd^^Pr.RL'nin
+ []
+
+<photo1-.png, id=51, 485.56406pt x 344.78813pt>
+File: photo1-.png Graphic file (type png)
+<use photo1-.png>
+Package pdftex.def Info: photo1-.png  used on input line 147.
+(pdftex.def)             Requested size: 200.3495pt x 142.26378pt.
+(./Article.bbl [11
+
+ <./photo1-.png>])
+(c:/texlive/2023/texmf-dist/tex/latex/tools/.tex File ignored) [12]
+(./Article.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4107 strings out of 474116
+ 68286 string characters out of 5747718
+ 1937190 words of memory out of 5000000
+ 26424 multiletter control sequences out of 15000+600000
+ 561483 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,79p,2142b,329s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dis
+t/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on Article.pdf (12 pages, 633248 bytes).
+PDF statistics:
+ 80 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

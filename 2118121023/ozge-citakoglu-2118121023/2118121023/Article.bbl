@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{gullu2017labirentlerde}
+A.~G{\"u}ll{\"u}, ``Labirentlerde yapay zeka tabanl{\i} y{\"o}n bulma
+  algoritmalar{\i} kulllanan bir gezgin robot geli{\c{s}}tirilmesi,'' Master's
+  thesis, Trakya {\"U}niversitesi Fen Bilimleri Enstit{\"u}s{\"u}, 2017.
+
+\bibitem{boluk2019mobil}
+N.~B{\"o}l{\"u}k, {\"O}.~U{\c{c}}ar, and A.~B. {\.I}nner, ``Mobil robotlarda
+  navigasyon problemi i{\c{c}}in peki{\c{s}}tirmeli {\"o}{\u{g}}renme,'' {\em
+  T{\"u}rkiye Robotbilim Konferans{\i}}, pp.~40--44, 2019.
+
+\bibitem{kavasougluyapay}
+{\"O}.~G. B.~R. KAVASO{\u{G}}LU, ``Yapay zeka ve g{\"o}rsel tasarim
+  uygulamalari,''
+
+\bibitem{berner2019dota}
+
+\newblock ``Dota 2 with large scale deep reinforcement learning,''
+\newblock {\em arXiv preprint arXiv:1912.06680}, 2019.
+
+\bibitem{gokcce2013implementation}
+B.~G{\"o}k{\c{c}}e and H.~L. Ak{\i}n,
+\newblock ``Implementation of Reinforcement Learning by transfering sub-goal policies in robot navigation,''
+\newblock in {\em 2013 21st Signal Processing and Communications Applications Conference (SIU)}, pp. 1--4, IEEE, 2013.
+
+\bibitem{aydin2020using}
+A.~Ayd{\i}n and E.~S{\"u}rer,
+\newblock ``Using Generative Adversarial Nets on Atari Games for Feature Extraction in Deep Reinforcement Learning,''
+\newblock in {\em 2020 28th Signal Processing and Communications Applications Conference (SIU)}, pp. 1--4, IEEE, 2020.
+
+\bibitem{openai_chatgpt}
+OpenAI,
+\newblock ``ChatGPT: reinforcement learning,''
+
+\end{thebibliography}
