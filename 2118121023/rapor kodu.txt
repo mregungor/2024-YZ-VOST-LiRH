@@ -1,0 +1,316 @@
+import pygame
+import random
+import sys
+import heapq
+import numpy as np
+
+# Ekran boyutları
+WIDTH, HEIGHT = 600, 600
+
+# Renkler
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+BLUE = (0, 0, 255)
+GREEN = (0, 128, 0)  # Yeni renk: Koyu Yeşil
+YELLOW = (255, 255, 0)  # Yeni renk: Sarı
+
+# Oyun ayarları
+FPS = 60
+PLAYER_SPEED = 5
+ENEMY_SPEED = 2  # Düşman hareket hızı
+GAME_TIME = 60  # Oyun süresi (saniye cinsinden)
+MAX_HEALTH = 5  # Maksimum can sayısı
+
+# Labirent haritaları
+MAZE_1 = [
+    "XXXXXXXXXXXXXXXXXXXX",
+    "XS                 X",
+    "X  XXXXXXXXXXXXXX  X",
+    "X            X  X  X",
+    "X  X  XXXXX  X  X  X",
+    "X  X  X       X  X X",
+    "X  X  X  XXXXXXX  X",
+    "X  X  X  X        X",
+    "X     X  X        X",
+    "XXXXXXX  XXXXXXXXXX",
+    "X        X        X",
+    "X  XXXXX    XXXX  X",
+    "X  X         X  X X",
+    "X  X  XXXXX  X  X X",
+    "X  X  X       X  X X",
+    "X  X  X  XXXXXXX  X",
+    "X  X  X          EX",
+    "X  X  XXXXXXXXXXXXX",
+    "X                  X",
+    "XXXXXXXXXXXXXXXXXXXX"
+]
+
+MAZE_2 = [
+    "XXXXXXXXXXXXXXXXXXXX",
+    "XS                  ",
+    "X  XXXXXXXXXXXX   X",
+    "X            X  X  X",
+    "X  X  XXXXX  X  X  X",
+    "X  X  X       X  X X",
+    "X  X  X  XXXXX    X",
+    "X  X  X  X        X",
+    "X     X  X        X",
+    "XXXXX      XXXXXXXX",
+    "X                 X",
+    "X  XXXXX    XXXX  X",
+    "X  X         X  X X",
+    "X  X  XXXXX  X  X X",
+    "X  X  X       X  X X",
+    "X  X  X  XXXXXXX  X",
+    "X  X  X           X",
+    "X  X  XXXXXXXXXXXXX",
+    "X                 EX",
+    "XXXXXXXXXXXXXXXXXXXX"
+]
+
+# A* Algoritması
+def heuristic(a, b):
+    return abs(a[0] - b[0]) + abs(a[1] - b[1])
+
+def astar(maze, start, end):
+    neighbors = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+    close_set = set()
+    came_from = {}
+    gscore = {start: 0}
+    fscore = {start: heuristic(start, end)}
+    oheap = []
+
+    heapq.heappush(oheap, (fscore[start], start))
+
+    while oheap:
+        current = heapq.heappop(oheap)[1]
+
+        if current == end:
+            data = []
+            while current in came_from:
+                data.append(current)
+                current = came_from[current]
+            data.append(start)
+            data.reverse()
+            return data
+
+        close_set.add(current)
+        for i, j in neighbors:
+            neighbor = current[0] + i, current[1] + j
+            tentative_g_score = gscore[current] + heuristic(current, neighbor)
+            if 0 <= neighbor[0] < len(maze):
+                if 0 <= neighbor[1] < len(maze[0]):
+                    if maze[neighbor[0]][neighbor[1]] == 'X':
+                        continue
+                else:
+                    continue
+            else:
+                continue
+
+            if neighbor in close_set and tentative_g_score >= gscore.get(neighbor, 0):
+                continue
+
+            if  tentative_g_score < gscore.get(neighbor, 0) or neighbor not in [i[1] for i in oheap]:
+                came_from[neighbor] = current
+                gscore[neighbor] = tentative_g_score
+                fscore[neighbor] = tentative_g_score + heuristic(neighbor, end)
+                heapq.heappush(oheap, (fscore[neighbor], neighbor))
+
+    return False
+
+# Oyuncu sınıfı (Q-learning)
+class QLearningPlayer(pygame.sprite.Sprite):
+    def __init__(self, maze):
+        super().__init__()
+        self.image = pygame.Surface((20, 30))
+        self.image.fill(GREEN)
+        self.rect = self.image.get_rect()
+        self.rect.topleft = (30, 30)
+        self.maze = maze
+        self.health = MAX_HEALTH
+        self.reward = 0
+
+        self.q_table = np.zeros((20, 20, 4))  # 20x20 grid, 4 actions (up, down, left, right)
+        self.alpha = 0.1
+        self.gamma = 0.9
+        self.epsilon = 0.1
+        self.actions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+        self.state = (self.rect.y // 30, self.rect.x // 30)
+        self.path = []
+
+    def update(self):
+        state = self.state
+        if random.uniform(0, 1) < self.epsilon:
+            action = random.choice(range(4))
+        else:
+            action = np.argmax(self.q_table[state[0], state[1]])
+
+        next_state = (state[0] + self.actions[action][0], state[1] + self.actions[action][1])
+        reward = self.get_reward(next_state)
+
+        self.q_table[state[0], state[1], action] = self.q_table[state[0], state[1], action] + self.alpha * (
+                reward + self.gamma * np.max(self.q_table[next_state[0], next_state[1]]) - self.q_table[state[0], state[1], action])
+
+        if self.maze[next_state[0]][next_state[1]] != 'X':
+            self.rect.x += self.actions[action][1] * 30
+            self.rect.y += self.actions[action][0] * 30
+            self.state = next_state
+
+        return reward
+
+    def get_reward(self, state):
+        if self.maze[state[0]][state[1]] == 'E':
+            return 100
+        elif self.maze[state[0]][state[1]] == 'X':
+            return -10
+        else:
+            return -1
+
+# Düşman sınıfı
+class Enemy(pygame.sprite.Sprite):
+    def __init__(self):
+        super().__init__()
+        self.image = pygame.Surface((30, 30))
+        self.image.fill(RED)
+        self.rect = self.image.get_rect()
+        self.rect.topleft = (random.randint(0, WIDTH - 30), random.randint(0, HEIGHT - 30))
+        self.direction = random.choice(["up", "down", "left", "right"])
+
+    def update(self):
+        if self.direction == "up":
+            self.rect.y -= ENEMY_SPEED
+        elif self.direction == "down":
+            self.rect.y += ENEMY_SPEED
+        elif self.direction == "left":
+            self.rect.x -= ENEMY_SPEED
+        elif self.direction == "right":
+            self.rect.x += ENEMY_SPEED
+
+        if self.rect.left < 0 or self.rect.right > WIDTH or self.rect.top < 0 or self.rect.bottom > HEIGHT:
+            self.rect.topleft = (random.randint(0, WIDTH - 30), random.randint(0, HEIGHT - 30))
+            self.direction = random.choice(["up", "down", "left", "right"])
+
+# Oyun motoru başlatma
+pygame.init()
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("Maze Game")
+clock = pygame.time.Clock()
+
+# Oyuncu ve düşman gruplarını oluşturma
+all_sprites = pygame.sprite.Group()
+players = pygame.sprite.Group()
+enemies = pygame.sprite.Group()
+
+# A* algoritması ile başlangıç ve bitiş noktalarını belirleme
+start = (1, 1)  # Labirent başlangıç noktası
+end = (16, 18)  # Labirent bitiş noktası
+path = astar(MAZE_1, start, end)
+
+# Q-learning oyuncusunu oluşturma
+player = QLearningPlayer(MAZE_1)
+all_sprites.add(player)
+players.add(player)
+
+# 5 tane düşman oluşturma
+for _ in range(5):
+    enemy = Enemy()
+    all_sprites.add(enemy)
+    enemies.add(enemy)
+
+current_maze = MAZE_1
+
+# Oyun döngüsü
+timer = FPS * GAME_TIME
+
+while True:
+    # Olayları işleme
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+            sys.exit()
+        elif event.type == pygame.KEYDOWN:
+            if event.key == pygame.K_1:
+                player.maze = MAZE_1
+                current_maze = MAZE_1
+                start = (1, 1)
+                end = (16, 18)
+                path = astar(MAZE_1, start, end)
+                player.state = start
+                player.rect.topleft = (30, 30)
+            elif event.key == pygame.K_2:
+                player.maze = MAZE_2
+                current_maze = MAZE_2
+                start = (1, 1)
+                end = (18, 19)
+                path = astar(MAZE_2, start, end)
+                player.state = start
+                player.rect.topleft = (30, 30)
+
+        # Oyun süresi kontrolü ve zamanı gösterme
+    timer -= 1
+    if timer < 0:
+        timer = 0
+        font = pygame.font.Font(None, 36)
+        text = font.render("Süre doldu!", True, RED)
+        text_rect = text.get_rect(center=(WIDTH // 2, HEIGHT // 2))
+        screen.blit(text, text_rect)
+        pygame.display.flip()
+        pygame.time.delay(2000)
+        pygame.quit()
+        sys.exit()
+
+    # Oyuncuyu güncelle
+    reward = player.update()
+    if reward == 100:
+        font = pygame.font.Font(None, 36)
+        text = font.render("Oyunu kazandınız!", True, BLUE)
+        text_rect = text.get_rect(center=(WIDTH // 2, HEIGHT // 2))
+        screen.blit(text, text_rect)
+        pygame.display.flip()
+        pygame.time.delay(2000)
+        pygame.quit()
+        sys.exit()
+
+    # Düşmanlarla çarpışma kontrolü
+    if pygame.sprite.spritecollideany(player, enemies):
+        player.reward -= 10
+
+    # Düşmanları güncelle
+    enemies.update()
+
+    # Ekranı temizle
+    screen.fill(WHITE)
+
+    # Labirenti çiz
+    for row in range(len(current_maze)):
+        for col in range(len(current_maze[row])):
+            if current_maze[row][col] == "X":
+                pygame.draw.rect(screen, BLACK, pygame.Rect(col * 30, row * 30, 30, 30))
+            elif current_maze[row][col] == "S":
+                pygame.draw.rect(screen, YELLOW, pygame.Rect(col * 30, row * 30, 30, 30))
+            elif current_maze[row][col] == "E":
+                pygame.draw.rect(screen, GREEN, pygame.Rect(col * 30, row * 30, 30, 30))
+
+    # Tüm sprite'ları çiz
+    all_sprites.draw(screen)
+
+    # Zamanı göster
+    font = pygame.font.Font(None, 36)
+    time_text = font.render(f"Süre: {timer // FPS}", True, BLUE)
+    screen.blit(time_text, (10, 10))
+
+    # Canı göster
+    health_text = font.render(f"Can: {player.health}", True, RED)
+    screen.blit(health_text, (WIDTH - 100, 10))
+
+    # Ödül puanlarını göster
+    reward_text = font.render(f"Ödül: {player.reward}", True, BLUE)
+    screen.blit(reward_text, (WIDTH // 2 - 50, 10))
+
+    # Ekranı güncelle
+    pygame.display.flip()
+
+    # FPS'i sınırlama
+    clock.tick(FPS)
+
